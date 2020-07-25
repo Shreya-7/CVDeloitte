@@ -1,0 +1,41 @@
+{% extends "base_with_header.html" %}
+
+{% block body %}
+<h4>Showing history.. </h4>
+{% if (details.past is defined) and details.past %}
+<div class="table-responsive table-hover table-striped table-bordered">
+    <table class="table">
+        <caption>
+            List of 
+            {% if details.type=="Employer" %}
+                resumes
+            {% else %}
+                jobs
+            {% endif %}
+        </caption>
+        <thead class="thead-dark">
+            <tr><th scope="col">
+                {% if details.type=="Employer" %}
+                    Resumes
+                {% else %}
+                    Jobs
+                {% endif %}
+            </th></tr>
+        </thead>
+        <tbody>
+            {% for f in details.past %}
+                {% for x,y in f.items() %}
+                    <tr><td><a href="{{url_for('getresults', filename=x)}}">{{x}}</a></td></tr>
+                {% endfor %}
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+{% else %}
+
+<p> There have been no uploads yet. </p>
+
+{% endif %}
+
+{% endblock %}

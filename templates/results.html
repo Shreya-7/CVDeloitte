@@ -1,0 +1,67 @@
+{% extends "base_with_header.html" %}
+{% block body %}
+
+<h4>Showing results for {{details["current_file"]}}</h4>
+<div class="table-responsive table-hover table-striped table-bordered">
+    <table class="table">
+        <tbody>
+            {% for k,v in json.items() %}
+                <tr>
+                    <td>
+                        {{k|upper}}
+                    </td>
+                    <td>
+                        {% for i in v %}
+                            {{i|capitalize}}
+                            {% if not loop.last %}
+                                ,
+                            {% endif %}
+                        {% endfor %}
+                    </td>
+                </tr>               
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+<div class="table-responsive table-hover table-striped table-bordered">
+    <table class="table">
+        <caption>
+            List of 
+            {% if details.type=="Employer" %}
+                resumes
+            {% else %}
+                jobs
+            {% endif %}
+        </caption>
+        <thead class="thead-dark">
+            <tr><th scope="col">
+                {% if details.type=="Employer" %}
+                    Resumes
+                {% else %}
+                    Jobs
+                {% endif %}
+            </th></tr>
+        </thead>
+        <tbody>
+            {% for f in details.past %}
+                {% for k,v in f.items() %}
+                    {% if(k==details["current_file"]) %}
+                        {% if (v is defined) and v %}
+                            {% for x in v %}
+                                <tr><td>
+                                    <a href="{{ url_for('download', filename=x) }}" target="blank">{{x}}</a>
+                                </td></tr>
+                            {% endfor %}
+                        {% else %}
+                                There have been no matches. 
+                        {% endif %}
+                    {% endif %}
+                {% endfor %}                
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+{% endblock %}
+
+

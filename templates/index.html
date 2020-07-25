@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+
+{% block links %}
+    <link rel="stylesheet" href="static/forms.css">
+{% endblock %}
+
+{% block title %}
+Welcome!
+{% endblock %}
+
+{% block body %}
+
+<div id="login-box">
+    <div class="left">
+        <h1>Sign Up</h1>
+
+        <form action="{{ url_for('signup')}}" method="POST">
+            <div class="options" style="margin-bottom: 20px">
+                <input type="radio" name="person_type" value="aspirant" id="aspirant" onclick="form_element()"> Aspirant
+                <input type="radio" name="person_type" value="employer" id="employer" onclick="form_element()"> Employer
+            </div>            
+    
+            <input type="text" name="username" placeholder="Username" required/>
+            <input type="text" name="email" placeholder="E-mail" required/>
+            <input type="text" name="org" placeholder="" required id="org"/>
+            <input type="password" name="password" placeholder="Password" required/>
+            
+            <input type="submit" name="signup_submit" value="Sign me up" />
+        </form>
+        
+    </div>
+    
+    <div class="right">
+        <h1>Sign In</h1>
+        
+        <form action="{{ url_for('login')}}" method="POST">
+            <input type="text" name="email" placeholder="E-mail" required />
+            <input type="password" name="password" placeholder="Password" required />
+    
+            <input type="submit" name="login_submit" value="Submit" />
+        </form>
+        <div class="message">
+            <h2>{{message}}</h2>
+        </div>
+        
+    </div>
+    <div class="or">OR</div>
+  </div>
+
+{% endblock %}

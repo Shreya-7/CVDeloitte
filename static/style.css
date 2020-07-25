@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,500);
+
+body 
+{
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    background: #DDD;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+a, a:hover, a:focus
+{
+    text-decoration: none;
+    color: #222;
+}
+
+.header
+{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #16a085;
+    padding: 20px;
+}
+
+h4, p
+{
+    margin: 20px;
+    padding: 5px;
+}

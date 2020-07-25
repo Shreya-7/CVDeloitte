@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link rel="stylesheet" href="static/style.css">
+        {% block links %}
+        {% endblock %}
+        <title>
+            {% block title %}
+            {% endblock %}
+        </title>
+    </head>
+    <body>
+        <div class="container">
+            <div class="header row">
+                <div class="heading col-lg-8 col-sm-12">
+                    <h1><a href="{{url_for('home')}}">CV Selector</h1></a>
+                </div>
+                <div class="details col-lg-4 col-sm-12">
+                    <table>
+                        <tr><td><b>{{details.name}}</b></td></tr>
+                        <tr><td><b>{{details.email}}</b></td></tr>
+                        <tr><td><b>{{details.type}} at {{details.org}}</b></td></tr>
+                        <tr><td><a href="{{url_for('history')}}">Show History</a></td></tr>
+                        <tr><td><a href="{{url_for('logout')}}">Log Out</a></td></tr>
+                    </table>              
+                </div>
+            </div>
+            {% block body %}
+            {% endblock %}
+        </div>        
+    </body>
+    <script src="static/script.js"></script>
+</html>

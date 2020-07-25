@@ -1,0 +1,81 @@
+
+#FileUpload 
+{
+    display: flex;
+    justify-content: center;
+}
+.wrapper 
+{
+    margin: 30px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+    width: 415px;
+}
+  
+
+.upload 
+{
+    margin: 10px;
+    height: 85px;
+    border: 8px dashed #e6f5e9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+.upload p 
+{
+    margin-top: 12px;
+    line-height: 0;
+    font-size: 22px;
+    color: #16a085;
+    letter-spacing: 1.5px;
+}
+.upload__button 
+{
+    background-color: #e6f5e9;
+    border-radius: 10px;
+    padding: 0px 8px 0px 10px;
+}
+.upload__button:hover 
+{
+    cursor: pointer;
+    opacity: 0.8;
+}
+  
+.uploaded 
+{
+    width: 375px;
+    height: 100px;
+    margin: 10px;
+    background-color: #e6f5e9;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.file 
+{
+    display: flex;
+    flex-direction: column;
+}
+  
+.file__name 
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 300px;
+    line-height: 0;
+    color: #16a085;
+    font-size: 18px;
+    letter-spacing: 1.5px;
+}
+.fa-file-pdf 
+{
+    padding: 15px;
+    font-size: 40px;
+    color: #16a085;
+}

@@ -1,16 +1,16 @@
-{% extends "base_with_header.html" %}
+{% extends "base_header.html" %}
 {% block body %}
 
-<h4>Showing results for {{details["current_file"]}}</h4>
-<div class="table-responsive table-hover table-striped table-bordered">
+<h4>Showing results for {{current}}</h4>
+<div class="table-responsive table-hover table-striped table-bordered" style="background-color: white">
     <table class="table">
         <tbody>
             {% for k,v in json.items() %}
                 <tr>
-                    <td>
-                        {{k|upper}}
+                    <td style="color: #44BCDD">
+                        <b>{{k|upper}}</b>
                     </td>
-                    <td>
+                    <td style="color: black">
                         {% for i in v %}
                             {{i|capitalize}}
                             {% if not loop.last %}
@@ -23,9 +23,9 @@
         </tbody>
     </table>
 </div>
-<div class="table-responsive table-hover table-striped table-bordered">
+<div class="table-responsive table-hover table-striped table-bordered" style="background-color: white">
     <table class="table">
-        <caption>
+        <caption style="color:#44BCDD">
             List of 
             {% if details.type=="Employer" %}
                 resumes
@@ -33,30 +33,19 @@
                 jobs
             {% endif %}
         </caption>
-        <thead class="thead-dark">
-            <tr><th scope="col">
-                {% if details.type=="Employer" %}
-                    Resumes
-                {% else %}
-                    Jobs
-                {% endif %}
-            </th></tr>
-        </thead>
         <tbody>
-            {% for f in details.past %}
-                {% for k,v in f.items() %}
-                    {% if(k==details["current_file"]) %}
-                        {% if (v is defined) and v %}
-                            {% for x in v %}
+            {% for k,v in details.filenames.items() %}
+                    {% if(k==current) %}
+                        {% if (v.results is defined) and v.results %}
+                            {% for x in v.results %}
                                 <tr><td>
-                                    <a href="{{ url_for('download', filename=x) }}" target="blank">{{x}}</a>
+                                    <a href="{{ url_for('download', filename=x) }}" target="blank" style="color: black">{{x}}</a>
                                 </td></tr>
                             {% endfor %}
                         {% else %}
                                 There have been no matches. 
                         {% endif %}
-                    {% endif %}
-                {% endfor %}                
+                    {% endif %}              
             {% endfor %}
         </tbody>
     </table>

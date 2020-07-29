@@ -1,7 +1,8 @@
-{% extends "base_with_header.html" %}
+{% extends "base_header.html" %}
 
 {% block body %}
 
     <h1>{{message}}</h1>
+    <a href="{{url_for('home')}}"><h4>Click to return to Home</h4></a>
 
 {% endblock %}

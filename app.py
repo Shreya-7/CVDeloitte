@@ -1,59 +1,65 @@
-#for testing
-
-from flask import Flask, render_template, request, session, redirect, url_for, flash, send_from_directory
+from flask import Flask, render_template, request, session, redirect, url_for, flash, send_from_directory, jsonify
+from pymongo import MongoClient
+from bson.json_util import loads, dumps
+from bson import ObjectId
 import os
 import time
 import json
 
-app=Flask(__name__,static_url_path='/static')
+app=Flask(__name__, static_url_path='/static')
 app.secret_key = "lol"
 app.config["UPLOAD_FOLDER"] = "./files"
 app.config['MAX_CONTENT_LENGTH'] = 4*1024*1024
-
-info = {} #database
-people = {} #only for login ease
-id = 1 # ID counter
+client = MongoClient(os.getenv("DELOITTE_DB"))
+user = client["users"]["user_details"]
 
 @app.route("/")
 def index():
     return render_template("index.html")
 
-@app.route("/signup", methods=["POST"])
+@app.route("/signup", methods=["GET", "POST"])
 def signup():
-    global id
-    cred = {}
-    cred["id"] = id
-    cred["name"] = request.form.get("username")
-    cred["email"] = request.form.get("email")
-    cred["password"] = request.form.get("password")
-    cred["type"] = request.form["person_type"].title()
-    cred["org"] = request.form.get("org")
-    cred["past"] = []
-    cred["current_file"] = ""
+    if(request.method=="GET"):
+        return render_template("error.html", message = "Invalid request.")
+    person = user.find_one({"email": request.form.get("email")})
+    if(person!=None):
+        message = "User already registered. Please log in."
+        return render_template("index.html", message = message)   
 
-    #creating folders using ID to store associated files
-    folderpath = os.path.join(app.config["UPLOAD_FOLDER"], str(id))
-    if(str(id) not in os.listdir(app.config["UPLOAD_FOLDER"])):
+    cred = {
+        "name": request.form.get("username"),
+        "email": request.form.get("email"),
+        "password": request.form.get("password"),
+        "type": request.form["person_type"].title(),
+        "organisation": request.form.get("org"),
+        "filenames": {}
+    }
+
+    #creating folders using email to store associated files
+    folderpath = os.path.join(app.config["UPLOAD_FOLDER"], cred["email"])
+    if(str(cred["email"]) not in os.listdir(app.config["UPLOAD_FOLDER"])):
         os.mkdir(folderpath)
 
-    info[id] = cred
-    people[cred["email"]] = cred["password"]
-    id+=1
+    user.insert_one(cred)
+    #logging in
+    cred.pop('_id')
+    session["person"] = cred
+    return redirect("/home")
 
-    return render_template("index.html", message = "Successfully registered! Please log in.")
-
-@app.route("/login", methods=["POST"])
+@app.route("/login", methods=["GET", "POST"])
 def login():
+    if(request.method=="GET"):
+        return render_template("error.html", message = "Invalid request.")
     email = request.form.get("email")
     password = request.form.get("password")
     message = ""
-    if(email in people.keys()):
+    person = user.find_one({"email": email})
+    
+    if(person!=None):
         #login logic
-        if(password==people[email]):
-            #finding "person" using email to load details into session
-            for x in info.values():
-                if(x["email"]==email):
-                    session["person"] = x
+        if(password==person["password"]):
+            person.pop('_id')
+            session["person"] = person
             return redirect("/home")
         else:
             message = "Incorrect password."
@@ -64,22 +70,29 @@ def login():
 
 @app.route("/home")
 def home():    
+    if("person" not in session.keys()):
+        return redirect("/")
     return render_template("home.html", details = session["person"])
 
 #after submitting a file for upload
-@app.route("/upload", methods=["POST"])
+@app.route("/upload", methods=["GET", "POST"])
 def upload():
+    if request.method == "GET":
+        return render_template("error.html", message = "Invalid request.")
     if request.method == 'POST':
         f = request.files['file']
-        f.save(os.path.join(app.config['UPLOAD_FOLDER'],str(session["person"]["id"]),f.filename))
+        f.save(os.path.join(app.config['UPLOAD_FOLDER'],str(session["person"]["email"]),f.filename))
         
-        #updating "database" and session variables
-        info[session["person"]["id"]]["past"].append({f.filename: ["gfg.py"]})
-        info[session["person"]["id"]]["current_file"]  = f.filename
-        session["person"]["past"].append({f.filename: []})
-        #TBD: either move result files in the directory or add in path
+        session["current_file"] = f.filename
+
+        #save to document - filename and json filename
+        temp, extension = os.path.splitext(f.filename)
+        jsonfile = temp+".json"
+        user.update_one({"email": session["person"]["email"]}, {"$set": { "filenames."+temp: {"extension": extension,"json": jsonfile, "processed": 0, "results": ["gfg.py"]}}})
+        #TBD: "jsonify" the file and save in filesystem
         #show results after processing
-        return redirect("/getresults/" + f.filename)       
+        #return redirect("/getresults/" + f.filename)       
+        return redirect("/" + f.filename) 
 
 #for exceeding file size
 @app.errorhandler(413)
@@ -88,24 +101,41 @@ def error413(e):
     return render_template("error.html", message="The file could not be uploaded.")
 
 #show results after processing for passed filename
-#TBD: add processing logic file
-@app.route("/getresults/<filename>")
+@app.route("/<filename>")
 def getresults(filename):
-    input_file = session["person"]["current_file"]
-    
-    info[session["person"]["id"]]["current_file"] = filename
 
-    #.json filename is "filename".json
-    temp, extension = os.path.splitext(filename)
+    if("person" not in session.keys()):
+        return redirect("/")
+
+    obj = user.find_one({"email": session["person"]["email"]}, {"filenames": 1})
+    if(filename not in obj["filenames"].keys()):
+        return render_template("error.html", message = "Invalid filename.")
+
+    temp = filename
+    #extension = user.find_one({"email": session["person"]["email"]}, {"filenames."+temp+".extension": 1})
+    extension = obj["filenames"][temp]["extension"]
+    filename = temp+extension
+    #if not os.path.exists(os.path.join(app.config['UPLOAD_FOLDER'],str(session["person"]["email"]), filename)):
+        
+    x = user.find_one({"email": session["person"]["email"]}, {"filenames."+temp+".processed": 1})
+
+    if(x==0):
+        something = "something"
+        #TBD: processing logic, store filenames in document, store files in folder, set processed to 1
+    
     jsonfile = temp+".json"
-    #TBD: "jsonify" the file and save in the same folder
-    filepath = os.path.join(app.config['UPLOAD_FOLDER'],str(session["person"]["id"]), jsonfile)
+    
+    filepath = os.path.join(app.config['UPLOAD_FOLDER'],str(session["person"]["email"]), jsonfile)
     jsontext = json.load(open(filepath, "r"))
 
-    return render_template("results.html", details = info[session["person"]["id"]], json = jsontext) 
+    details = user.find_one({"email": session["person"]["email"]})
+
+    return render_template("results.html", details = details, json = jsontext, current=temp) 
 
 @app.route("/logout")
 def logout():
+    if("person" not in session.keys()):
+        return redirect("/")
     session.pop("person", None)
     #go back to main login/signup screen
     return render_template("index.html")
@@ -113,11 +143,12 @@ def logout():
 #show usage history of user with clickable links
 @app.route("/history")
 def history():
-    return render_template("history.html", details = info[session["person"]["id"]])
+    details = user.find_one({"email": session["person"]["email"]})
+    return render_template("history.html", details = details)
 
 @app.route("/download/<filename>")
 def download(filename):
-    return send_from_directory(os.path.join(app.config["UPLOAD_FOLDER"], str(id)), filename)
+    return send_from_directory(os.path.join(app.config["UPLOAD_FOLDER"], session["person"]["email"]), filename)
 
 
 

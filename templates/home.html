@@ -1,28 +1,41 @@
-{% extends "base_with_header.html" %}
+{% extends "base_header.html" %}
 
 {% block links %}
 <link rel="stylesheet" href="/static/upload.css">
 {% endblock %}
 
 {% block body %}
-<div id="FileUpload">
-    <div class="wrapper">
-      <div class="upload">
-        <form action = "{{url_for('upload')}}" method = "POST" enctype = "multipart/form-data">
-            <div class="custom-file">
-                <input type="file" name="file" class="custom-file-input" id="customFile" onchange="this.form.submit()">
-                <label class="custom-file-label" for="customFile">Choose file</label>
+<div class="col-lg-6 col-sm-12">
+    <div>
+        <h2 class="slogan">Welcome to Jobigram</h2>
+        <div class="details col-lg-4 col-sm-12">
+            <table>
+                <tr><td><i class="fa fa-home fa-fw" aria-hidden="true"></i><b>{{details.name}}</b></td></tr>
+                <tr><td><b>{{details.email}}</b></td></tr>
+                <tr><td><i class="fa fa-pencil fa-fw" aria-hidden="true"></i><b>{{details.type}} at {{details.organisation}}</b></td></tr>
+            </table>              
+        </div>	
+    </div>
+</div>
+<div class="col-lg-6 col-sm-12">                   	
+    <div id="FileUpload" class="align-center">
+        <div class="wrapper">
+          <div class="upload">
+            <form action = "{{url_for('upload')}}" method = "POST" enctype = "multipart/form-data">
+                <div class="custom-file">
+                    <input type="file" name="file" class="custom-file-input" id="customFile" onchange="this.form.submit()">
+                </div>
+            </form>
+          </div>
+          <div class="uploaded">
+            <div class="file">
+              <div class="file__name">
+                
+              </div>
             </div>
-        </form>
-      </div>
-      <div class="uploaded">
-        <div class="file">
-          <div class="file__name">
-            
           </div>
         </div>
       </div>
-    </div>
-  </div>
+</div>
 
 {% endblock %}

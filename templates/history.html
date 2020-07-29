@@ -1,11 +1,11 @@
-{% extends "base_with_header.html" %}
+{% extends "base_header.html" %}
 
 {% block body %}
 <h4>Showing history.. </h4>
-{% if (details.past is defined) and details.past %}
-<div class="table-responsive table-hover table-striped table-bordered">
+{% if (details.filenames is defined) and details.filenames %}
+<div class="table-responsive table-hover table-striped table-bordered" style="background-color: white">
     <table class="table">
-        <caption>
+        <caption style="color:black">
             List of 
             {% if details.type=="Employer" %}
                 resumes
@@ -13,20 +13,11 @@
                 jobs
             {% endif %}
         </caption>
-        <thead class="thead-dark">
-            <tr><th scope="col">
-                {% if details.type=="Employer" %}
-                    Resumes
-                {% else %}
-                    Jobs
-                {% endif %}
-            </th></tr>
-        </thead>
         <tbody>
-            {% for f in details.past %}
-                {% for x,y in f.items() %}
-                    <tr><td><a href="{{url_for('getresults', filename=x)}}">{{x}}</a></td></tr>
-                {% endfor %}
+            {% for f, g in details.filenames.items() %}
+                
+                    <tr><td><a href="{{url_for('getresults', filename=f)}}">{{f}}</a></td></tr>
+               
             {% endfor %}
         </tbody>
     </table>

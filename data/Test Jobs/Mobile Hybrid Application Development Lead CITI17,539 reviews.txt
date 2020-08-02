@@ -1,0 +1,56 @@
+Mobile Hybrid Application Development Lead
+OOP
+Analysis Skills
+React Native
+JavaScript
+Cordova
+REST
+Node.js
+React
+Agile
+.Net
+Java
+iOS
+A hybrid mobile tech lead is an expert in building multi-channel / multi-platform Mobile and Tablet applications using Mobile application development frameworks such as React Native, Flutter, Kony etc.
+The successful candidate is expected to be hands-on with Hybrid mobile application frameworks such as Cordova or React Native or Flutter, and will be responsible for success and timely delivery of software components and solutions.
+The appropriate candidate will clearly demonstrate his ability to improve Continuous integration and provide process improvement areas.
+The Role also includes
+Design, development, testing and implementation of software solutions designed for mobile devices.
+Scope for influencing design and architecture.
+Liaise with multiple technology teams, operations and product contacts of varying degrees of seniority to facilitate project delivery.
+Providing second line production support including root cause analysis for the developed software solutions.
+UI Framework development
+Technical / Functional Proficiency:
+Strong interpersonal skills.
+Experience in Banking and Financial Domain
+Experience in Agile frameworks/ projects
+Experience with Hybrid & Native mobile application development
+Strong Object-Oriented design and development experience with JavaScript (ES5 & ES6), Swift / Objective-C
+Strong design and development experience in building Restful endpoints (.Net /Java or NodeJS)
+Strong experience with Phonegap/React Native and writing new plugins for the same.
+In-Depth understanding of Android and iOS operating systems.
+String understanding and hands-on experience with Jasmine, Karma, Protractor
+Good Analytical skills
+Experience with computer Cryptography/security; e.g. SSH, SSL and Certificate management
+Strong interpersonal skills.
+Experience in Banking and Financial Domain
+Experience in Agile frameworks/ projects
+Experience with Hybrid & Native mobile application development
+Strong Object-Oriented design and development experience with JavaScript (ES5 & ES6), Swift / Objective-C
+Strong design and development experience in building Restful endpoints (.Net /Java or NodeJS)
+Strong experience with Phonegap/React Native and writing new plugins for the same.
+In-Depth understanding of Android and iOS operating systems.
+String understanding and hands-on experience with Jasmine, Karma, Protractor
+Good Analytical skills
+Experience with computer Cryptography/security; e.g. SSH, SSL and Certificate management
+-
+Grade :All Job Level - All Job FunctionsAll Job Level - All Job Functions - IN
+-
+Time Type :
+-
+Citi is an equal opportunity and affirmative action employer.
+Minority/Female/Veteran/Individuals with Disabilities/Sexual Orientation/Gender Identity.
+Citigroup Inc. and its subsidiaries ("Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity .
+To view the "EEO is the Law" poster . To view the EEO is the Law Supplement .
+To view the EEO Policy Statement .
+To view the Pay Transparency Posting .

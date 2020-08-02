@@ -1,0 +1,21 @@
+HARDWARE DESIGN ENGINEERS
+Experience in Designing Hardware for FPGA, CPLD, Controller, DSP and their Interface with external devices for military applications also should have good knowledge on Analog and digital Designs.
+Hands on experience on PCB /Unit level Testing.
+Ability to design the hardware for BTS/ BTP Applications.
+Good knowledge on Devices like Power supplies, Relays, Filters etc.
+Should have hands on experience and ability to work individually and be a team player.
+
+Processors/Device: ARM Processor Cores in FPGA, PowerPC, AM335x, ARM Cortex, DSP (AD&TI), Virtex Series, Kintex-7, Zynq
+
+Tools: Matlab, Simulink, Xilinx ISE, Keil, Silicon Labs IDE, Embedded IDE’s, U-boot, Redboot or similar boot loaders QT, Processor based debuggers
+
+Protocol/Interface: DDR2/3, 1553B/ARINC, CAN, Rs232/422/485, SPI, I2C, PCI, PCIe, Gigabit Ethernet, EM2C Flashes
+
+Languages: VHDL, Verilog, C, C++, Embedded C
+
+Operating Systems: Windows, Linux, RT Linux, QNX, Android
+
+
+Qualification: M.Tech/B.Tech/B.E/Diploma
+
+Experience: 2+years

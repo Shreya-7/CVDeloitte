@@ -1,0 +1,15 @@
+Software Developer- Mumbai
+Relational Databases
+Agile
+Knockout
+JavaScript
+Bootstrap
+Xamarin
+HTML5
+Microsoft SQL Server
+.Net
+SQL
+Git
+iOS
+Visual Basic
+Your ResponsibilitiesWork on a project team to develop a cloud-based ERP systemParticipate in full development lifecycle - given system requirements, develop end-to-end solutions,including: design, development, testing, deployment andsupportDevelop responsive front-end interfaces, using modern web standards with a focus on usability and access from multiple platforms and devicesArchitect and develop back-end server-sidecomponents, including configuration and deployment on server platformsReview team members’ code and provide constructive feedbackGiven target dates and scope of work, ability to manage your workload to meet the goals providedAbility to break down modules to smaller workable components.Debugging & TroubleshootingOptimize and Improve existing systems through ongoing enhancement projectsSkills & ExperienceMUST HAVE- .NET & SQL experienceREQUIREDBachelor’s degree in related field such as computer science or MIS or relevant experienceAt least 2 years’ development experienceRequired Expertise with modern web development techniques & technologies: JavaScript, HTML5, CSS3, jQuery, Bootstrap, knockout.jsRequired Expertise with server-side technologies & platforms: .NET - C#, VB, Web APIRequired expertise in relational database, MSSQLRequired Expertise in Source Control, GITStrong Communication (understanding & explaining business logic and technical concepts)Flexibility and resourcefulness in design and development Experience in Agile Methodologies is plusCandidate must live in MumbaiExperience in any or all of the following is a plus: ,Reporting Tools (SQL, Telerik)XamariniOSAndroidJob Type: Full-timeSalary: ₹53,000.00 to ₹92,000.00 /yearExperience:.Net: 1 year (Preferred)SQL: 1 year (Preferred)Benefits:Health insuranceProvident fund (PF)Paid leaves / Leave encashmentCompany Cab / Shuttle serviceMeal card / Food couponsWork from homeFlexible work hoursShift allowanceIndustry:IT Operations & HelpdeskWork Remotely:Temporarily due to COVID-19

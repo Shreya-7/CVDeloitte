@@ -1,0 +1,8 @@
+Web Developer
+PHP
+WordPress
+Git
+MySQL
+HTML5
+TFS
+1. Minimum 2 years of experience in PHP 7, Laravel / Codignetor/Wordpress/ Zend, HTML, CSS, and MYSQL.2. Understanding the fully synchronous behavior of PHP.3. Familiarity with the Ecommerce and 1+ years of experience is preferred.4. Component level of testing is mandatory for this position.5. Knowledge of object-oriented PHP programming and mongo DB6. Strong knowledge of the common PHP or web server exploits and their solutions7. Creating database schemas that represent and support business processes8. Proficient understanding of code versioning tools TFS, Github.9. Implement all aspects of application design, including high-performance design, coding, caching mechanisms, security, encryption, state management, error logging, debugging, scalability, code reviews, development environment configuration, and testing.Job Types: Full-time, ContractSalary: ₹20,000.00 to ₹50,000.00 /monthExperience:total work: 2 years (Required)laravel/wordpress: 1 year (Required)Education:Bachelor's (Preferred)

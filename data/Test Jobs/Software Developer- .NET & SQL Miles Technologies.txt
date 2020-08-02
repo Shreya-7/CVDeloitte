@@ -1,0 +1,62 @@
+Software Developer- .NET & SQL
+.Net
+SQL
+Relational Databases
+Agile
+Knockout
+JavaScript
+Bootstrap
+Xamarin
+HTML5
+Microsoft SQL Server
+Git
+iOS
+Visual Basic
+Company Description
+
+Our Motto: You Request. We Respond. It Gets Done!®
+We can’t take credit for coming up with that motto ourselves. Many years ago, one of our customers used those exact words to describe what it was like working with us. It wasn’t the last time we heard that sentiment from our customers, so naturally, it became the core representation of our company.
+We work every day to uphold that value and deliver that experience to our customers.
+We passionately believe technology, when used decisively and with care, will turn your ideas and visions into tangible solutions that will help you grow your business and run it more efficiently.
+We’re also 100% fiercely dedicated to providing customers with professional, high-level service for a true return on investment.
+Our Mission:
+To provide highly customized, groundbreaking technology solutions that further our customers' business goals and objectives. To be elemental in the "Idea Cycle" – from Vision, to Design, to Development, to Implementation. To be responsive. To "Get It Done." To experience continued growth and profitability while providing rewarding and forward thinking careers.
+
+Job Description
+
+Your Responsibilities
+Work on a project team to develop a cloud-based ERP system
+Participate in full development lifecycle - given system requirements, develop end-to-end solutions,including:design, development, testing, deployment andsupport
+Develop responsive front-end interfaces, using modern web standards with a focus on usability and access from multiple platforms and devices
+Architect and develop back-end server-sidecomponents, including configuration and deployment on server platforms
+Review team members’ code and provide constructive feedback
+Given target dates and scope of work, ability to manage your workload to meet the goals provided
+Ability to break down modules to smaller workable components.
+Debugging & Troubleshooting
+Optimize and Improve existing systems through ongoing enhancement projects
+Skills & Experience
+MUST HAVE- .NET & SQL experience
+REQUIRED
+Bachelor’s degree in related field such as computer science or MIS or relevant experience
+At least 2 years’ development experience
+Required Expertise with modern web development techniques & technologies: JavaScript, HTML5, CSS3, jQuery, Bootstrap, knockout.js
+Required Expertise with server-side technologies & platforms: .NET - C#, VB, Web API
+Required expertise in relational database, MSSQL
+Required Expertise in Source Control, GIT
+Strong Communication (understanding & explaining business logic and technical concepts)
+Flexibility and resourcefulness in design and development Experience in Agile Methodologies is plus
+Candidate must live in Mumbai
+Experience in any or all of the following is a plus:,
+Reporting Tools (SQL, Telerik)
+Xamarin
+iOS
+Android
+
+Qualifications
+
+null
+
+Additional Information
+
+A Message Re Coronavirus (COVID-19): We’re Committed to Always Hiring Great People and to ensure the safety of our candidates and employees we will be conducting all interviews remotely until 5/31/20. At that time we will reevaluate the current situation and make adjustments and provide updates as needed. If you are hired during this time you will have the opportunity to work remotely until the Corona Virus restrictions are lifted and we can get you working in one of our locations. If you have any questions, don't hesitate to call us at 856-793-3873
+Learn more and apply at www.milestechnologies.com/careers

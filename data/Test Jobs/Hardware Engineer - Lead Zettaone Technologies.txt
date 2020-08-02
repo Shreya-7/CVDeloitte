@@ -1,0 +1,26 @@
+Hardware Engineer - Lead
+Conversion Optimization
+Job Overview
+Overall experience of 6 to 12 years in Design, Development, Testing of Hardware embedded products with Microcontroller, Microprocessor, FPGA and experienced to mentor 2 to 3 Hardware design engineers.
+Responsibilities and Duties
+Responsible for execution and delivery of a project as per the schedule. Guidance and mentoring of 2 to 3 hardware design engineers.
+Work with Hardware Manager to come up with Costing, Schedule, Project plan.
+Skills
+Ability to execute a specified Hardware project independently and the ability to drive Junior Engineers.
+Should have Hands on experience in working on at least 3 to 5 projects on Commercial / Industrial /Automotive domain new products design from specifications till delivery.
+Hands on experience in linear, SMPS power supply designs for new products.
+Hands on experience in schematic capture tools, PCB layout design, Signal analyzing tools, PCB board bring up activities.
+Hands on experience in Mixed signal designs / Digital designs (8, 16, 32-bit micro-controller / ARM controller design).
+Expertise in Interfacing USB, I2C, SPI, RS232, ADC, DAC, SDR, DDR, Flash Memory Technologies.
+Expertise in hardware design analysis like power calculations, worst case analysis etc.
+Hands on experience of test equipment’s like CRO, Logic analyzer etc.
+Hands on experience / Knowledge about certification /precertification compliance testing of products
+Good team player.
+Preferred Tools
+Experience in any one of the schematics and Layout Tool. Cadence Allegro OrCAD / Mentor Graphics PADS / Altium.
+Qualifications
+The candidate should have Bachelor’s degree or Master’s degree in engineering (ECE or EEE) is a must.
+Location
+Bangalore
+Build a world that inspires human connection
+Zettaone offers a dynamic and creative work environment, with compensation and benefits on par with industry standards. If you’re looking for a challenging and rewarding career, we invite you to get in touch with our Recruitment department at careers@zettaone.com.

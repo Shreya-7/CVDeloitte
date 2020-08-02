@@ -1,0 +1,15 @@
+UI Developer / Front end Developer
+SEO
+Adobe Illustrator
+JavaScript
+Adobe Photoshop
+Angular
+React
+Node.js
+HTML5
+REST
+JSON
+AJAX
+JIRA
+Git
+2-3 years of experience as a Front End Developer/ e-commerce platforms preferredSolid experience in creating wireframes, storyboards, user flows, process flows, and site maps.Proficiency in Photoshop, Illustrator, OmniGraffle, or other visual design and wire-framing tools.Excellent visual design skills with sensitivity to user-system interaction.Proficiency in HTML, CSS, and JavaScript, and ReactJs or NodeJs technology.Demonstrated knowledge of Web Services Development using REST, JSON, and XML.Basic understanding of server-side CSS pre-processing platforms, such as LESS and SASS.Proficient understanding of client-side scripting and JavaScript frameworks, including jQuery.Good understanding of advanced JavaScript libraries and frameworks, such as AngularJS.Good understanding of asynchronous request handling, partial page updates, and AJAX.Proficient understanding of cross-browser compatibility issues and ways to work around them.Experience using version control (GIT, Stash) and bug tracking (Jira) toolsGood understanding of SEO principles and ensuring that applications will adhere to them.Demonstrable UI design skills with a strong portfolio.ResponsibilitiesConceptualize original UI UX ideas that bring simplicity and user-friendliness to complex design roadblocks based on our target goals.Create and maintain digital assets, such as interface design files, wireframes, interactive mockups, and prototypes.Design, build and maintain highly reusable JavaScript, HTML, and CSS code.Understand the limitations of our tech stack and business model and provide technical advice wherever necessary.Optimize application for maximum speed and scalability.Assure that all user input is validated before submitting it to the back-end.Collaborate with other team members and stakeholders.Write functional requirement documents and guides.Ensure high-quality graphic standards and brand consistency.Establish and promote design guidelines, best practices, and standards.Stay up-to-date with the latest UI/Development trends, techniques, and technologies.Job Type: Full-timeSalary: ₹30,000.00 to ₹45,000.00 /monthExperience:Programming / HTML: 1 year (Preferred)css: 1 year (Preferred)total work: 1 year (Preferred)AngularJS: 1 year (Preferred)Licence:Magneto (Preferred)

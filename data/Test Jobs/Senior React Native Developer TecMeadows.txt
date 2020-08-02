@@ -1,0 +1,7 @@
+Senior React Native Developer
+React Native
+React
+JavaScript
+Java
+iOS
+Job DescriptionWe are looking for a React Native developer interested in building performant mobile apps on both the iOS and Android platforms. You will be responsible for architecting and building these applications, as well as coordinating with the teams responsible for other layers of the product infrastructure. Building a product is a highly collaborative effort, and as such, a strong team player with a commitment to perfection is required.ResponsibilitiesBuild pixel-perfect, buttery smooth UIs across both mobile platforms.Leverage native APIs for deep integrations with both platforms.Diagnose and fix bugs and performance bottlenecks for performance that feels native.Reach out to the open-source community to encourage and help implement mission-critical software fixes—React Native moves fast and often breaks things.Maintain code and write automated tests to ensure the product is of the highest quality.Transition existing React web apps to React Native.Job Type: Full-timeSalary: ₹15,000.00 /monthExperience:work: 1 year (Preferred)Language:Java Script (Preferred)React Native* (Preferred)

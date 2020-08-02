@@ -1,0 +1,41 @@
+Software Engineer - Embedded control Software
+Embedded Software
+System Design
+C/C++
+Agile
+Continuous Integration
+Job Requirements
+
+At Baker Hughes, we are building a Talent Community of highly talented and motivated professionals for future job roles. If you match the described job role and are as excited as we are to have you on-board in the future, please hit the apply button to be a part of our Talent Community.
+
+As a member of our talent community, you will be amongst the first to get exclusive news about Baker Hughes, various cool projects we are working on, our employee success stories and new job opportunities you may be interested in.
+
+Essential Responsibilities:
+Experienced in C language programming. Experience on C++ is desirable.
+Basic experience on FPGA design tools and methodologies.
+4+ years of embedded system design experience on hardware containing FPGAs, Microcontrollers preferably ARM cores, SDRAM, Flash and SD CARD memories.
+Strong experience on hardware interfaces like I2C, SPI, UART, LVDS, Parallel Bus Interface etc.
+Expert in breaking down problems and estimate time for development tasks.
+Strong debugging skills, hardware and software, to understand and resolve issues at module level as well as at system level.
+Skilled in providing oversight and mentoring team members.
+Demonstrates the ability to make informed technology choices after due diligence and impact assessment.
+Understands whole product, its modules and the interrelationship between them while being an expert in the assigned component or module.
+Helps in designing interfaces and information exchange between modules. Serves as subject matter expert (SME) on one or more major modules.
+Possesses advanced domain knowledge and shows great customer focus.
+Demonstrates clarity of thinking to work through limited information and vague problem definitions.
+Apply principles of SDLC and methodologies like Lean / Agile / XP, CI, Software and Product Security, Scalability, Documentation Practices, refactoring and Testing Techniques.
+Write code that meets standards and delivers desired functionality using the technology selected for the project.
+Design and develop optimized and reliable code as per the specifications
+Drives design reviews, defines hardware or software interfaces between code modules, and applies existing technology to designs.
+Expert in assessing application performance and optimizing/improving it through design and best coding practices.
+Expert in core data structures as well as algorithms and has the ability to implement them
+Drives functional design and implementation on one or more major modules.
+
+Work Experience
+
+Qualifications/Requirements:
+Bachelor’s Degree in Electronics or Electrical Electronics or Electronics and Telecommunication.
+A minimum of 6+ years of professional experience.
+Should have worked on Embedded System firmware development and testing.
+Knowledge of Hardware interface working and testing.
+Please remember that joining the Talent Community is not an application for any specific job at Baker Hughes but to have the privilege of being considered for an opportunity that suits your profile on priority.

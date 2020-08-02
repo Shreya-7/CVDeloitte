@@ -1,0 +1,14 @@
+AI & Chatbot Developer
+AI
+OOP
+Machine Learning
+Node.js
+Python
+Azure
+Natural Language Processing
+AWS
+PHP
+Git
+iOS
+JavaScript
+AI & Chabot technologies to the limits and will work with our team of talented engineers to design and build the next generation of our customer Chatbots solutions.Your role:Development focused on Chatbot & AI projects.Collaborating with cross-functional teams to define, design, and ship new ChatbotAnalyze the customer needs and design, document, test, and develop software as required to satisfy the functional and non-requirements.Provide technical expertise on aspects of the organization's IT infrastructure/software applications/ architecture/ hardware to internal customers, advise them of appropriate actions to fulfill procedural and regulatory requirements or solve immediate problems.Manages production support issues.Completes agreed to work within established estimates and communicates status and issues promptly.Your Skills and Experience:BE/ME/MTech/ degree in Computer Science, Engineering or a related subject.Proven working experience in software development (more than 3 years).Knowledge of Chabot platforms and at least 1 year of working experience in the development of Chabot or other AI, machine learning, or NLP technologies.Experience in API Management Solutions, with third-party libraries and APIs.Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies.Solid understanding of the full development lifecycle.Strong foundation in enterprise application fundamentals such as data structures and object-oriented design is critical.Technical Skills:Facebook Chatbot, Alexa, Watson, Luis, DialogflowRest services (Alamofire/Afnetworking)It will be beneficial to have experience in:Node.js, AWS Lambdas, PHP, Python and API.ai, GitCloud Platforms Amazon/AzureFrameworks for cross-platform mobile developmentiOS or Android knowledge/experienceTesting FrameworksJob Type: Full-timeSalary: ₹350,000.00 to ₹550,000.00 /yearExperience:Software Development: 1 year (Required)work: 1 year (Preferred)Chatbot Development: 2 years (Required)Education:Bachelor's (Preferred)Location:Surat, Gujarat (Preferred)Shifts:Any (Preferred)Required travel:50% (Preferred)

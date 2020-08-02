@@ -1,0 +1,50 @@
+Business Analyst - Technology Operations
+Business Analysis
+Tableau
+SQL
+Visual Basic
+Job: Technology
+Primary Location: ASEAN & South Asia-India-Bangalore
+Schedule: Full-time
+Employee Status: Permanent
+Posting Date: 06/May/2020
+Unposting Date: Ongoing
+
+About Standard Chartered
+We are a leading international bank focused on helping people and companies prosper across Asia, Africa and the Middle East.
+
+To us, good performance is about much more than turning a profit. It's about showing how you embody our valued behaviours - do the right thing, better together and never settle - as well as our brand promise, Here for good.
+
+We're committed to promoting equality in the workplace and creating an inclusive and flexible culture - one where everyone can realise their full potential and make a positive contribution to our organisation. This in turn helps us to provide better support to our broad client base.
+
+
+Purpose:
+We are currently looking for an experienced Market Risk Business Analyst to take a key role in supporting the existing Market Risk infrastructure and delivering the next generation of risk reporting and analysis tools
+The Role Responsibilities:
+In this role, you will be tasked with developing productive working relationships with Market Risk business stakeholders (e.g. Risk Managers, Market Risk Change) in London and Singapore to ensure that their business requirements are captured accurately & succinctly; also within the Bank’s IT community, to ensure close cooperation and mutual support.
+As a Business Analyst, you will:
+Translate business requirements into Functional Specifications (FSDs), ensuring that developers and testers have a precise understanding of what is to be built and delivered. Review peer FSDs to help improve quality and to share knowledge within the team.
+Work with Project Managers, ensure that questions of scope are addressed constructively and clearly with business stakeholders. Once scope boundaries have been established, ensure that any potential deviation from agreed scope is highlighted to the Project Manager in a timely manner.
+Help ensure requirements documentation and development/delivery take place within the SCB Agile manifesto framework
+In partnership with a dedicated testing team, ensure that all deliveries are fit for purpose, addressing business requirements in a timely, accurate and complete manner,
+Train and support business users through acceptance testing, release preparation, go-live and the post-implementation period of each new delivery, assuring a smooth transition into BAU.
+Ensure that knowledge is shared throughout the BA team so that team members can support each other and maintain continuity throughout the project
+Our Ideal Candidate
+Required:
+
+In-depth Market Risk knowledge covering historical simulation, VaR, ES, sensitivity analysis, stress testing and risk explain. The successful candidate will be able to demonstrate product knowledge across multiple asset classes.
+Experience in regulatory engagement, regulatory reporting and/or addressing regulatory requirements e.g. Basel III, CRD IV, BCBS directives (esp. 239 & 265), FRTB.
+A process-driven and disciplined approach working within the Bank’s governance structures and standards to produce high-quality deliverables to the agreed timetable.
+Demonstrable experience of maintaining effective working relationships with business sponsors through the negotiation of scope and competing requirements.
+Excellent verbal and written communication skills in English are essential for this role.
+Knowledge of Agile methodologies and tools (e.g. JIRA, Confluence)
+Desirable:
+
+Technical knowledge of SQL, MDX, VBA
+Technical knowledge of Tableau
+Knowledge of ActivePivot or similar BI aggregation tools
+Knowledge of Behaviour-Driven Development (BDD) testing framework
+
+Apply now to join the Bank for those with big career ambitions.
+
+To view information on our benefits including our flexible working please visit our career pages.

@@ -1,0 +1,52 @@
+Software Developer (IN-YC-FS)
+Relational Databases
+JavaScript
+PostgreSQL
+Kubernetes
+React
+Jenkins
+GraphQL
+Node.js
+Docker
+MySQL
+Agile
+iOS
+AWS
+Continuous Integration
+Date posted: May 8, 2020
+Location:
+Bengaluru, KA, IN
+Job Function: Sales & Marketing
+Job Type: Permanent
+Job Requisition ID: 3500
+Software Developer (IN-YC-FS)
+About the Unit
+There are more than 500 million smallholder farms globally. 2.5 billion people depend on Smallholder Communities for their food and livelihoods. Smallholder regions are characterized by low living standards, high rates of illiteracy and low agricultural productivity. Yara's mission is "Responsibly Feed the World and Protect the Planet". Key to achieving this is enabling thriving Smallholder Communities.
+In 2017, Yara created a new digital development unit to build solutions for smallholder farming communities. Our team is made up of designers, software engineers, data scientists, services and solution managers and product owners. Digital Farming is a strategic priority within Yara. Each year we significantly grow our global Digital Farming team and country coverage. With hubs in Europe, Latin America, Asia and North America, Yara Digital Farming is shaping the future of farming by building new digital solutions solving critical problems within agriculture.
+
+Responsibilities
+Work within a product team with a product manager, designers, and other developers to create engaging, user-centric solutions, applications and/or services that solve the needs of the smallholder farming communities around the world (farmers, offtakers, retailers, dealers, markets, and all other stakeholders within a farming community).
+Participate in the full lifecycle of a product, from early stage inception through to full market release and continuous improvement after initial launch
+Work together with field solutions team of UX professionals and Subject Matter Experts in rapidly creating solution prototypes to validate ideas collated from smallholder community personas across the globe.
+Contribute to MVPs, partial and full release products and various stages of development and release on different release trains.
+Profile
+At least two full-project experiences with mobile development in developing and deploying full-stack mobile (Android & iOS) and web solutions using Javascript tech-stack.
+Understanding of and experience coding with Javascript - from VanillaJS to libraries and frameworks (Nodejs/ReactJs/Express).
+Knowledge on design and development of performant Relational Databases (MySql/PostgreSQL) - at least two projects.
+Deployment experience in at least two projects with container tech (Docker/Kubernetes/AWS EKS) and CI/CD (CircleCi/Jenkins).
+Ability to test your code with unit, integration and E2E tests (Enzyme/Jest/cypress).
+Desired skills: Keen to use types on your javascript code (Typescript, Flow), interested in the use GraphQL on a production environment.
+Prior experience working in an agile environment following scrum methodology.
+Additional Information
+We encourage all qualified applicants from all background to apply and are committed to creating a work environment that fits gender equality and allows combining career progress with the needs of a family or other personal circumstances.
+Why us?
+Evolving tech development division of an established agricultural products and services company.
+Explore and develop digital, software, hardware products, which provide value to farmers, smallholder communities and the value chain.
+Be part of our mission to build sustainable solutions that benefit humanity and the environment.
+Full-time, permanent and freelance contract options available with competitive remuneration + benefits.
+Support for personal development, training and continuous learning.
+Commitment to using new technologies and frameworks, meetups, and knowledge sharing.
+Contact details
+Apply no later than
+
+Job Segment: Developer, Agricultural, Sustainable Agriculture, Product Manager, Programmer, Technology, Agriculture, Operations

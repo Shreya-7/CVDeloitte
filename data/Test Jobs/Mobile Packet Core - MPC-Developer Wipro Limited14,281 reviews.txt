@@ -1,0 +1,31 @@
+Mobile Packet Core - MPC-Developer
+TCP
+Job Description
+
+JD: - Packet Core Design Engineer
+
+Responsibilities: -
+
+The vEPC Engineer is mainly accountable for the timely development and delivery of complex engineering design and support deliveries, focusing mainly on the delivery of the customer on design, integration and testing activities.
+
+Technical Skills Required:
+Strong telecom fundamentals
+
+Solid understanding of Mobile Packet Core, IP and VAS networks
+
+Highly skilled in Network planning, Design and integration of Packet Core nodes.
+
+Good understanding of technical specifications (like 3GPP, LTE) relevant to CS/PS Domain.
+
+Good Knowledge of protocols like TCP/IP, PPP, AAA, OSPF, GTP & Diameter.
+
+Good knowledge in capacity dimensioning and optimization.
+
+Roles & Responibilities
+"As a Senior Developer, you are responsible for development, support, maintenance and implementation of a complex project module. You should have good experience in application of standard software development principles. You should be able to work as an independent team member, capable of applying judgment to plan and execute your tasks. You should have in-depth knowledge of at least one development technology/ programming language. You should be able to respond to technical queries / requests from team members and customers. You should be able to coach, guide and mentor junior members in the team.
+"
+
+We are an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, gender identity, sexual orientation, disability status, protected veteran status, or any other characteristic protected by law.
+Wipro does not charge any fee at any stage of the recruitment process and has not authorised agencies/partners to collect any fee for recruitment. If you encounter any suspicious mail, advertisements or persons who offer jobs at Wipro, please do let us know by contacting us on helpdesk.recruitment@wipro.com
+Mandatory Skills
+Mobile Packet Core - MPC-L3

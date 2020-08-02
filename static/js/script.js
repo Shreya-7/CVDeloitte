@@ -15,3 +15,9 @@ function form_element()
     }
 }
 
+function process_label()
+{
+    let div = document.querySelector(".processing");
+    div.innerHTML = "<b>Processing your input. Please wait for a few minutes.</b>";
+}
+

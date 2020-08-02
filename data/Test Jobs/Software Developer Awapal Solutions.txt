@@ -1,0 +1,38 @@
+Software Developer
+ERP Systems
+Analysis Skills
+.Net
+JavaScript
+Microsoft SQL Server
+HTML5
+Heads up:
+We are looking for a software developer who has in depth knowledge about the ASP.NET framework, MVC, C# , JQuery, Javascript, Basic knowledge of web services
+Analyzing and gathering requirements for the software and creating a flow for the final software output.
+Developing the web based software using computer programming languages such as ASP.net, C# and MSSQL
+Making changes to existing web applications according to the feedback received from the end users or clients. In some cases, changes are also made in order to update the application's compatibility with the latest technologies.
+Manage resulting development within agreed time frames with minimum production impact errors.
+Support and improve the efficiency of the development process. Other responsibilities may be assigned based upon business need.
+Ability to multi-task under pressure and work independently with minimal supervision.
+Should be comfortable on Web parts, workflow and Custom Development.
+Finding information about latest technologies that aid in the development of core web applications and enhance their features in the long run.
+Understanding the life cycle of software and determining any changes that may be needed as per the observations and feedback of software testing professionals.
+Requirements:
+A bachelor's degree in computer science or computer engineering along with a specialization certificate course in ASP.NET technologies is the basic requirement for this job position
+Good knowledge about HTML and XML markup languages
+Excellent debugging and troubleshooting skills while solving a problem and optimizing the overall application.
+Excellent problem solving and analytical skills while dealing with tough scenarios during coding, development and testing phas
+Designing back-end database structures for the web applications and also generating stored procedures that are complex in nature for the software's maintenance purposes
+MVC knowledge is must
+Flexible and proactive/self-motivated working style with strong personal ownership of problem resolution
+Ability to multi-task under pressure and work independently with minimal supervision.
+Advantages:
+Knowledge of Educational ERP’s, MLM Software
+Basics of CSS
+Education:
+UG: B.Tech/B.E. - Any Specialization - Computers, Electronics/Telecommunication, BCA, B.Sc (IT, CS), Diploma
+PG: MCA - Computers, M.Sc(CS/IT), M.tech, Diploma
+What we offer:
+We offer competitive remuneration and a comprehensive benefits package with the professional environment, where you can explore you skills.
+To apply, please send your CV to jobs@awapal.com with the position reference in the subject.
+Your application will be treated with confidentiality.
+Only shortlisted candidates will be contacted for an interview.

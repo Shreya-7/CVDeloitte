@@ -1,0 +1,60 @@
+Mobile Application Developer
+Agile
+.Net
+Android
+Microsoft SQL Server
+Bootstrap
+Xamarin
+JavaScript
+HTML5
+iOS
+We are seeking Mobile developers responsible for building Cloud based CRM, Taxation and Business Accounting software using jQuery/Vue.JS & SQL Server. Your primary responsibility will be to design and develop our applications, and to coordinate with the rest of the team working on different layers of the infrastructure. A commitment to collaborative problem solving, sophisticated design, and quality product is essential.
+
+Required candidates for Mobile Application development skills with minimum experience of 3-5 years
+Primary Responsibilities
+Coding, testing and debugging Mobile applications under iOS and Android
+Develop and maintain Xamarin/DevExtreme applications that can be put to use for clients, shared code libraries
+Help estimate the work effort at different levels (project, story, iteration, release)
+Deploy Mobile Applications to Apple App Store and Google Play store
+Work in an ever changing and adjustable environment putting your best foot forward, without compromising on quality Develop engaging apps to solve problems
+Technical Skills
+Proven experience in developing mobile applications using Xamarin/DevExtreme
+Hands on experience in hybrid mobile development using HTML5, JQuery mobile, bootstrap
+Strong expertise on Application Development in iOS and Android
+Experience on intermediate skills in C#, XAML
+Experience on iOS SDK and/or Android SDK
+Working knowledge of data parsing, storing and related patterns
+Good knowledge of .NET framework and C#
+Good knowledge on the usage of application frameworks and of using design patterns especially in the context of mobile applications
+Optional Functional Skills
+Preferably having exposure to Business Accounting / CRM systems
+Soft Skills
+Strong team player, excellent communication skills with proven experience to lead deliverables
+Be able to liaise with business/operational managers listening and understanding problems
+Ability to be adapt & prioritize, anticipate problems/issues & solutions
+Utmost focus on quality with knowledge of standards, legislation and best practices
+Ability to work under pressure and meet deadlines
+Expected to mentor, coach and develop junior/senior technologists to create a more matured technology team
+Pre-requisites
+Candidate should be B.Sc./M.sc./B.E./B.Tech./ MCA with good communication and positive attitude
+Experience in Agile development will be an advantage
+Typically requires 3-5 years relevant experience
+Interested candidates please send your updated resume with following details to career@relate-infotech.com.
+Salary: Salary will not be a bar for right candidate. with Mediclaim and PF
+
+Industry: IT-Software, Software Services
+
+Functional Area: IT Software – Application Programming, Maintenance
+
+Role Category: Programming & Design
+
+Role: Software Developer
+
+Keywords: Android SDK, C#, XAML, Xamarin, JQuery Mobile, Html5, .NET Framework, Bootstrap, Mobile Application Development, Design Patterns
+
+
+Desired Candidate Profile
+Education: (UG – B.Tech/B.E. – Any Specialization, B.Sc – Any Specialization
+BCA – Computers) AND (PG- M.Tech – Any Specialization
+MBA/PGDM – Any Specialization
+MCA – Computers) AND (Doctorate- Any Doctorate – Any Specialization Doctorate Not Required)

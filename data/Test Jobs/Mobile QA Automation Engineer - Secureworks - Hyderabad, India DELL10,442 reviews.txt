@@ -1,0 +1,32 @@
+Mobile QA Automation Engineer - Secureworks - Hyderabad, India
+Machine Learning
+Test Automation
+REST
+Python
+HTML5
+JIRA
+Java
+iOS
+SQL
+AWS
+Secureworks® (NASDAQ: SCWX) is a technology-driven cybersecurity leader that protects organizations in the digitally connected world. Built on proprietary technologies and world-class threat intelligence, our applications and solutions help prevent, detect, and respond to cyber threats. Red Cloak™ software brings advanced threat analytics to thousands of customers, and the Secureworks Counter Threat Platform™ processes over 300B threat events per day. We understand complex security environments and are passionate about simplifying security with Defense in Concert™ so that security becomes a business enabler. More than 4,000 customers across over 50 countries are protected by Secureworks, benefit from our network effect and are Collectively Smarter. Exponentially Safer.™ www.secureworks.com
+We enjoy competitive compensation and benefits packages, and reward and recognize our employees for exceptional results. A constant focus on continued learning and growth keeps our team members engaged and excited about “what’s next.” We offer flexible work options when available, and emphasize the importance of work-life balance. We know that when our people are rewarded, recognized, and rejuvenated, we win as a team.
+Role Overview
+We are looking for a Mobile QA Automation Engineer who will be responsible for planning, automating and implementing of tests that prove the functional and non-functional requirements of multi-platform mobile apps (iOS and Android) for next generation security analytics platform and incident response powered by AI & Machine learning, sustain & enhance automation for existing mobile application that keep the most important current and historical information about the company’s security posture at fingertips of customers using tools like Appium.
+Role Responsibilities
+Writes, executes test plans & report issues in Bug tracking system (preferably Jira, Qtest) for hybrid mobile applications that works on iOS & Android platforms.
+Contributes to test automation for web, mobile applications using Appium & RESTful web services automation using Java/Python.
+Test RESTful webservices that connects iOS/Android applications to back-end services.
+Identifies performance bottlenecks & security related issues.
+Minimum Requirements
+Minimum 3 years of experience in writing & executing test cases related to UI/UX of mobile apps.
+Minimum 2 years of experience in testing mobile applications backed integration with RESTful web services, Database/SQL etc.
+Minimum 1 years of experience in automation using Appium.
+Minimum 1 years of experience in backend RESTful services automation.
+Preferred Skills
+Familiarity with HTML 5, CSS, Java Scripts and web debugging tools
+Exposure to AWS Services
+Location
+Hyderabad, India
+Secureworks is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of any kind.Secureworks, a Dell Technologies company, is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Secureworks are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Secureworks will not tolerate discrimination or harassment based on any of these characteristics.
+LIPRIORITY

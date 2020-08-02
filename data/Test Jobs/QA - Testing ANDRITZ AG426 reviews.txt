@@ -1,0 +1,34 @@
+QA - Testing
+ANDRITZ HYDRO Pvt. Ltd.
+
+ANDRITZ is an international technology group providing plants, systems, equipment, and services for various industries. The company is one of the technology and global market leaders in the hydropower business, the pulp and paper industry, the metal working and steel industries, and in solid/liquid separation in the municipal and industrial segments.
+The listed Group is headquartered in Graz, Austria. With almost 170 years of experience, approximately 29,600 employees, and more than 280 locations in over 40 countries worldwide, ANDRITZ is a reliable and competent partner and helps its customers to achieve their corporate and sustainability goals.
+Job summary / Introduction
+
+Experience in White Box testing, Manual testing, Performance testing, Automation testing, System, Sanity, Performance, Regression, Functional, Unit Testing, Integration Testing.
+Experience of Working in Agile Methodology and Waterfall Model.
+Experience In Automated JIRA Flow to log bugs, to create test cycle and update test case execution status.
+Experience in Development of Automation Test Scripts using Protractor
+Detailed job description
+
+Must have
+Experience in White Box testing, Manual testing, Performance testing, Automation testing, System, Sanity, Performance, Regression, Functional, Unit Testing, Integration Testing.
+Experience of Working in Agile Methodology and Waterfall Model.
+Experience In Automated JIRA Flow to log bugs, to create test cycle and update test case execution status.
+Experience in Development of Automation Test Scripts using Protractor
+Good To Know
+Experience in Jasmin & Karma.
+Knowledge of QA in Web applications, mobile applications, program logic & optimization, issue identification & documentation, software development life cycle, responsive web design etc.
+Eligibility Criteria
+Bachelor's Degree (regular) in Computer Science/IT/MCA or other IT related degree.
+Minimum 4 years of relevant experience of working for an International company.
+Excellent Oral & Written communication skills.
+Communication and collaborative skills are must and should be able to engage and lead global teams.
+Candidate's profile
+Bachelor's Degree (regular) in Computer Science/IT/MCA or other IT related degree.
+Minimum 4 years of relevant experience of working for an International company.
+Excellent Oral & Written communication skills.
+Communication and collaborative skills are must and should be able to engage and lead global teams.
+Contact
+
+Sabita Kumari

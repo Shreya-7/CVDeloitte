@@ -1,0 +1,19 @@
+Hardware Engineer
+Analysis Skills
+Job Description
+
+Designs and develops electronic or electromechanical equipment or systems oriented products and prepares related installation, operation, and maintenance specifications and instructions, analyzes equipment to establish operating data and conducts experimental tests, analyzes engineering proposals and related technical data to determine feasibility of assigning new equipment or modifying existing equipment. Responsible for prototype construction and checkout, complies operational data and prepares customer application information. Responds to customer/client requests or events as they occur. Develops solutions to problems utilizing formal education and judgement.
+
+Qualifications
+
+BE/Master's degree in Electrical or Electronics and Communications Engineering.
+2 Candidate should have strong basic electronics background
+3 Should have in depth knowledge of digital design, transmission lines, microcontroller based designs, Power electronics areas.
+4 Experience of 3-15 years in board design is must
+5 Experience in High speed board design, Signal integrity and power integrity is must
+6 Hands on experience on Intel silicon, DDR, PCIE, Audio, display and camera is desired
+7 Should have worked on Power delivery subsystems
+8 Hands on experience on cadence concept sch entry tool is desired
+9 Strong analytical ability, problem solving and communication skills
+10 Ability to work both independently and in a team environment. Should have led multiple HW/board design projects.
+Inside this Business Group

@@ -1,0 +1,29 @@
+Developer Enablement
+Your role
+
+You help make it simple and powerful for developers to embed secure, performant, private networking into Internet-distributed applications.
+
+Your responsibilities
+Use NetFoundry software, SDKs and APIs to embed networking into applications. Publish your apps as open source and as NetFoundry reference applications (or submit pull requests when starting with open source apps). As you build your apps, determine what is needed to make the NetFoundry software even more simple to use, and more robust in functionality.
+Build support structures to help other developers including sandbox environments and quick start guides. As you support other developers, determine what is needed to make it simpler for those developers to meet their needs with better self-service type support and NetFoundry software improvements.
+Answer questions submitted by other developers in NetFoundry forums and third-party online forums. Ensure those answers are also added to NetFoundry support structures, while synthesizing and abstracting the questions into requirements to continually improve NetFoundry software.
+Organize developer workshops and meetups, and participate in third-party developer events, user groups and workshops, sharing your vision and expertise.
+Build relationships with NetFoundry ecosystem partners and their developer communities, and gather feedback to continually improve NetFoundry’s software.
+Create technical collateral to publish across multiple channels to inform and support developers.
+
+Valuable skills and experience
+Recent software startup experience and 3+ years of overall software dev experience
+History of open source contributions and participation
+Strong interest in new technology and a history of new technology evangelism
+Desire and aptitude to help other developers design and develop solutions
+Technical writing expertise
+Ability to think out of the box and create from scratch.
+Environment and Location
+You will be working in a fast-paced environment as part of a small, agile team. You will need to wear multiple hats including helping with developer enablement, product development and technical writing.
+
+You will have 10% to 40% work travel, depending on location. USA candidates will have the least travel.
+
+Work From Anywhere
+Competitive Salaries
+Health Benefits
+Learn and Grow

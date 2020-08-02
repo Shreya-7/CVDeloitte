@@ -1,0 +1,143 @@
+Technical Specalist- Hardware Engineer
+Project Management
+Microsoft Project
+Test Automation
+Date: 06-May-2020
+Location: Bangalore, Karnataka, IN
+Company: LTTS
+Job Biography
+Generates consulting revenue and demonstrates strong technical ownership of multiple accounts by architecting systems and providing direction
+
+Job Purpose
+The scope of the role is centred around technical ownership of projects/accounts in multiple sub-systems with focus on new concept/solution development, IP creation for non-linear growth. Responsibilities include generating consulting revenue, competency development and mentoring and act as a single point of contact for system design/architecture. Scope includes assisting in acquiring big-size projects and monetizing IPs/frameworks
+
+Education
+Diploma Engineers
+Engineering Graduate
+Preferred Education
+Masters in Engineering/M.Tech
+Experience
+> 15 years
+Certifications
+Impact and Influence
+Impact and Influence
+
+Impacts team's overall capability by adapting new technologies, tools, methods and processes from the industry and by improving skills through effective technical trainings
+Impacts project delivery by providing the right architectural/design implementation and giving future architectural/design direction
+Influences engineering teams' decision on choice of technology
+
+Principal Accountabilities (A)
+Principal Accountabilities
+Technical Management
+Innovation
+Accountable for generation of revenue by creating new IP and through existing IP
+Drives innovation by developing solutions/frameworks, producing technical papers and patents
+
+Knowledge management
+Accountable for creating SOPs/system design/architecture and specification
+Contributes to knowledge management through capturing lessons learnt and best practices
+
+Industry domain
+Responsible for analysing and adopting industry/domain trends and for contributing to relevant industry forums
+Responsible for fostering innovation-culture by sharing latest technical/industry trends with the team
+
+Competency development
+Accountable for mentoring team members for enhancement of their technical skills through development plans
+Guides team members in solving technical issues
+Responsible for recommending and contributing to COE creation as per business demand/industry trends
+
+Technology
+Accountable for possessing a strong awareness of respective domain/industry standards and to be an SME in his/her domain area
+
+Project Management
+Concept creation/evaluation
+Accountable for the creation/evaluation of relevant concepts and technology based on industry/emerging trends
+
+Solution development
+Accountable for reviewing reusable frameworks/solutions generated and suggesting improvement areas
+Responsible for initiating/creating solutions as per market trends to bridge technology gaps
+Advocates the creation of new architecture/optimal design
+
+Project contribution
+Accountable for assisting in the estimation of complex projects
+Accountable for interacting with the customers as technical expert
+Drives and mentors team for creation of IP in his/her specialization
+
+People Management
+People development and consulting
+Responsible for mentoring/guiding team on tools, standards, technology knowledge as per industry standards
+Identifies training needs and facilitates/conducts training sessions
+
+Business Management
+New business/manage business development
+Responsible to advise and support sales/project teams by providing technical insight to acquire new business areas
+
+IP based/non-linear revenue
+Contributes to commercialization of existing IP as additional revenue
+
+Consulting /technology
+Contributes towards generating consulting revenue and winning new customers/projects
+
+Project proposals
+Accountable for guiding team with complex/large project proposals providing relevant technical inputs, feasibility analysis and identification of technical risks
+
+
+Principal Accountabilities (B)
+Leadership Competencies
+Intrapreneurial Buiness management
+Influencing & Networking
+Developing Others
+Transformation Orientation
+Planning & Organising
+Customer Relationship Management
+Critical Decision Making
+Technical Focus Areas
+Responsible for Product design & Development support, prototype testing, functional testing.Excellent Knowledge on NPI & Mass production of Portable Media Players /IFE, Seat centric players / Industrial Tablets based on Intel ATOM E38xx, TI DM & OMAP, STm & Broadcom chipsets. Power management ICs (PMIC).Responsible for Hardware validation like Components (IC’s /Memories.) & Power supplies (Adapter & DC-DC Power supplies)Interacted with local & international EMC /EMI & Environmental test labs – Wipro Tarang lab, TUV, ETDC, Complus & UK Element, UK Eurofins ETC...test labs.Knowledge on Review of Boeing & Airbus wiring diagrams related to Commercial Aircraft Entertainment systems / Seatback & Streaming IFE Server, Wireless access points (WAP), Passenger Service System (PSS) & USB Charging / Power Streaming wirings.Excellent Knowledge on Component selection and Evaluation.Good knowledge on Hardware design activities like Cadence Schematic entry (ORCAD Capture), Schematic review and BOM, ECOs Generation & review.PCB reviews using Cadence Allegro PCB editor, CADSTAR design viewer, Mentor Graphics -PADS viewer & Providing inputs to the PCB design Team. PCB Gerber files review using GC Prevue.Co-ordinate for product qualification activities as per DO-160, Final product installation on European Airlines, & provided technical support after installation.Responsible for Initial board bring up, engineering proto verification and Technical report generation. Co-ordinate with contract manufacturing
+UI/UX Application(Android, QT, Python TK etc..), GUI, Engine/Middleware, Advertisement Engine, Shopping Engine.
+Media & Content Management experience must.
+Data download. Java, Angular js. Spring boot.
+
+Technical Competencies
+Debuggers
+C++
+Landing Gear Systems
+SCADE
+DOORS
+Cabin Management System
+Ada 95
+Cross Compilers
+Communication Protocols
+IDEs for Various Targets
+Test automation for s/w applications
+Electrical Power Generation & Distribution System
+Microsoft Project
+C
+MATLAB/Simulink
+MS office tools
+SysML
+Opensource requirement tool
+LDRA
+Avionic Systems
+RTRT/Vector Cast
+Skills
+LDRA
+IDEs for Various Targets
+RTRT/Vector Cast
+Cabin Management System
+SysML
+Cross Compilers
+DOORS
+SCADE
+Ada 95
+Avionic Systems
+C
+Landing Gear Systems
+Communication Protocols
+MS office tools
+Electrical Power Generation & Distribution System
+Test automation for s/w applications
+MATLAB/Simulink
+C++
+Microsoft Project
+Debuggers
+Opensource requirement tool

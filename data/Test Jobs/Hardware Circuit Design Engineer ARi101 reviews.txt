@@ -1,0 +1,30 @@
+Hardware Circuit Design Engineer
+JOB DETAILS
+Job Name:Hardware Circuit Design Engineer
+Required skills:Cadence,Circuit Design,OrCAD
+Experience:3 - 10 Years
+Location:Chennai
+Job Description:
+Role:
+ Design of analog and digital circuits for embedded systems mostly in automotive domain. To take responsibility for the design and overall quality of the hardware. Will lead a project from concept to design.
+ Documentation of design specifications and implementation details. Lead design reviews.
+ Realization of complex system requirements to provide robust and reliable hardware solutions.
+ Responsibility for the complete implementation of detailed technical items and an understanding/appreciation of system level items.
+ Global Collaboration with other team members (including both hardware and software engineers) to agree system designs, interfaces and protocols etc.
+ Development of appropriate test hardware and procedures, both informal and formal, to prove the correct operation of hardware.
+ Upholding of hardware design standards and methodologies. Ensure compliance with all relevant EMC and electrical safety standards such as IEC-60601 and RoHS
+ Upholding functional safety standards ISO-26262, ISO-61508, ISO 13849, etc...
+
+Required Qualifications
+ Working knowledge of schematic design using Orcad, Altium or other electronic CAD systems.
+ Ability to build prototype circuitry and simulate design in a circuit simulator application such as PSpice.
+ Familiar with electronics lab instruments, such as oscilloscopes, function generators, logic analyzers.
+ Excellent hands-on ability to build, debugs, and modify the system and perform system failure analysis.
+ Strong problem-solving skills, including the ability to find creative solutions to difficult problems.
+ Bachelor's degree or equivalent.
+ 8+ years with a combined level of both technical and industry knowledge.
+ Global collaboration with India team and willingness to travel.
+ Excellent and effective communication (written and verbal) skills with the ability to explain technical concepts.
+ Ability to travel to client locations to deliver professional services when needed.
+ Understanding of emerging technologies and communications protocols.
+ Excellent problem solving and analytical capabilities.

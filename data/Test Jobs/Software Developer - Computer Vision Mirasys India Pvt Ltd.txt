@@ -1,0 +1,5 @@
+Software Developer - Computer Vision
+Image Processing
+TensorFlow
+Python
+1. Hands on Coding Experience in Python Using deep learning framework Pytorch , Tensorflow, Keras , YOLO etc2. Creation of New Models , training and validation3. Image annotation and Data labeling with automated approach4. Familiarity in coding in Windows and /or linux based OS.Job Types: Full-time, InternshipExperience:Computer Vision: 1 year (Required)Python: 2 years (Required)Education:Bachelor's (Required)Work Remotely:Yes

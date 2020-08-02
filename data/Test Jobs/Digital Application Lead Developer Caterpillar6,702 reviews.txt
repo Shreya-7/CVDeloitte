@@ -1,0 +1,80 @@
+Digital Application Lead Developer
+Leadership Experience
+Project Management
+Cassandra
+Selenium
+Jenkins
+REST
+MongoDB
+Oracle
+Scala
+NoSQL
+Azure
+Agile
+Spark
+Kafka
+Redis
+MySQL
+Java
+Akka
+AWS
+Continuous Integration
+Description
+
+
+JOB PURPOSE:
+
+The Sr. Software Engineer contributes to design, development and deployment of Caterpillar’s state-of-the-art digital platform. This position will build a world class platform to host a wide range of digital applications.
+
+
+
+
+
+JOB DUTIES: Responsibilities of the incumbents are across functional lines with individuals assigned in new program development and/or maintenance of existing mobile, WEB, Cloud, server, personal computer, mainframe, and/or distributed computing systems.
+
+
+
+1. Competent to perform all programming, project management, and development assignments without close supervision; normally assigned the more complex aspects of systems work.
+2. Works directly on complex application/technical problem identification and resolution, including responding to off-shift and weekend support calls.
+3. Works independently on complex systems or infrastructure components that may be used by one or more applications or systems.
+4. Drives application development focused around delivering business valuable features
+5. Mentor and assist software engineers, providing technical assistance and direction as needed
+6. Maintains high standards of software quality within the team by establishing good practices and habits
+7. Identifies and encourage areas for growth and improvement within the team
+8. Guide the team to develop a structured application/interface code, new program documentation, operations documentation and user guides in a casual, flexible environment
+9. Communicate with end users and internal customers to help direct development, debugging, and testing of application software for accuracy, integrity, interoperability, and completeness
+10. Performs integrated testing and customer acceptance testing of components that requires careful planning and execution to ensure timely, quality results.
+11. Employee is also responsible for performing other job duties as assigned by Caterpillar management from time to time.
+
+The position manages the completion of its own work assignments and coordinates work with others. Based on past experiences and knowledge, the incumbent normally works independently with minimal management input and review of end results.
+
+Typical customers include Caterpillar customers, dealers, other external companies who purchase services offered by Caterpillar as well as internal business unit and/or service center groups. The position is challenged to quickly and correctly identify problems that may not be obvious. The incumbent solves problems by determining the best course of action, within departmental guidelines, from many existing solutions. The incumbent sets priorities and establishes a work plan in order to complete broadly defined assignments and achieve desired results. The position participates in brainstorming sessions focused on developing new approaches to meeting quality goals in the measure(s) stated.
+
+Qualifications
+Basic qualifications:
+ Position requires a four-year degree from an accredited college or university.
+ Five years or more of software development experience or at least three years of experience with master’s degree in computer science or related field.
+ Five years or more of experience in designing and developing software applications in Java or Scala or at least three years of experience in Java or Scala with master’s degree in computer science or related field.
+Top candidates will also have:
+ Proven experience in many of the following,
+o Designing, developing, deploying and maintaining software at scale.
+o Developing software applications using relational and Nosql databases.
+o Application architectural patterns, such as MVC, Microservices, Event-driven, etc.
+o Deploying software using CI/CD tools such as Jenkins, GoCD, Azure Devops etc.
+o Deploying and maintaining software using public clouds such as AWS or Azure.
+o Working within an Agile framework (ideally Scrum)
+ Strong understanding and/or experience in many of the following,
+o Batch or stream processing systems such as Apache Spark, Flink, Akka, Storm
+o Message brokers such as Kafka, Rabbitmq, AWS SQS, AWS SNS, Apache ActiveMQ, Kinesis.
+o Experience designing well-defined Restful APIs
+o Experience writing API proxies on platforms such as Apigee Edge, AWS API Gateway or Azure API Gateway
+o Hands one experience with API tools such as Swagger, Postman and Assertible
+o Test driven development and behavior driven development.
+o Hands on experience with testing tools such as Selenium and Cucumber and their integration into CI/CD pipelines.
+o Datastores such as MongoDB, Cassandra, Redis, Elasticsearch, MySQL, Oracle.
+o Debugging and maintaining software in Linux or Unix platforms.
+ Must demonstrate solid knowledge of computer science fundamentals like data structures and algorithms.
+ Ability to work under pressure and within time constraints
+ Passion for technology and an eagerness to contribute to a team-oriented environment
+ Demonstrated leadership on small to medium-scale projects impacting strategic priorities
+ Bachelor’s degree in Computer science or Electrical engineering or related field is required

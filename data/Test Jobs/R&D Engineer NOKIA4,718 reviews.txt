@@ -1,0 +1,43 @@
+R&D Engineer
+Nokia is a global leader in the technologies that connect people and things. With state-of-the-art software, hardware and services for any type of network, Nokia is uniquely positioned to help communication service providers, governments, and large enterprises deliver on the promise of 5G, the Cloud and the Internet of Things.
+Serving customers in over 100 countries, our research scientists and engineers continue to invent and accelerate new technologies that will increasingly transform the way people and things communicate and connect.
+Developers with good analysis, design and implementation skills.
+
+Skills Required:
+
+1. Strong C++ programming experience(experience in C++11/C++14 is preferred).
+
+2. Good understanding of STL, Boost is preferred. Experience in writing multithreaded code is a plus.
+
+2. Proficiency working in a Linux environment.
+
+3. Strong debugging skills. Should be proficient in using tools like gdb, strace, perf, wireshark, tcpdump
+
+4. Good understanding of protocols such as TCP/IP, DNS, TLS
+
+5. Familiarity with scripting languages like python, bash or perl is preferred.
+
+6. Good aptitude for writing unit tests.
+
+7. Good Understanding about distributed systems and algorithms, specially knowledge about distributed database is a huge plus.8. Hands on experience in Testing Automation related to continuous Integration tools like Robot, Jenkins, GIT
+
+Good to have:
+
+Knowledge of LDAP protocols, HTTP2 protocols.
+
+Past work experience on Cloud-based Product Development would be an added advantage
+
+Know-how of JIRA, Ethereal and Wireshark would be an added advantage
+
+Soft Skills:
+
+
+
+
+Self-starter able to make progress with minimal supervision
+
+Good communication skills
+
+Ability to work within a team environment
+
+Excellent documentation.

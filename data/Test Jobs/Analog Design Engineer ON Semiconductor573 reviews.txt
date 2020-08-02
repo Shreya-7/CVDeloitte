@@ -1,0 +1,30 @@
+Analog Design Engineer
+The Protection and Signal Division “PSD” at ON Semiconductor is a market leader and No. 1 in its target markets, with an exciting strategy and roadmap. A key growth-engine is the eFuse product line, which was first invented at ON. Other products range from ESD/surge protection, RF, standard and high performance transistors, and many other technologies. The business is poised for rapid growth and targeting $1B in revenue in the upcoming years.
+
+The design engineer will participate in new product design/layout activity for the exciting and fast-moving consumer, industrial and automotive markets.
+
+Job Responsibilities:
+Develop and release-to-market industry-leading analog protection products
+Take direction from lead design engineer. If needed, collaborate with marketing/applications and package specialists to define parameters of a new product
+Experience in design of one or more of the following: PLLs, SerDes modules such as driver, duty cycle corrector, receiver, equalizer, sampler etc. Experience with voltage references, LDOs and DC-DC converters
+Execute hands-on design work for sub-blocks, under the direction of a lead designer
+Estimate yields in advance of tapeouts through statistical simulations
+Contribute to high quality and thorough design reviews including a playback to marketing specs
+Work with CAD-support teams to continuously improve and optimize design flows.
+Must have worked
+Experience with modern analog design flows.
+Should have work experience in technologies – 22nm, 28nm, 45nm, 65nm etc
+Must have good communication skills and work ethic
+Qualifications
+Experience: 08 - 10 years of work experience
+Qualification: BE/BTech or ME/MTech
+
+Industry: Semiconductors /Computer Software /Computer Hardware
+
+
+Primary Location: India
+Other Locations: RO-RO-Bucharest
+Work Locations: ROBU01 ROMANIA ROZ 19 Thomas Masaryk St Bucharest 020983
+Job: Engineering
+Travel: Yes, 5 % of the Time
+Job Posting: Feb 19, 2020, 2:12:31 AM

@@ -1,0 +1,36 @@
+Hard Computer Science Problems – Empathetic Polyglots
+Machine Learning
+SQL
+Over 1000+ business rules and multiple processes spanning multiple geographies, Ianguages, and product categories. The automation system , running on over 20 virtual machines (VMs) increased daily throughput by 8x, managing $50M USD of EBITDA on daily basis.
+
+Understanding a client’s business and transforming it into an accurate and reliable automation system takes serious talent. That’s why this team is led by graduates of Harvard, MIT, Carnegie Mellon, UCSD, Dartmouth, Duke, the IITs.
+Experience
+
+0-5 Yrs of Experience
+Qualification
+
+You will solve problems across a variety of areas of computer science:
+
+Working on Machine Learning and Computer Vision, get automation systems to observe and learn from people in the enterprise, so that they improve with time and practice.
+Building highly available real time and large-scale event processing pipelines
+Designing systems which scale seamlessly according to demand
+Build a proprietary cloud-enabled automation platform to support effortless scaling vertically and horizontally, and architected to work across platform
+Handling mutable shared state, with low latency update requirements, across a variety of SQL and NoSQL database platforms
+
+Responsibilities
+
+What We Look For
+
+Passion to Build products, systems and tools to handle business requirements that scale over millions of users, their transactions and secure data.
+Solid CS fundamentals. Ability to pick up new technologies quickly
+Experience working on, and deploying, large-scale systems in Python, Go, Elixir/Erlang, or other similar languages.
+You have experience shipping quality code, releasing early, and iterating rapidly.
+Experience debugging a live production system.
+
+***Very strong technical team with a high bar for entry***
+
+Write to deepa.m@careerxperts.com to get connected!
+
+Job Location
+
+Bengaluru

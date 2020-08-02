@@ -1,0 +1,10 @@
+Mobile Application Developer
+JavaScript
+REST
+React
+JSON
+Java
+iOS
+Git
+.Net
+We are looking for a strong mobile app developer who welcomes both engineering and maintenance tasks. The primary focus will be to implement new user interfaces and features together with automated unit and integration tests.You will be working with our candid and collaborative team, where your knowledge and advice about application architecture and the newest mobile technologies will be highly appreciated. The code you write will need to be cleanly organized and of the highest quality. You’ll also help ensure solid application performance and an excellent user experience.ResponsibilitiesDeveloping new features and user interfaces from wireframe modelsEnsuring the best performance and user experience of the applicationFixing bugs and performance problemsWriting clean, readable, and testable codeCooperating with back-end developers, designers, and the rest of the team to deliver well-architected and high-quality solutionsSkillsExtensive knowledge about mobile app development. This includes the whole process, from the first line of code to publishing in the store(s)Deep knowledge of Android, iOS, etc. platformsProficiency with writing automated tests in {{ JUnit, Espresso, Mocha, Jest, Enzyme,Familiarity with RESTful APIs and mobile libraries for networking,Familiarity with the JSON formatExperience with profiling and debugging mobile applicationsStrong knowledge of architectural patterns—MVP, MVC, MVVM, and Clean Architecture—and the ability to choose the best solution for the appFamiliarity with GitFamiliarity with push notificationsUnderstanding mobile app design guidelines on each platform and being aware of their differencesProficiency in Kotlin/Java/Swift/Objective-C/JavaScript/C#/ Flutter/ ReactExperience with hardware or sensors, like GPS or BluetoothSocial media integrations & moreJob Types: Full-time, Part-timeSalary: ₹300,000.00 to ₹600,000.00 /yearExperience:total work: 4 years (Required)Education:Master's (Preferred)

@@ -1,0 +1,34 @@
+Laravel Developer
+PHP
+MySQL
+JavaScript
+HTML5
+JSON
+Company Description
+
+Our expert development team works on the cutting edge of technology and best practices.
+If you mix innovative web design ideas, bespoke web development skills, rewarding online marketing solutions, futuristic technologies, and efficient technological consultation in a super blender, Intlum Technology will be the preparation you’ll get. Being one of the frontiers of web design and development companies, we leave no stones unturned for writing your success story.
+We build everything from a quirky logo to the staggering design, interactive functionality, highly complex software, and Cloud-based Mobile applications. Our digital marketing solutions add perks to our credibility. And the futuristic solutions like IoT (Internet of Things), Chatbot, and Blockchain make us the most advanced IT company in Kolkata and India. On the other hand, our expert consultation section has helped an endless number of individuals and corporates grow their business in the right direction!
+
+Job Description
+
+We are looking for a candidate with excellent working knowledge on web application development with Laravel.
+Experience- 1 to 5 years(fresher do not apply)
+No. of vacancy- 2
+Job Location- Kolkata(Durganagar, Near airport gate no 1)
+Salary- Best in the company’s standard(No bar for potential candidates)
+Responsibilities and Duties
+Developing Simple to Complex Functionality for Websites and Applications.
+Write reusable code preferably using classes and libraries.
+Programming databases especially MySQL.
+Establishing projects from scratch or working on accessible projects.
+Developing front-end and back-end applications.
+Take on multiple projects varying in size and complexity.
+Required Experience, Skills and QualificationsStrong knowledge of PHP web frameworks such as Laravel.Strong Knowledge in Mysql Database. Analyze Create and Normalize databases independently.Understanding of MVC design patternsBasic understanding of front-end technologies, such as JavaScript, HTML5, and CSS3Knowledge of object-oriented PHP programmingI should be able to handle the project independently.Can be able to handle multiple projects simultaneously.Optimization and performance of the website for Code/ DB/ Caching etc.Experience in developing web services for mobile apps like JSON & API Integration.Knowledge in the Payment gateway.Good communication SkillsKnowledge of Apache Server and Linux(Preferred)
+
+Qualifications
+
+Qualification- Graduate in B Tech(CS)/BE(Computers)/BCA/MCA/MTech/etc
+Additional Information
+
+null

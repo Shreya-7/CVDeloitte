@@ -1,0 +1,26 @@
+Senior Android Developer
+Android
+SQLite
+JSON
+REST
+Java
+SQL
+Requirements
+1.Android Frameworks and SQLite Database
+2.Web Services / XML parsing / JSON /REST/ JAVA / SQL Connectivity.
+3.Android Studio / Android SDK / Payment gateway/ Interface Builder / Simulator / Multi-Screen Resolution
+
+Experienced
+1 to 10 Years
+Job Responsibilities:
+1. Strong knowledge of Java, Android Frameworks and SQLite Database
+2. Experience in mobile / tablet devices UI with M aterial design .
+3. Experience with Web Services / XML parsing / JSON /REST/ JAVA / SQL Connectivity.
+4. Deep knowledge of Android Studio / Android SDK / Payment gateway/ Interface Builder / Simulator / Multi-Screen Resolution .
+5. Experience of storing data in Android
+6. Must be familiar with the latest trends and technologies.
+7. Strong programming skills with understanding of project cycles, development environments, and source code techniques.
+8. Experienced in developing and deploying highly efficient as well as scalable applications.
+9. Interested in technology and ability to learn new technology trends.
+Salary:
+2,00000 to 8,00000 per Year

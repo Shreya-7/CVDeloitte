@@ -1,0 +1,11 @@
+Front End Developer
+Agile
+Unit Testing
+JavaScript
+Angular
+Jenkins
+React
+Docker
+Git
+AWS
+The ideal candidate will be with recent React experience and will be responsible for designing, developing, testing, and debugging responsive web and mobile applications. Using JavaScript, ES6, React, Redux , CSS, TypeScript, GIT, Unit testing, this candidate will be able to translate user and business needs into functional frontend design.Additional merits include knowledge of Web accessibility (WCAG), PWA , AngularJS , Docker , Jenkins and AWS.ResponsibilitiesDesigning, developing, and testing UI for mobile and web applicationsBuild reusable code and libraries for future useAccurately translate user and business needs into functional frontend codeWill be working in a dynamic environment, within IT B2CWill be a part of a team, composed of other Front-end developersQualificationsBachelor's degree or equivalent experience in Computer ScienceProven 3+ years experience in building commercial JavaScript web applicationsProven 2+ years experience in building commercial React web applicationsProficient understanding of responsive web developmentGood understanding of advanced JavaScript libraries and frameworks such as AngularJS , ReactJS ,ES6Proficient understanding of cross-browser compatibility issues and ways to work around them.Experience in writing unit testing with Jest, Mocha etc.Experienced with different styling solutions such as PostCSS, CSS Modules, Styled Components.Ability to communicate with technical colleagues and other stakeholdersAbility to work in an agile environmentA forward leaning attitude that takes ownership and initiativesFamiliarity using Scrum/Agile development methodologiesJob Types: Full-time, ContractSalary: ₹1,200,000.00 to ₹1,500,000.00 /yearExperience:React: 3 years (Preferred)total work: 3 years (Required)Javascript: 3 years (Required)Education:Bachelor's (Preferred)

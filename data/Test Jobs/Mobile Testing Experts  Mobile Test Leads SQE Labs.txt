@@ -1,0 +1,18 @@
+Mobile Testing Experts / Mobile Test Leads
+Eligibility criteria and job description:
+
+The positions require 4+ years of experience in testing Mobile apps on various platforms -Android, IOS, and Blackberry
+Knowledge of mobile application testing using Emulators/Simulatorsfor different mobile platform
+Proficiency in Unit/ Regression/ Integration/ Compatibility/ Performance/ Security/ Device Profiling testing methodologies
+Experience in Mobile testing tools like Device anywhere, Perfecto Mobile, Monkey Talk
+Excellent communication skills
+
+
+Performance Test Engineer (JMeter)
+
+Eligibility criteria and job description
+
+3-7 years of strong performance testing experience
+Working Knowledge of JMeter or any other Performance testing too
+Experience in performance monitoring /Analysis is an added advantage
+Excellent communication skills

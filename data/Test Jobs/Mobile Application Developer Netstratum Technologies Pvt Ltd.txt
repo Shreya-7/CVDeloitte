@@ -1,0 +1,11 @@
+Mobile Application Developer
+Android
+iOS Development
+Unit Testing
+Git
+SQLite
+REST
+Java
+JSON
+iOS
+Job Profile : Mobile Application DeveloperJob ID : 04/20Referral Code : 091648Experience : 3+ yearsSalary : As per Industry StandardsJob Description :Netstratum is looking for Native Mobile Application Developer with 3+ years of experience in enterprise mobile applications development using iOS Development and/or Android Development.Desired Skills :Experience developing iOS and/or Android Native ApplicationsExperience working on REST APIs development and integration.Triaging and troubleshooting of bugs, creating bug fixes and patches for existing products.Experience using GitHub for source controlExperience building graphically intensive UIs, managing multiple view hierarchies, and optimizing UI transitions and performance on mobile devicesExperience in working with SQLite or comparable local storage frameworks.Android SDKs, XCode or Android Studio, Unit Testing, REST APIs, Objective-C, JAVA, Swift, JSON,Plus : Experience in building telecom, webRTC or real time applicationsJob Type: Full-time

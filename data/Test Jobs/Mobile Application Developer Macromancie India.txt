@@ -1,0 +1,17 @@
+Mobile Application Developer
+Android
+React Native
+JavaScript
+REST
+MongoDB
+React
+HTML5
+MySQL
+Agile
+Java
+JSON
+iOS
+Service-Oriented Architecture
+SQL
+AWS
+Job Description :- Takes ownership and responsible for: Test Strategy, Test planning, Test Infrastructure and Test Execution for Mobile Applications.- ability to deliver project on time- Mobile Application Development exploring DART, React, React native, JAVA, Android SDK, HTML5, JavaScript, JSON, jQuery Mobile, CSS and different connected technologies.- Experience in RESTful APIs and good exposure to Backend technologies such as MySQL, MongoDB.- Knowledge of server-side technology to architect applications or data to build scalable, high-performing technology solutions.- Exposure to Agile as well as Test Driven Development will be an added advantage.- Programming duties for interactive App development in iOS Android Platform with access to Web/Desktop Platform- Work closely with the Team to design & development of the app- Create wireframes and other documentation- Learn new programming tricks.- Design and build advanced applications for the Android platform- Collaborate with cross-functional team members to define, design, and ship applications within tight time frames.- Unit-test code for robustness, including edge cases, usability, and general reliability.- Work on bug fixing and improving application performance.- Continuously discover, evaluate, and implement new technologies to maximize development efficiency.- Creating and maintaining Android SDKs for campaign management solution which includes push notification, analytics and attribution handling from Android.- Should have experience in testing web service applications for service-oriented architectures (SOA) and representational state transfers (REST).- Possess good exposure on functional, Integration, Installation, Upgrade, Compatibility, GUI, Smoke, Accessibility, Ad hoc and Regression testing. And also well versed with Persona based and monkey testing.Good understanding of Security Testing techniques for Mobile native app and knowledge on OWASP top 10 Mobility vulnerabilities.Hands on experience with SQL injection and XSS techniques is a must.Develop use cases, user interface specifications, and user requirement specification documents.Proficient in Test Case Authoring, Defect Management and Tracking.Should have good understanding of cloud and various device farms. Added advantage if have hands on testing experience using any of the renowned device farms especially AWS.Knowledge on Agile and other SDLC methodologies is must.Should have exposure to DevOps tools and techniques.Other essential skills : - Ability to provide expert technical guidance to the team and wrestle out their complexities.- Go to person for the customer in terms of handling challenges by suggesting the right solution using the right technology.- Setting clear priorities and enabling collaboration among the team members.- Excellent communication skills along with a good understanding of the need and significance of documenting the project and publishing papers.- Comfortable in handling ambiguity, non-standard, and frequent changes.Job Types: Full-time, Contract, FresherSalary: ₹20,000.00 to ₹40,000.00 /monthEducation:Bachelor's (Required)Location:Delhi, Delhi (Preferred)

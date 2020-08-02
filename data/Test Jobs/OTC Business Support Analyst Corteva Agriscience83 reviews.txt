@@ -1,0 +1,34 @@
+OTC Business Support Analyst
+Description
+
+ROLE: OTC Business Analyst - SAP
+Role Description:
+
+The OTC Business Analyst - SAP is responsible for the successful supporting business users and execution of projects, that impact Corteva’s SAP eco system.
+This is a hands-on, end user-facing role that requires a deep functional & application knowledge and ability to work with business users across multiple geographies and multiple SAP environments.
+Experience in SAP R3/ ECC 6.0 with strong ability to configure solutions in the SD area with good knowledge and know how on cross functional areas like Vistex, MM and FICO.
+Candidate should also support in new SAP S4/HANA implementation.
+The OTC Business Analyst - SAP is critical to the provide L1 support to CSR’S in AP region in the areas including, all types of order types, outputs, Pricing , Customer Master, Material masters, SAP reports, SAP printers, Vistex, BW ( Business warehouse ), Fiori tiles, reporting and processes and procedures to support good information management and governance across the organization.
+Support CSR (who enters sales orders in SAP) during BIT/USAT during any new SAP implementation.
+
+Coordinate with IT-SAP during any new implementation. Coordinate with IT-SAP for new configuration/Process change.
+
+The Job is primarily business facing and not in IT.
+
+Qualifications
+
+Minimum 5 plus years of SAP experience in the area of SD (Order interfaces from external systems, contracts, Batch Management, Periodic Billing, BOMs, Batch job processing, Customer Master, 3PL integration, Credit management, Tax integration, Outputs and Pricing)
+Exposure to CRM – SFDC is a plus
+Exposure to Fiori is a plus
+Exposure to S4/HANA is a plus
+Experience with various phases of test cycle
+Ability to effectively communicate with Technical IT team members and as well as End users across the globe (Excellent verbal and written communication skills).
+Excellent analytical and problem-solving skills
+Team player with strong ability to explain technical issues to business
+Ability to assess customer needs and create product requirements documentation. Experience in project management
+Team player with strong ability to explain technical issues to business users.
+Ability to assess customer needs and create product requirements documentation.
+Makes effective decisions in a timely manner, sometimes with incomplete information and under tight deadlines and pressure; uses a mixture of analysis, experience, and process to reach conclusions.
+Must demonstrate a strong track record of delivering results.
+Excellent presentation/oral communication skills.
+Excellent communication, collaboration and interpersonal skills.

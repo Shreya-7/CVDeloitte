@@ -1,0 +1,34 @@
+Software Engineer 3
+OOP
+Agile
+Test Automation
+Unit Testing
+Java
+REST
+You will:
+Be driven to get results and not let anything get in your way.
+Be proactive and anticipate/handle most issues before they blowup.
+Exhibit a strong backbone and challenge the status quo when needed.
+Demonstrate a high level of curiosity and keep abreast of the latest technologies.
+Show pride of ownership and strive for excellence in everything you do.
+Responsibilities:
+Design, development, and testing of features/functions delivered via applications and services.
+Collaborating with peers and seniors both within their team and across the organization.
+Working with product managers using agile methodologies to deliver high quality solutions on time.
+Working with operations teams to ensure your applications and services are highly available and reliable.
+Basic Requirements:
+Bachelors degree in Computer Science or related technical discipline (or equivalent experience).
+Strong applied experience. You’ve built, broken, and rebuilt software applications. We’re looking for creative thinkers who also know how to create real-world products.
+Proficient in back-end development using Java EE technologies (e.g. Java language, application servers, servlet containers, JMS, JPA, etc.).
+Strong Object Oriented Programming skills, with ability to analyze requirements and transform into scalable software designs.
+Experience with HTTP, REST API's and competent designing and building web services/microservices in a commercial setting.
+Experience with Design Patterns, MVC and frameworks (e.g. Spring).
+Experience with Service Oriented Architectures.
+Experience with development of scalable and distributed Java services.
+Competent in design/implementation for reliability, availability, scalability and performance.
+Competent in software engineering tools (e.g. Java build tools) and best practices (e.g. unit testing, test automation, continuous integration, etc.).
+Should have good communication skills.
+Job_Description_Summary: Consumer Risk Engineering team is responsible for Risk decision, fraud detection, risk management decision. We design, develop, enhance and support services that get called across every interaction between PayPal and it's users and partners. Our solutions need to scale across millions of such interactions, integrating with various other APIs in real time and yet providing high availability and configurability to the business. To achieve this we are always looking at advances in technology and science and tying those back to business needs. To help with this, we are always looking for strong technologists who are passionate to solve large scale highly complex computer engineering problems, in a repeatable and maintainable way. As a member on our team, you will work directly with our Product Owners and Domain Technical Leads to create outstanding solutions and deliver incredible products.
+Who we are: Fueled by a fundamental belief that having access to financial services creates opportunity, PayPal (NASDAQ: PYPL) is committed to democratizing financial services and empowering people and businesses to join and thrive in the global economy. Our open digital payments platform gives PayPal’s 286 million active account holders the confidence to connect and transact in new and powerful ways, whether they are online, on a mobile device, in an app, or in person. Through a combination of technological innovation and strategic partnerships, PayPal creates better ways to manage and move money, and offers choice and flexibility when sending payments, paying or getting paid. Available in more than 200 markets around the world, the PayPal platform, including Braintree, Venmo and Xoom enables consumers and merchants to receive money in more than 100 currencies, withdraw funds in 56 currencies and hold balances in their PayPal accounts in 25 currencies.
+We're a purpose-driven company whose beliefs are the foundation for how we conduct business every day. We hold ourselves to our One Team Behaviors which demand that we hold the highest ethical standards, to empower an open and diverse workplace, and strive to treat everyone who is touched by our business with dignity and respect. Our employees challenge the status quo, ask questions, and find solutions. We want to break down barriers to financial empowerment. Join us as we change the way the world defines financial freedom.
+PayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities.

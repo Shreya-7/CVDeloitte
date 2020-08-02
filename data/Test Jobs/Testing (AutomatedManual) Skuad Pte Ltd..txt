@@ -1,0 +1,26 @@
+Testing (Automated/Manual)
+Have you mastered the art of finding the difference between your observations & expectations? Do you have an eye for detail and can spot something amiss in a wink? Do you enjoy learning new things?
+Join us and work for a global company that strives for high-quality optimized code and be part of a rockstar squad that builds cutting-edge tech products. As a QA Engineer, you will have the responsibility to ensure that the final product is of the highest possible quality.
+Key Responsibilities:
+Understanding application processes, their standards & guidelines
+Preparation and execution of manual test cases
+Reviewing manual test cases before automation efforts
+Creation and maintenance of traceability matrix
+Bug reporting and bug tracking
+Coordination with multiple stakeholders for fixing bugs within the deadline
+Verification of database and API Testing
+Requirements:
+Experience in performing manual and automation testing - preparation, review and execution of test cases and bug reporting.
+Work in close coordination with software development team for delivering output in a specified manner.
+Experience in requirement traceability matrix.
+Experience in web and mobile application testing (in Android and iOS Applications)
+Good knowledge of selenium (writing script and test execution)
+Experience in bug tracking tools, verifying and reporting using bug tracking system. (Jira, Mantis)
+ Hands-on experience in performance, load and stress testing using jMeter.
+Ensuring quality and operational excellence: creating team metrics for measurement of quality and process excellence and a consistent process for assessment and improvement on all fronts.
+In-depth knowledge of API testing, database, proxy testing and Agile methodology.
+Excellent verbal and written communication, problems solving, reasoning and logic.
+Should be flexible, self-motivated, think outside the box, have a willingness to learn new technologies and work efficiently in a fast-paced environment.
+Currently Hiring:
+
+Software QA Engineer : 2-4 yrs experience

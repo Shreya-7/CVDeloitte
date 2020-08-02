@@ -1,0 +1,19 @@
+System Engineer
+Perform daily system operations tasks to verify system integrity and availability
+
+Perform ongoing performance tuning, hardware/OS upgrades, and resource optimization
+
+Implement monitoring for applications and servers, and respond to alarms in a timely manner, preventing client impact and performance degradation
+
+Deploy physical and virtual servers
+
+Complete assigned incident management tasks
+
+Deploy, setup, and maintain testing environments
+
+Provide Tier III and other support per service request
+
+Back to Description
+Cerner Jobs and Careers
+
+If you are an individual with a disability who is unable to use our online tools to search and apply for jobs, and need assistance or an accommodation in the recruiting process, please contact us by calling 866-434-1543 or by emailing CernerCareers@cerner.com.

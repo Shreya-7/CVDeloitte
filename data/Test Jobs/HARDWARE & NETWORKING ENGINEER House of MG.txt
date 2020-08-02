@@ -1,0 +1,54 @@
+HARDWARE & NETWORKING ENGINEER
+Google Docs
+Maintain network hardware and software/OS (Windows/MAC/Linux). Monitor network to ensure network availability to all system users and perform necessary maintenance to support network availability.
+
+Knowledge of Managing IBM RACK Server with Windows Server 2008 r2 must. Installation, configuration & management of Servers hardware part & software (server 2008 r2).
+
+Knowledge of RAID configuration.
+
+User and security access management using Active Directory Services, RDP server setup. User group policies creation & modification, exposure in Active Directory user creation & deletion.
+
+Installation, configuration & management of Servers, Switches, Modem, WiFi Router (CISCO & UniFi) and Network devices.
+
+Should have hands-on experience with Google Apps (Gmail, Google Docs, G-Suit etc).
+
+Hands on experience on firewalls [ sonicwall], installation, implementation, troubleshooting.
+
+Installation of Operating Systems ( OS ) installation & up gradation., Windows, Linux experience is a must.
+
+Maintenance of IT network (LAN & WAN) and system security.
+
+Troubleshooting of all types of Hardware and software applications problems.
+
+Monitoring and Administration of the IT Infrastructure like Laptop, Desktop & Printer, Installation, and configuration of Windows Operating System, Office 365, Antivirus, and Other Application.
+
+Installation of device drivers & hardware components and sharing in LAN.
+
+Installing and troubleshooting of Local and Network all kind of printers and scanners.
+
+Managing and setting up of new PC’s connected with Windows server 2008 R2 & 2016.
+
+Knowledge of managing QNAP NAS Storage.
+
+Flexibility to work in a changing and evolving role and environment.
+
+System upgrading for both hardware and operating systems.
+
+Additional disks have configured to the system for more storage Installing, Configuring, Troubleshooting, and Upgrading Windows.
+
+Ability to install Projector and Sound System for Hotel Banquet & Conference.
+
+HikVision CCTV & Unify EPABX knowledge will be an additional advantage.
+
+Required Skills:
+
+Diploma – Any Specialization, Computers or BSc IT / BCA / DCA / B.E. / B.Tech / MCA
+
+Experience Required:
+
+Minimum 3 years
+DEPARTMENT: IT
+JOB TYPE: Full Time
+LOCATION: Gujarat - Ahmedabad
+NO. OF POSITIONS: 1
+JOINING PERIOD: Immediate

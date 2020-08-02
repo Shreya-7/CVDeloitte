@@ -1,0 +1,11 @@
+Experienced Windows Application Developer
+Unit Testing
+.Net
+SQL
+expand(document.getElementById('wpex318376991')); expand(document.getElementById('wpexlink318376991'))Using C#, WPF and .Net you will be designing and developing detailed system processes and front end page jobs for our portfolio management system. Many of these front ends will be of a financial nature (such as cash management, transaction reporting, position reporting etc) and so will require not just good programming ability but also the ability and desire to understand financial procedures.The candidate is required to work on multiple platforms (including Windows/Web and Mobile) to build or improve the existing application.You will work in a small but talented team and will have direct responsibility early on. You will have a mentor to assist you in your training and understanding of our standards.Arbor deploys a well structured architecture with well defined presentation layers, processing / business logic layers and data layers. It is in the first layer you will focus most of your attention.
+
+You will work closely with our business intelligence team to ensure you deliver high quality work. You will be presented with functional and technical specifications. You will then develop and unit test the pages / processes and then deliver to integration testing. You will be expected to adhere to our internal development standards and procedures.Our system has a quarterly release cycle to ensure our product is as up to date as possible.
+
+The build process is well defined with central code repositories used.Desired Candidate profile: 1) Ability to work in Windows, Web and Mobile application. 2) You will need to demonstrate knowledge in C# / .Net system development and databases (including SQL). 3) With knowledge of good coding practices you will need to have a good eye for detail and the ability to deliver high quality front end applications, plus efficient procedures from your own design. 4) Excellent written and verbal communication skills.
+
+5) Knowledge of SQL. 6) Documentation on release notes and unit testing. 7) Prior experience on Mobile application development would be advantageous.

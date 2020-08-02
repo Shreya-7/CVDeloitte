@@ -1,0 +1,75 @@
+SalesForce Application Support Analyst
+Salesforce
+Business Analysis
+Analysis Skills
+About Us
+
+With electric vehicles (EV's) expected to be 25% of new vehicle sales by 2025 and more than 50% by 2040, electric mobility is becoming a reality. ChargePoint is at the center of this revolution, powering the world’s leading EV charging network and most complete set of hardware, software and mobile solutions for every EV charging need. We bring together drivers, businesses, automakers, policymakers, utilities and other stakeholders to make e-mobility a reality globally.
+
+Our fanatical focus on charging and 10+ years in business has made us an industry leader. Supported by $538 million from investors including American Electric Power, Canada Pension Plan Investment Board, Chevron Technology Ventures, Clearvision, Daimler Trucks & Buses, GIC, Quantum Energy Partners, BMW i Ventures, Braemar Energy Ventures, Linse Capital, and Siemens, ChargePoint offers a once-in-a-lifetime chance to be part of creating an all-electric future and a trillion-dollar market. Join the team that is building the EV charging industry and make your mark on how people and goods will get everywhere they need to go, in any context, for generations to come.
+
+Discover what it’s like to help build the fueling network of the future - check out our Engineering Blog.
+
+Reports To
+
+Senior Program Manager
+
+What You Will Be Doing
+
+The SalesForce CPQ Support and Application Developer position at ChargePoint, Inc. is an opportunity for a seasoned business applications support engineer to make a significant contribution to ChargePoint's growth and maturation. In this role, you will share responsibility for application support, development and maintenance of SalesForce.
+
+You will focus on Level 2 activities, supporting complex business processes that require both technical and business insight. You will also perform administrative duties such as adding user accounts to business applications, resetting passwords and other routine tasks when escalated from Level 1, but this is not a focus. Since this role is located in India, you must have excellent communication skills to understand the problem and communicate a solution. Patience and a helpful attitude are crucial to success in this role.
+
+This position would suit a self-motivated, results-oriented individual who is comfortable in an entrepreneurial environment and has experience in working effectively with and providing world-class service to customers. This hands-on support role requires technical knowledge, ability to do bug fixes and enhancements, and ability to communicate effectively.
+
+What You Will Bring to ChargePoint
+
+Provide support and remediation across multiple applications, including Salesforce, CPQ, Netsuite, Arena, Expensify, Coupa, and our proprietary Network Operation System
+Cover both Level 1 (e.g. – user account creation, password resets, etc.) and Level 2 activities (e.g. – troubleshooting, problem resolution, business analysis) with a focus on Level 2
+Service tickets submitted by users through the IT Service Desk for Salesforce, Netsuite and Coupa
+Analyze apex, Visualforce, and triggers to identify problems
+Walk the customer through the problem-solving process
+Provide basic how-to application usage instructions to customers
+Liaise with Level 3 resources at ChargePoint in Campbell and with India-based developers on bugs and enhancements
+Monitor the results of scheduled interfaces and integrations e.g. – Salesforce/Netsuite, 3PL/Netsuite, EDI) as instructed
+Escalate unresolved issues to the next level of support personnel
+Provide accurate information on IT products or services
+Record events and problems and their resolution in logs
+Follow-up and update customer status and information
+Pass on any feedback or suggestions by customers to the appropriate internal team
+Document processes and procedures to resolve issues
+Identify and suggest possible improvements on procedures
+Perform the work within the constraints of published Service Level Agreements (SLAs)
+Take a strong analytical approach to business process design with an emphasis on cross-functional inter-dependencies.
+Participate and collaborate in requirement analysis, Quality Assurance (QA), User Acceptance Testing (UAT), and deployments, as well as sprint planning
+Deliver SalesForce solutions on SalesForce Sales Cloud platform
+Create and Deploy standard and custom packages to Salesforce production
+
+Requirements
+
+Able to participate meaningfully in turnover with US-based staff
+Five years of experience with some combination of Salesforce, CPQ, Billings, Communities and Service Cloud in a support or business analyst role
+Two or more years of experience developing business applications using Agile methodology
+Salesforce Proficiency in the following subject areas:
+Set up, Customization, Navigation
+Roles, Permissions and Audit
+Custom Forms Logic Creation, Modification
+Dashboards
+Product Creation and Price List Setup
+Contracts, Sales Orders and Invoices
+Data Analysis and Migration
+Proficient in SOQL queries, data migration (Apex data loader), triggers, custom settings, validation rules, and Process Builder.
+Experience in designing and implementing new Salesforce objects, workflow rules, custom layouts, and other standard Salesforce customization
+Ability to analyse/identify gaps in functional/business requirements
+Working knowledge of Product Development Lifecycle and DevOps Tools like JIRA
+Proficiency with the Salesforce Deployment Process and tools like ANT, Change Sets and Force.com IDE
+Working knowledge of Lightning Design System (LDS) and Lightning Components Development
+Ability to work collaboratively in a creative, Agile environment and manage agile task assignments
+Bachelor’s Degree or higher in Computer Science or related field or equivalent work experience
+
+Skills that will set you apart:
+
+Knowledge of Quote to Cash process
+Working knowledge of Netsuite customization tools – Saved Search, Workflows, Scripting
+Experience with ETL tools like MuleSoft or Informatica Cloud
+Hands on experience with StrongPoint for managing customizations and troubleshooting

@@ -1,0 +1,23 @@
+Python Testing
+Python
+Jenkins
+Java
+iOS
+Continuous Integration
+Job Description
+About Us
+We know that people are our "greatest asset". Our staff’s professionalism, innovation, teamwork and dedication to excellence have helped us become one of the world’s leading technology companies. It is these qualities that are vital to our continued success. As a Ness employee you will be working on products and platforms for some of the most innovative software companies in the world. The opportunity to evolve your expertise by using new cutting edge technologies will expand your horizons and create an exciting work environment. You’ll also gain enormous knowledge working alongside other highly skilled professionals that will help accelerate your career progression. At Ness we treat our values of rigor, innovation and partnership with the highest priority and they are placed at the very core of our business — to guide us through our daily operations and interactions with our customers. We offer our employees exciting and challenging projects across a diverse range of industries, as well as the opportunity to collaborate with a group of forward thinking, capable partners around the globe.
+About Company
+Ness employs 4500+ people who work alongside clients in North America, Europe and Asia and operate technology and design centers in India, Slovakia, Czech Republic, Romania, UK, Israel and the U.S. Ness has more than 500 clients including many Fortune 1000 and Software 500 companies in key vertical markets including education, media & publishing, financial services, travel, transportation & entertainment, retail, sports, software and high end technology. Ness Software Engineering Services is a division of Ness Technologies, Inc., a private company fully owned by The Rohatyn Group.
+Roles and Responsibility
+Job description:
+ • Strong UI automation experience with Python ( preferred) or Java and using the Pytest and Appium Solid experience in developing test cases, end-end tests for testing the native mobile applications on Android and iOS Manage test datasets to make automated tests reproducible. Should be able to do automation framework enhancements as and when necessary. Troubleshoot - framework/CI/env issues and fix them Execute test cases manually and participate in bake/regression activities as needed Continuously evaluate and communicate test status and application issues to upper management and other stakeholders
+Desired Skills
+4 – 7 years of experience
+Should own the responsibility of test coverage and drive it efficiently.
+Good knowledge of CI Setup/ Lab setup / Execution setup – working knowledge of Jenkins is needed.
+Experience in non-functional testing areas like Performance testing, memory-leak testing, Stress testing etc. (optional)
+Excellent communication & presentation skills.
+Willing to work from client location
+Recruiter Name Chethan
+Recruiter Email Id chethan.lingegowda@ness.com

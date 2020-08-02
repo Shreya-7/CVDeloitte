@@ -1,0 +1,11 @@
+Android Application Developer
+OOP
+Android
+SVN
+Eclipse
+SQLite
+Git
+REST
+JSON
+JIRA
+Job SummaryJob SummaryDesign and develop applications for Android Mobiles and TabletNeed to work core components Android SDK using Android Studio.Strong Working knowledge in REST based APIs and parsed XML and JSON data.Strong in Android UI Design, Activities, Fragments, Services, SQLite, Content Providers, Multithreading.Experience in Material Design.Experience in Publishing android application in Google play store (android market).Experience in REST API Third party librarys like Retrofit 2,Volley,Glide,Picasso.Experience in knowledge on Google Locations and Maps API.Daily interaction with version control software (GitHub and Subversion).Working experience on Emulator, adb, DDMS and Logs, JIRA.Good to have Knowledge on video call applications, Video Streaming APIS.Working Knowledge on Building Android Apps with Cloud Services like Fabric.IO.Proficient in Object-Oriented design, Design patterns, problem solving, complexity analysis and debugging.Good to have in MVP ,Dagger 2,RxJava, Retrolambda, Three Ten Abp. (5 Years EXP )Good to have in Third party librarys Mockito, butterknife, Lombok, timber.Experience in Firebase.Strong on SQLite Database, XML and JSON Parsing.Proficient with Eclipse IDE, Android Studio And Android SDKJob Type: Full-timeSalary: ₹10,000.00 to ₹35,000.00 /monthExperience:Android development: 1 year (Preferred)work: 1 year (Preferred)Education:Secondary(10th Pass) (Preferred)

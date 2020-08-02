@@ -1,0 +1,33 @@
+Business Analyst Senior (G2)
+Microsoft Excel
+Microsoft Word
+Microsoft Powerpoint
+Visio
+Analyze business requests to be solved with automated systems. Formulate and design automated systems scope and objectives based on both user needs and a good understanding of applicable business systems and industry requirements. Provide expertise in identifying, evaluating and developing systems and procedures that meet user requirements and are within stated sizing estimates. Configure system settings and options; plan and execute business design, assist in integration and acceptance testing, where necessary; and create specifications for system to meet business requirements. Include analysis of business and user needs, documentation of requirements, and translation into proper system requirement specifications.
+What Part Will You Play?
+Acts as a liaison between client end-users, programmers and test analysts in the analysis, design, configuration, testing and maintenance of systems to ensure optimal operational performance. Develops working relationship with key stakeholders and gains an understanding of the basic nature of the client’s business. Learns to be consultative with client management while assisting with the identification, definition and documentation of business needs/objectives, current operational procedures, problems, input/output requirements, data scope, usage formatting, security requirements and levels of systems access. Maintains communications with end-users for feedback to ensure systems continually meet the client's expectations. Analyzes complex problems and issues (complexity varies based on data requirements and business specifications) and offers alternative business solutions. Facilitates meetings and leads discussions.
+Develops simple to complex business specifications and logical flowcharts that include features and functions from which programmers can create technical specifications. Leverages system or module knowledge in the design of system screens and database structures. Consults and coordinates with programmers to design and develop requirements and analyze the feasibility of new systems and enhancements to existing systems; ensures the system design fits the needs of the users. Prepares input for system design, including final report and screen definition, logical system flow and implementation plans. Provides support to resolve issues that may cross multiple systems and affect the business process. Tracks application incidents to ensure a successful conclusion for internal and external clients. Identifies system impact of changes in the business, user needs, external business environment and operating systems.
+Develops documentation to include, but not limited to bulletins, manuals, file layouts and application design layouts for internal, client and training purposes. Prepares, coordinates, and assists with client training and documentation for installation of systems and upgrades. Tracks and documents changes for functional and business specifications; writes detailed universally understood procedures for permanent records and for use in training. Coordinates documentation and follow-up evaluation monitoring; post-implementation problems and revision requests. Maintains, administers, and/or reviews all procedures, methodology and/or application standards to include payment card industry and security related compliance.
+Conducts and supports testing/planning/validation by clarifying the intended functionality and resolving issues to ensure successful implementation. Provides relevant test scenarios for the testing team. Coordinates implementations including vendor and in-house testing, readiness assessment, training and hardware capacity evaluation.
+Assists with the detailed project planning efforts on larger projects, and may act as a Project Manager on smaller development efforts. Monitors project progress by tracking activity, resolving problems, publishing progress reports and recommending actions. Prepares technical reports by collecting, analyzing, and summarizing information and trends. Maintains software deployment plans and communicates these plans to the user community and ensures that users are apprised of any anticipated deviation from schedules.
+What Are We Looking For in This Role?
+Minimum Qualifications
+Bachelor's Degree
+Relevant Experience or Degree in: Computer Science, Management Information Systems, Business or related field; or equivalent training or experience in lieu of degree
+Typically Minimum 4 Years Relevant Exp
+Professional experience working with end-users to meet business needs
+
+Preferred Qualifications
+Typically Minimum 4 Years Relevant Exp
+Scripting knowledge, bankcard industry knowledge, understanding data structures, professional experience working with end-users to meet business needs
+Working towards a Certified Business Analysis Professional (CBAP)
+What Are Our Desired Skills and Capabilities?
+Skills / Knowledge - A seasoned, experienced professional with a full understanding of area of specialization; resolves a wide range of issues in creative ways. This job is the fully qualified, career-oriented, journey-level position.
+Job Complexity - Works on problems of diverse scope where analysis of data requires evaluation of identifiable factors. Demonstrates good judgment in selecting methods and techniques for obtaining solutions. Networks with senior internal and external personnel in own area of expertise.
+Supervision - Normally receives little instruction on day-to-day work, general instructions on new assignments.
+Problem Solving - A seasoned, experienced professional with strong problem solving skills and problem resolution based on a broad base of business knowledge
+MS Office & Flowcharting - Word, Excel, PowerPoint, Visio. Familiar with several common drawing techniques using Visio or UML
+Not Ready to Apply? Join Our Talent Community!!
+US Applicants:
+
+TSYS is an equal opportunity employer (EOE) committed to employing a diverse workforce and sustaining an inclusive culture.

@@ -1,0 +1,7 @@
+UI Developer
+JavaScript
+Bootstrap
+Angular
+React
+HTML5
+· Determine the structure and design of our front-end applications on various devices including mobile devices.· Utilize a variety of markup languages to write web pages and mobile app pages.· Implement responsible web design principles to ensure that our company website renders well across multiple devices· Develop features to enhance the user experience.· 1+ years as a professional UI/UX designer cum front-end developer designing customer-facing Web and mobile applications in a professional setting· Experienced developing Mobile responsive applications.· Practical experience designing and developing rich adaptive, responsive application with sensitivity to user experience for the Web/Mobile leveraging HTML5, JavaScript tools/libraries (JQuery, Angular, Bootstrap or ReactJS)· Practical experience designing rich and engaging Web interface visual designs· Understand the intricacies of how JS and CSS impact rendering across different Web browsersJob Types: Full-time, ContractExperience:total work: 1 year (Required)front end development: 1 year (Required)Work Remotely:Temporarily due to COVID-19

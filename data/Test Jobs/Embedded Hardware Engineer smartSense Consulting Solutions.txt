@@ -1,0 +1,20 @@
+Embedded Hardware Engineer
+We need experienced hardware developers and designers. The recruit will be responsible for all our hardware components required. smartSense Solutions is one of the few companies in Gujarat, which have started on Internet of Things. While at smartSense, you will exposed to all the requirements related to latest development IoT world.
+Following are the things that we are looking for in our Hardware designer:
+Experience of PCB designing , development, fabrication and assembling
+Skilled in electronics and electrical designs
+Knowledge of Altium, Eagle and other software packages used for PCB designing
+Knowledge of testing power and load capacity and resolving related issues
+Skilled in PCB CAD layout and design
+Skilled in maintaining and creating libraries
+Adept in MS Office suite, BOM, and Configuration Management
+Mandatory Skills:
+Altium
+Eagle
+CAD
+
+Good to have Skills:
+Git
+SVN
+RF Antenna
+MS Office

@@ -1,0 +1,13 @@
+Lab Engineer
+Analog Devices (NASDAQ: ADI) designs and manufactures semiconductor products and solutions. We enable our customers to interpret the world around us by intelligently bridging the physical and digital worlds with unmatched technologies that sense, measure and connect.
+Analog Devices, Inc. is looking for a Hardware Engineer to join our Medical Products Group in Bangalore, India.
+Analog Devices is a world leader in the design, manufacture, and marketing of a broad portfolio of high performance analog, mixed-signal, and digital signal processing (DSP) integrated circuits (ICs) used in virtually all types of electronic equipment. Since our inception in 1965, we have focused on solving the engineering challenges associated with signal processing in electronic equipment. Used by over 100,000 customers worldwide, our signal processing products play a fundamental role in converting, conditioning, and processing real-world phenomena such as temperature, pressure, sound, light, speed, and motion into electrical signals to be used in a wide array of electronic devices. We focus on key strategic markets where our signal processing technology is often a critical differentiator in our customers' products, namely the industrial, automotive, communications, and consumer markets.
+As a Hardware Engineer in the medical products group, this position will be responsible for designing and prototyping proof of concept devices for acquisition of clinical quality signals, debugging problems with existing platforms, and supporting the data acquisition and HW testing activities for the medical products team in Bangalore. He/she will work closely with a global team of software/hardware/system engineers, user experience designers and third-party suppliers and partners to deliver clinical grade end medical products.
+Essential Duties & Responsibilities:
+Design data acquisition boards for early proof of concept medical devices
+Test and debug problems with existing hardware platforms
+Rapid prototyping of proof of concept devices and data acquisition and processing platforms
+For positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S. Department of Commerce - Bureau of Industry and Security and/or the U.S. Department of State - Directorate of Defense Trade Controls. As such, applicants for this position – except US Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C. 1324b(a)(3) – may have to go through an export licensing review process.
+Analog Devices, Inc. is an Equal Opportunity Employer Minorities/Females/Vet/Disability
+Education Level: Bachelor's Degree
+Travel Required: Yes, 10% of the Time

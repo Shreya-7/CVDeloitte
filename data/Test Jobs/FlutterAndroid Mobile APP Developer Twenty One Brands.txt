@@ -1,0 +1,14 @@
+Flutter/Android Mobile APP Developer
+Test Automation
+Organizational Skills
+Android
+Agile
+MongoDB
+REST
+SQLite
+NoSQL
+JSON
+Java
+iOS
+SQL
+We are looking for a highly skilled Flutter & Android Developer. Developer's who are comfortable with both front and back end programming. Flutter and Android Developer's are responsible for developing and designing front end mobile architecture in flutter.Flutter and Android Developer's will be required to see out a project from conception to final product, requiring good organizational skills and attention to detail.Flutter & Android Developer Responsibilities: The Flutter Mobile Developer will create multi-platform apps for iOS and Android using Google's new Flutter development frameworkPrior experience developing with Flutter is mandatoryExpertise in Android Studio & Android Project DevelopmentExperience in SQLite/RoomDB/MongoDB/CouchDBKnowledge of Android UI design principles (Material Design), patterns, and best practices along with Google’s Android design principles and interface guidelinesExperience in Retrofit, Picasso, Butter knife and other third party libraries.Experience developing with Dart, whether with Flutter or for the web, is required.Additionally, deep experience contributing to and managing high-scale production mobile apps is desiredStrong understanding of server side software, scalability, performance, and reliabilityHave published at least one Android Apps in Google Play Store.Experience with third-party libraries and APIs. Knowledge of RESTful APIs to connect Android applications to back-end serviceExperience in identifying memory leaks.*Flutter & Android Developer Requirements: Must have built at least two Android and/or iOS apps with FlutterProven working experience in software developmentWorking experience in mobile developmentHave published one or more mobile apps in Google Play or App StoreWorking knowledge of the general mobile landscape, architectures, trends, and emerging technologiesSolid understanding of the full mobile development life cycle, including automated testing and buildingExperience working in an agile development process.Good communication skills in EnglishExcellent verbal communication skills.Good problem solving skills.Attention to detailSkills RequiredFlutter, Android Application, Material Design, Parsing, Mobile Application, JSON, AndroidSDKDepartment, SQL & NOSQL DatabasesReference ID: #10022Job Type: Part-timeSalary: ₹15,583.00 to ₹30,175.00 /monthExperience:Flutter: 2 years (Required)Android development: 4 years (Required)total work: 5 years (Required)Java: 3 years (Required)Education:Bachelor's (Preferred)

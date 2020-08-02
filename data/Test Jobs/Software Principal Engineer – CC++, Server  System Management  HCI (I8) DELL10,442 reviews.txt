@@ -1,0 +1,49 @@
+Software Principal Engineer – C/C++, Server / System Management / HCI (I8)
+C/C++
+Time Management
+Agile
+Visual Studio
+VMware
+Continuous Integration
+Principal Software Engineer
+The Software Engineering team delivers next-generation software application enhancements and new products for a changing world. Working at the cutting edge, we design and develop software for platforms, peripherals, applications and diagnostics — all with the most advanced technologies, tools, software engineering methodologies and the collaboration of internal and external partners.
+About Business Unit:
+Dell's Infrastructure Solutions (ISG) is a responsible for creating world class Enterprise products in the Server, Storage and Networking, Converged Infrastructure (CI), Hyper-Conversed Infrastructure (HCI) and solutions space. Dell India R&D is part of larger ISG group full-filling the vision of ISG.
+Key Responsibilities:
+Interlocking with marketing, and other dependent teams to understand the scope of releases, change requests and customer issues to address in the server management product.
+Own and drive design for complex features.
+Offering impact analysis on our products from new technologies, competition / partner changes
+Participate in architectural and design reviews during concept and development phases. Participate in engineering reviews to ensure engineering process rigor during development
+Working with Advanced Engineering and Solution Product Marketing to define Engineering Requirements for PowerTools team portfolio.
+Scoping for any new release: Risk assessment, resource/size estimation, identifying all dependencies, etc.
+Technical guidance to development team on any evaluation, feasibility study or prototyping activity
+Assisting development manager in technical mentorship of the team members
+Providing technical guidance to junior developers in the team and mentoring them
+Actively participating in all design and code review sessions within the team
+Conducting deep-dive and training sessions to both internal and external teams
+Keep abreast of and contribute towards emerging system management and technology trends in the industry
+Essential Requirements:
+Extensive working experience of programming in C/C++ on Linux flavors and Windows environments.
+Strong knowledge of oops concept and usage, design patterns and experience in system level programming
+In-depth experience in debugging complex code and use case scenarios
+Experience working on Systems Management Software, Layered application development, third party libraries, and development & debug tools
+Should have thorough experience on crash and core dump analysis
+Knowledge of one or more of Systems Management standards like WSMAN, IPMI, SMASH, SMIS, and REDFISH is an added advantage
+Knowledge of Servers and/or PC architecture required
+Should be able to work in Agile methodologies
+Knowledge of Virtualization in general and VMware suite of products around virtualization is desirable
+Practicing DevOps model and have good understanding of build process and scripts
+Knowledge of build tools such as Visual Studio and Autotools are desirable
+Excellent written and oral communication skills.
+Self-driven. Good in time management.
+Desirable Requirements:
+9+ years of experience
+Educational Qualification (BE/BTech/ME/MTech/MS/MCA)
+Will report into: Engineering Manager
+Benefits:
+We offer highly competitive salaries, bonus programs, world-class benefits, and unparalleled growth and development opportunities — all to create a compelling and rewarding work environment.
+Our EVP:
+Our Culture Code unites us and makes us a great family of companies and a great place to work. It’s how we run the business, go to market, work together and provide inspirational leadership.
+Our culture code is defined by our values and are made real every day by defining expectations for how we work and how we lead.
+Apply now!
+Dell is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Dell are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Dell will not tolerate discrimination or harassment based on any of these characteristics. Learn more about Diversity and Inclusion at Dell here.

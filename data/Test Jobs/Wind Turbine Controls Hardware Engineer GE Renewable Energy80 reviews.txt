@@ -1,0 +1,23 @@
+Wind Turbine Controls Hardware Engineer
+Role Summary:
+The hardware platform team is responsible for specifying, testing and integrating common controls components for wind turbine systems.
+
+In this role, you will be responsible for wind turbine sensors, controllers, I/O systems and communication hardware design.
+
+Essential Responsibilities:
+The Wind Turbine Controls Hardware Engineer is responsible for wind turbine controls hardware architecture and components. This includes controllers, I/O hardware, turbine /plant sensors, safety and communication devices. You will own controls hardware components and support them through the whole product life cycle. You may also lead the design of SCADA (Supervisory Control & Data Acquisition) and other plant-level controls and communication cabinets. You will work with and be part of a talented team of design engineers.
+
+As the Wind Turbine Controls Hardware Engineer, you will:
+
+Be responsible for technical design of wind turbine controls hardware, including sensors (temperature, proximity, vibration, etc.), controller I/O and communication hardware, adhering to Renewable Energy Engineering design processes
+Be responsible for technical design, fulfillment and sustaining efforts for plant-level controls and communications cabinets
+Define specifications and requirements for sensors and communication systems and cabinetsProvide definition to and support the software and segment teamsBe responsible for continuous development of proper engineering documentation, including bills of material, drawings, specifications, manufacturing & field instructions, guidelines, etc.Evaluate, select, and apply appropriate technology and componentsDefine test and validation requirements. Support and execute lab testingLife cycle support of sensors and other hardware componentsWork with suppliers and site teams on component root cause analysis. Lead turbine retrofits and upgrades for wind turbinesWork with a cross-functional team to ensure high quality and timely delivery of engineering assignments
+Qualifications/Requirements:Bachelor's Degree in Engineering
+Minimum of 5 years of experience in sensor, electrical, electronic, controls or power systems designMinimum of 3 years integrating and testing Profinet devices
+Desired Characteristics:Experience with industrial automation and communication protocols such as Profibus, Profinet, CAN, TCP/IP etc.Experience in wind turbines design, specifically in control hardware and software
+Experience with technical drawings, documentation and BOM structure
+Lab testing and troubleshooting experienceExperience with GE’s tools and systems of recordExperience with design for six-sigma, design for reliability, design for manufacturability and design to costStrong communications skills
+About Us:
+GE (NYSE:GE) drives the world forward by tackling its biggest challenges. By combining world-class engineering with software and analytics, GE helps the world work more efficiently, reliably, and safely. GE people are global, diverse and dedicated, operating with the highest integrity and passion to fulfill GE’s mission and deliver for our customers. www.ge.com
+Additional Locations:
+India;Bengaluru;

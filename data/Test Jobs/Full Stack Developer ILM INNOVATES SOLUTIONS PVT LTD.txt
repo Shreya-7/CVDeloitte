@@ -1,0 +1,22 @@
+Full Stack Developer
+Test Automation
+Agile
+Machine Learning
+Unit Testing
+JavaScript
+Bootstrap
+Angular
+WordPress
+React
+DynamoDB
+Node.js
+MongoDB
+Python
+PL/SQL
+Tomcat
+NoSQL
+HTML5
+MySQL
+Java
+JSON
+Job Brief : - We are looking a Full Stack developer is responsible for front and back-end web development with Production and infrastructure. Usually, good full stack developers will understand several how to work with several languages and databases. *Responsibilities : -Carry new web projects from vision to release through iterative improvements in production.Expert assistance and coordination on new development for both the internal team and external partners.“Lead without authority”, growing other team members in a variety of roles in their web development skills and performance.Provides senior level system analysis, design, development, and implementation of applications and databases for client/server-, Web-, and/or PC-based software or middleware. Integrates third party products.Translates technical specifications, and/or logical and physical design into code for new or enhancement projects for internal clients. Develops code and test artifacts that reuse subroutines or objects, is well structured, backed by automated tests, includes sufficient comments and is easy to maintain. Writes programs, appropriate test artifacts, ad hoc queries, and reports. Employs contemporary software development techniques to ensure tests are implemented in a way that supports automation.Elevates code into the development, test, and Production environments on schedule. Provides follow up Production support. Submits change control requests and documents.Thoroughly understands software development methodology. Thoroughly understands architecture standards. Trains and mentors staff with less experience. Resolves issues elevated from staff with less experience.Participates in design, code, and test Inspections throughout life cycle to identify issues. Explains technical considerations at related meetings, including those with internal clients.Performs systems analysis, including system requirements analysis and definition (e.g., prototyping), and logical and physical design.Requirements: -Master’s Degree in a technology-related fieldGreat Java development skills building large scale web applications and APIs.Knowledge of Spring, SOA and automated testing.Full stack experience (Java, NoSQL,Python, HTML5, CSS3, Bootstrap,Javascript, node.js,React.js,Rest API,Angularjs,MVC Framework,MongoDB,MYSQL,PL-SQL,PHP,JQUERY,JSON,XML)Full stack experience in deployment in Tomcat Apache Server,Putty server,WordpressExperience with React, HTTP/2, PWA, Serverless, Microservices, CI/CD, and cross-platform developmentPrior use of AWS technologies at scale in a production environment ( S3,Lambda ,Cognito,Machine Learning,Dynamodb,DevOps)Well-rounded engineering skills; full-stack development experience - web + services - If you've built something in your spare time send us the link, we'd love to hear about it.Strong problem solving skills; adaptable, proactive and willing to take ownership.A high-quality bar and a drive of continuous improvement; just-enough documentation, unit testing, code reviews, test automation, continuous integration & deployment and a preference for agile methods.Great communication skills - ability to think creatively and adapt the message to the audienceExperience with agile software development concepts and processes.Extensive knowledge of IT concepts, strategies, methodologies, architectures and technical standards.Experience with agile software development concepts and processes.Must be proactive, demonstrate initiative and be a logical thinker.Experience with Continuous Integration/Continuous Delivery Build Pipeline*Job Type: Full-timeExperience:.net: 1 year (Preferred)total work: 1 year (Preferred)Java: 1 year (Preferred)Angular / Node JS: 1 year (Preferred)Education:Bachelor's (Preferred)

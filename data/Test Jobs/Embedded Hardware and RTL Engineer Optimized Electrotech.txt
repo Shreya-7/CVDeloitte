@@ -1,0 +1,15 @@
+Embedded Hardware and RTL Engineer
+What to Expect:
+The candidate would be responsible for carrying out the FPGA hardware development for Camera Modules. This would involve understanding the application requirement, designing Hardware for the requirement (Schematic level), selection of the parts, RTL implementation of the application and algorithms, FPGA implementation of the same, functional verification through Simulation and validation of the hardware. The candidate is expected to have sound understanding of FPGA and hardware, should play role in the selection of the right kind of FPGA as well. Knowledge of ARM Core for embedded hardware is equally essential.
+Mandatory qualifications:
+Good understanding and command on Hardware design based on requirement
+Strong hold on writing RTL using VHDL or Verilog
+Strong understanding of algorithm implementation using RTL for high speed design
+Understanding of timing closure and implementation of complex RTL algorithm in FPGA
+Validation of the same at hardware level
+Good understanding of ARM Core and interaction of FPGA with ARM for data transfer
+Qualifications
+BTech (BE) or MTech (ME)
+Desired Experience: 2-4 years
+Desirable:
+Knowledge in working with image processing algorithm implementation into RTL

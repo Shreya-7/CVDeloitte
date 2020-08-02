@@ -1,0 +1,35 @@
+Embedded Hardware Design Engineer
+Conversion Optimization
+Job Summary
+Responsibilities and Duties
+Person would be responsible for one or more of the following:
+Circuit-Designing for the given task
+Detailed hardware testing
+QA/QC testing of HW
+Schematic capture in the tool
+CAD layout
+Required Experience, Skills and Qualifications
+Experience in field of embedded system designing. Any experience in sanitation sector would be highly preferred. Freshers with exceptional skillsets could also be considered.
+Strong fundamentals of electronics (Digital and analog) are must.
+Well versed with circuit designing and HW debugging
+Able to read the schematics.
+Analog and Digital Circuit designing: familiarity with micro-controllers, memories, communication interfaces, op-amps, comparators, relays, inductors and capacitors, Handling EMI and Noise issues associated with circuits.
+Familiar with usage of various LAB instruments like CRO, multimeter etc.
+Understanding of Ethernet, wifi-modules will be preferred.
+Understanding of scientific methodologies of experimentation, data-gathering and interpretation and hypothesis.
+Understanding of basic architecture, debugging of sensors.
+Able to read the schematics and debug and design HW.
+Able to work on OrCAD17 or higher or any other tool.
+Experience on MS-Office.
+Candidate must have a knack to use his/her technical knowledge to give it back to society.
+Candidates must be open to work with communities to get feedback on product features so that products are best fit for social upliftment.
+Candidates must be open to travel to needy communities.
+Open to work in open startup culture and give his/her 100%.
+Analytical reasoning and fact-based brainstorming capabilities will be highly preferred.
+Technical problem-solving skills using a systematic approach.
+
+Job Type: Full-time
+Experience: 1-4 yrs
+Location: Gurgaon
+
+Please feel free to reach out in case of more information/any queries.

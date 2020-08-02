@@ -1,0 +1,31 @@
+Mobile Application Developer
+Unit Testing
+Android
+REST
+Eclipse
+SQLite
+Java
+JSON
+OOP
+iOS
+Designation :
+Android Developer
+Experience :
+1-3 Years.
+Location :
+Pune
+Open Positions :
+2
+Key Responsibility Areas:
+B.E. / B.Tech/ MCA degree in Computer Science or Engineering
+Expert in understanding and experience of OOP fundamentals, Java, XML, JSON, Web Services, SQLite databases, design and coding patterns and standards
+Familiarity with RESTful APIs to connect Android apps to back-end services
+1+ years of experience in Android application development with Android SDK / API / Frameworks, Java and Eclipse/Studio
+Good experience in UI development such as themes, Animations, Graphics API, Google Map, Navigation & Location AP
+Standard coding practices (Java, Android), automation tools, unit testing and code reviews
+Excellent communication and teamwork skills
+iOS Mobile experience are a plus
+Must Have:
+Basics of OOP's,Java,XML,JSON,Web services,API's,SQLite database.
+
+Post your resumes at info@nsofttek.com

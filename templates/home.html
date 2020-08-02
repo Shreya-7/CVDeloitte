@@ -23,7 +23,7 @@
           <div class="upload">
             <form action = "{{url_for('upload')}}" method = "POST" enctype = "multipart/form-data">
                 <div class="custom-file">
-                    <input type="file" name="file" class="custom-file-input" id="customFile" onchange="this.form.submit()">
+                    <input type="file" name="file" class="custom-file-input" id="customFile" onchange="process_label();this.form.submit();">
                 </div>
             </form>
           </div>
@@ -34,6 +34,7 @@
               </div>
             </div>
           </div>
+          <div class="processing" style="display:block; color: black"></div>
         </div>
       </div>
 </div>

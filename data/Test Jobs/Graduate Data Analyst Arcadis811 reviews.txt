@@ -1,0 +1,32 @@
+Graduate Data Analyst
+Analysis Skills
+Power BI
+Tableau
+SQL
+Description
+“ARCADIS” is a global professional consulting services firm focused on delivering digital transformation for our clients, putting digital and data analytics to work to create competitive IT advantage. We do this by integrating lean principles, design thinking, advance analytics and digital technologies with our domain and industry expertise to deliver disruptive business outcomes – an approach we call Digital transformation. We deliver value to our clients in two ways – through digital-led, domain-enabled solutions that drive innovation, and through intelligent operations enabled by digital that design, transform, and run clients’ operations.
+
+We are now recruiting talented individuals to fill our current vacancy for Graduate Data Analyst to work on our projects in Bangalore or Hyderabad.
+
+To be considered for a role we are seeking candidates with the following credentials:
+
+Job Tittle;
+
+Graduate Data Analyst
+Qualifications
+Qualification & Experience:
+
+
+Bachelors/Masters in Math, Statistics, Comp Science, Engineering, or another technical field.Experience required: 0-2 years
+Principal Duties & Key Responsibilities;
+
+
+Use Microsoft suite of technologies, such as Power BI, Power Apps, Power Automate, to solve complex business problems.Build mathematical models in Excel, Python or RManipulate, transform, and analyse data sets that are large and complex.Plan, gather, analyse and document user and business information.Incorporate, integrate, and interface technical knowledge with business / systems requirements.Collect and organize data, data warehouse reports, spreadsheets and databases for analytical reporting.Data collection, data input, monitoring, maintaining and reporting.
+Required Competencies;
+
+Possess strong quantitative and qualitative research and analytical skillsAbility to communicate analysis with clarity and precision. An ideal candidate would have a strong grasp of both technical and business perspectives.Ability to adapt quickly in handling multiple/evolving tasks as a result of new engagements and/or re-prioritized deadlinesTechnical expertise regarding data models and database design development.Knowledge in R, Python, Power-BI, Tableau, Qlik, SQL, RDBMS, NoSQLSkills in dashboarding, scripting (R, Python) and databases are fundamental.Interest in Robotic Process Automation and other programming languages is desirable.
+Good understanding of statistical analysis and hypothesis testing.
+Key competencies / Values:
+
+
+Client focus – differentiating through tailored skills and depth of client understandingExcellence – striving for excellence, recognising that excellence is defined by our clientsTrust – building and retaining relationships of trust with our clients, colleagues and business partnersTeamwork – working together as a team for the Group, not just the individualResponsibility – taking responsibility for our performance and our safetyPeople - we create the environment for people to realise their potential

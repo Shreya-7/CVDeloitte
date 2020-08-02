@@ -1,0 +1,10 @@
+Front End Developer
+JavaScript
+React
+GraphQL
+Docker
+Python
+Node.js
+HTML5
+AWS
+We’re looking for a Senior ReactJS Developer to be part of our team and help us deliver high-quality websites to a diverse and exciting range of clients. You would be expected to provide leadership and mentoring to less senior developers and play an active role in shaping the way our work is delivered.The position reports to the Technical Director who you would be expected to support and assist in the delivery of our work.We want someone that understands the Frontend landscape, is across recent developments, is passionate about learning, and helping others learn.Requirements: At least 5 years of industry experienceCSS and HTML are second-natureCan write your own Webpack config from scratchBe well versed in modern development tools like ES6+, Babel, WebpackExperience with modern JS frameworks (ie React)Know your way around a CSS FrameworkExpert knowledge of CSS preprocessorHave no trouble integrating multiple data sources into a frontend buildA keen eye for detailBonuses / Our StackTest-Driven Development (we use Jest for TDD)SaSS with a little bit of PostCSS for good measureDocker / Docker ComposeDevOpsPythonElasticsearchAWSGraphQLNodeJsJob Type: Full-timeSalary: ₹100,000.00 /monthExperience:ReactJS: 3 years (Required)total work: 3 years (Required)Javascript: 3 years (Required)Education:Bachelor's (Preferred)Work Remotely:Yes

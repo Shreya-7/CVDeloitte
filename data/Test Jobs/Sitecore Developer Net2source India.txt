@@ -1,0 +1,7 @@
+Sitecore Developer
+Agile
+Visual Studio
+JavaScript
+Microsoft SQL Server
+.Net
+Job Description: Hands-on experience developing web applications with Sitecore 9.x/SXAKnowledgeable in methodologies and design patterns, CMS implementation best practices.Ability to complete all phases of SDLC including analysis, design, development, testing, and support utilizing traditional waterfall and Scrum/Agile methodologies.Design and develop n-tier .NET web applications using C#,ASP.NET, JavaScript technologies and SQL Server.Home of the Microsoft ASP.NET development community. Download Visual Studio, post to the forums, read ASP.NET blogs and learn about ASP.NET.Excellent communication to interact with business teams.Check that system is unit tested and verified according to requirements.Assist Dev Lead on the technical issue resolution Engineer, Data Scientist)Experience in designing and developing Sitecore-based web applicationsExperience in developing complex, high-availability, high-volume, and n-tier applicationsAny GraduateJob Type: ContractSalary: ₹1,200,000.00 to ₹1,400,000.00 /yearExperience:sitecore: 2 years (Required)ASP.net: 3 years (Required)Education:Bachelor's (Preferred)Work Remotely:Temporarily due to COVID-19

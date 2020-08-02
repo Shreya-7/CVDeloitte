@@ -1,0 +1,5 @@
+Mobile Application Developer - iOS
+iOS
+iOS Development
+JSON
+Candidate Must be well versed with latest SDK versions, XCode, Objective C, Swift, UIKit, Cocoa etc.Expertise in integrating web services (XML/ JSon etc.) with iPhone applications.An experience in using Maps API, GPS services for iPhone/ iOS apps is required.Experience with third-party libraries and APIs.Working knowledge of the general mobile orientation, architectures, trends, and emerging technologies.Experience working with iOS frameworks such as Core Data, Core Animation, Core Graphics and Core Text, Core Location.To take care of build and release process (Adhoc releases, Final release).Should have worked on cocoa touch, story board, core data, auto layout.Hands-on experience in Cloud APIs, push notifications, social media integration, and integration of analytics is an added advantage.Must have good analytical, debugging, App publishing and problem solving skills.Self-starter having the ability to independently acquire the knowledge required in succeeding his job.Job Types: Full-time, Part-timeExperience:work: 1 year (Preferred)total work: 1 year (Preferred)Education:Bachelor's (Preferred)

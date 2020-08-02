@@ -1,0 +1,43 @@
+Software Developer (C#, Dot Net Core)
+.Net
+HTML5
+SQL
+How do you shape the future Smart Buildings? We’re looking for the makers of tomorrow, the hardworking individuals ready to help Siemens transform entire industries, cities and even countries. Get to know us from the inside, develop your skills on the job and work at the groundbreaking of Digital Process Industries. In India, we have offices in Pune and Chennai
+
+We make real what matters.
+
+We are looking for candidates with the below skills for Pune location.
+
+You should be have 2.5-5 years of work experience in C#.Net, WPF application development.
+You should have Strong knowledge of C#, XAML, SQL
+Knowledge with cloud application / Agular / html5 will be an added advantage.
+Capabilities:
+
+2.5 to 05 years of relevant experience.
+
+Qualification:
+
+BE/B. Tech/ B.Sc. / M.Sc. / MCA
+
+What you need to make real what matter
+You should Participate in requirement discussions, analyze and understand the end users’ needs and come up with technical solution.
+You should Evaluate and choose the right tools / components for the development environment and production environment.
+You should Design and document software components required for the application.
+You should Implement the solution using the chosen technology stack.
+You should Implement/Refine the standard methodologies to improve the quality of the product and reduce the waste.
+Capabilities:
+Self Determination; Initiative; Learning; Communication Skills; Teammate; Analytics; Result Orientation; Customer Focus; Professional Ethics
+
+This role is primarily based at Pune. However, you may get the opportunity to visit other locations within India as and when the work demands.
+
+We’ve got quite a lot to offer. How about you?
+
+We’re Siemens. A collection of over 379,000 minds building the future, one day at a time in over 200 countries. We're dedicated to equality and we encourage applications that reflect the diversity of the communities we work in. All employment decisions at Siemens are based on qualifications, merit and business need. Bring your curiosity and creativity and help us craft tomorrow.
+
+Find out more about Siemens careers at: https://new.siemens.com/global/en/company/jobs.html
+
+
+Organization: Internet of Things
+Company: Siemens Technology and Services Private Limited
+Experience Level: Mid-level Professional
+Job Type: Full-time

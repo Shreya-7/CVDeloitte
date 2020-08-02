@@ -1,0 +1,25 @@
+SOFTWARE ENGINEER
+Embedded Software
+C/C++
+Eclipse
+Python
+Bachelors or Master’s degree in Electronics or Computer Science Engineering.
+Firmware development on ARM based microcontrollers.
+Good in C Programming with good understanding of operating system/RTOS fundamentals.
+Good fundamentals in microcontroller design and communication systems.
+Drivers development on peripherals like ADC, SPI, I2C, UART etc.
+Knowledge of IAR, Keil, Eclipse development environments.
+Interest in constrained real time embedded environment.
+Knowledge of Python and other scripting languages is a plus.
+Understanding of FPGA, SoC specifications and underlying hardware and being able to make hardware/software trade-offs.
+Self-starter with an ability to quickly absorb new ideas and bring in innovation to work.
+
+Qualifications
+
+Bachelors or Masters degree in Electronics or Computer Science Engineering.
+
+Primary Location: IN-IN-India
+Work Locations: INBA02 ON INDIA INZ PRESTIGE SALEH AHMED 01-06 Floor, # 105, Infantry Road 560001
+Job: Engineering
+Travel: Yes, 5 % of the Time
+Job Posting: May 5, 2020, 5:17:02 AM

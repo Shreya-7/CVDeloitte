@@ -1,0 +1,81 @@
+Integrated Service Manager
+Phone Etiquette
+Introduction
+We build phenomenal products that our customers rely on so it’s important they are running at their best. As a Systems Management Specialist, you will work with the latest software to keep moving business forward. Whether it’s our Engineering teams that need a test environment or our software running in production, we are seeking skilled systems management professionals ready for the challenge.
+
+Your Role and Responsibilities
+
+About IBM India
+IBM's Purpose is to be essential to our clients, to the world and one another and we are confident that together as IBMers we will drive this purpose. When you join IBM you join a culture of openness, teamwork, trust, and the invitation and expectation to have a voice. Join us and Do your Best Work Ever.
+
+We are recognized gold standard for inclusion, reflected in winning, to name a few, the 2018 Catalyst Award for advancing women in business, the National Award 'Best Employer of People with Disabilities' and being named one of the top 5 2018 Top Companies for Women Technologists for building an inclusive workplace — We advocate for fairness and equality as everyone is, and always has been, welcome at IBM.
+
+Join a brand with a history of continuous re-invention, transforming itself throughout its 100-plus years. In the past five decades alone, IBM has ushered in the eras of the mainframe, the personal computer, IT services and enterprise software. In its current transformation, IBM is once again leading the reordering of the technology industry.
+Business Unit -GTS
+Our IBM Global Technology Services (GTS) helps clients plan, implement and lead an efficient, resilient, flexible IT infrastructure. Be it groundbreaking outsourcing tied to business outcomes or integrated managed services or discrete services - IBM GTS is the partner of choice for infrastructure services.
+Come join our team of IBM experts, who are leaders with vision, distinguished engineers and IT architects who have worked with thousands of clients to transform enterprise IT, migrate to cloud, apply automation and ensure business continuity. We help client run their IT better, accelerate innovation and deliver unmatched performance with the power automation.
+Who you are..
+As Incident Manager, you are responsible manages the IT infrastructure process to restore normal service operation as quickly as possible to minimize the impact to business operations
+If you thrive in a dynamic, reciprocal workplace, IBM provides an environment to explore new opportunities every single day. And if you relish the freedom to bring creative, thoughtful solutions to the table, there's no limit to what you can accomplish here.
+
+What will you do...
+Responsible for planning and coordinating all the activities required to perform, monitor, and report on the process
+Act as point of contact for all Major Incidents
+Obtains authorization for submitted change requests from the Incident & Change Authority
+Ensure post review of exception changes to evaluate if the change addressed a real or a perceived exception condition
+Utilize the Incident and change in process management reporting system to monitor and track changes
+Drive considerable initiative and discernment relative to problem determination / resolution and telephone etiquette
+Work with the ITSM Service Manager to develop and document IT Incident Management policies, processes, and procedures based on ITIL standard methodologies
+Own ITIL Incident management - analyze and design service management processes, research and present standard methodologies, and drive for continuous improvements
+Manage weekly and monthly Incident review meetings and provide data metrics to Leadership
+How we’ll help you grow:
+You’ll have access to all the technical and management training courses to grow your expertise.
+You’ll learn directly from expert developers in the field; our team leads love to mentor.
+You have the opportunity to work in many different areas to determine what really excites you.
+We always believe that it is extremely important to have the right person for the right job and you are a perfect fit to this strategy. We want people with an openness and ability to learn and who are ready to put good ideas into action. So, go ahead, and grab the opportunities – we wish you great success in your career and encourage you to bring your best self to work with IBM.
+Please Beware...
+Of misleading advertisements and fraudsters issuing 'Offer Letters', on behalf of IBM in exchange for a fee. We recommend you to Stay Alert. Read more here http://ibm.co/2fwBkyK. To avoid any instance of fraud, when receiving communication from IBM, look for this authentic IBM e-mail format: XYZ@in.ibm.com.
+EOM Statement
+Culture
+IBM is committed to crafting a diverse environment and is proud to be an equal opportunity employer. You will receive consideration for employment without regard to your race, colour, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. We are committed to compliance with all fair employment practices regarding citizenship and immigration status
+
+
+
+
+
+Required Technical and Professional Expertise
+
+Minimum 7+ years in IT Service Management - incident /problem/ change
+Ability to gather and maintain a wide array of data, analyse data, preparing reports, and introduce process improvements throughout the reporting process along with excellent and technical skills
+Experience in exercising judgment while analysing and interpreting data to ensure a high level of accuracy, timeliness, and usefulness for account
+Demonstrated expertise to prepare required documents and presentations as required
+Proven expertise to ensure high level security, accuracy, and efficiency, demonstrate attention to details
+
+Preferred Technical and Professional Expertise
+
+Working knowledge of Intel / DBA/ Unix / Windows OS/Exchange
+Proven understanding on ITIL principles
+You love collaborative environments that use agile methodologies to encourage creative design thinking and find innovative ways to develop with cutting edge technologies
+Ambitious individual who can work under their own direction towards agreed targets/goals and with creative approach to work
+Intuitive individual with an ability to manage change and proven time management
+Proven interpersonal skills while contributing to team effort by accomplishing related results as needed
+Up-to-date technical knowledge by attending educational workshops, reviewing publications
+
+About Business Unit
+At Global Technology Services (GTS), we help our clients envision the future by offering end-to-end IT and technology support services, supported by an unmatched global delivery network. It's a unique blend of bold new ideas and client-first thinking. If you can restlessly reinvent yourself and solve problems in new ways, work on both technology and business projects, and ask, "What else is possible?" GTS is the place for you!
+
+Your Life @ IBM
+What matters to you when you’re looking for your next career challenge?
+
+Maybe you want to get involved in work that really changes the world? What about somewhere with incredible and diverse career and development opportunities – where you can truly discover your passion? Are you looking for a culture of openness, collaboration and trust – where everyone has a voice? What about all of these? If so, then IBM could be your next career challenge. Join us, not to do something better, but to attempt things you never thought possible.
+
+Impact. Inclusion. Infinite Experiences. Do your best work ever.
+
+About IBM
+IBM’s greatest invention is the IBMer. We believe that progress is made through progressive thinking, progressive leadership, progressive policy and progressive action. IBMers believe that the application of intelligence, reason and science can improve business, society and the human condition. Restlessly reinventing since 1911, we are the largest technology and consulting employer in the world, with more than 380,000 IBMers serving clients in 170 countries.
+
+Location Statement
+For additional information about location requirements, please discuss with the recruiter following submission of your application.
+
+Being You @ IBM
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.

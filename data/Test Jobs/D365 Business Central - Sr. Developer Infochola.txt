@@ -1,0 +1,29 @@
+D365 Business Central - Sr. Developer
+Relational Databases
+Accounting
+Microsoft SQL Server
+Visual Basic
+SQL
+Job Summary
+We are currently seeking a Senior Technical Consultant for Microsoft Dynamics 365 Business Central.
+
+JOB RESPONSIBILITY
+
+Development in Microsoft Dynamics 365 Business Central, including aspects of the core, advanced solutions, and add-on products
+Installation, upgrade, support, and documentation of D365 BC
+Training personnel and clients in the use of D365 BC
+Learn and install add-on products
+Provide onsite and offsite consulting services and support to D365 BC clients
+Learn, utilize and promote the Project Implementation Methodology
+Obtain and maintain D365 BC certifications.
+
+
+JOB SKILLS
+
+Minimum BS, preferably in an IT related field with strong accounting/business background
+4 years of development experience
+Understanding of the core functionality of the Microsoft Dynamics products and the technical tools for application customization
+Relational database experience, preferably SQL Server
+Current technical skills in core development areas centered around the Microsoft Dynamics products including VBA, SQL, and web development languages
+Basic SSRS report writing and data schema knowledge
+Ability to function as a software developer and installer

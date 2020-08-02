@@ -1,0 +1,27 @@
+Senior Software Engineer - Cloud Eng
+Relational Databases
+Agile
+Microsoft SQL Server
+Kubernetes
+JavaScript
+Cassandra
+Selenium
+Ansible
+MongoDB
+Tomcat
+Docker
+Puppet
+Azure
+MySQL
+NoSQL
+Java
+Chef
+AWS
+Senior Software Engineer
+RSA (Security division of Dell EMC) is looking for talented and enthusiastic Software Engineers to help us architect and develop our cloud life cycle management software, leveraging deployments in Azure and AWS cloud environments. It provides RSA applications an easy interface to deploy, upgrade, and maintain complex software stacks in cloud environments.
+You will have the opportunity to develop and deploy our Atmosphere Operations Console, learning concepts such as cloud environment automation, distributed applications and databases, security architecture for cloud applications, etc., as part of an Agile Scrum team responsible for designing, developing, testing and delivering state of the art cloud products.
+The candidate must have experience with technologies listed below:3-5 years of experience developing object-oriented software with solid understanding of Java.Experience with Java Application Servers (e.g. Tomcat)Experience with Relational Databases (e.g. MySQL, MariaDB, SQL Server)Linux systems (e.g. SUSE, Ubuntu, Red Hat)Believe in concepts of 100% automated testing, push-button deploys, centralized management and logging.Experience and knowledge in the following technologies is a plus:Testing Frameworks (JUnit, Selenium)Container tools (Docker, Kubernetes)Configuration management tools (e.g. Ansible, Puppet, Chef)Possess an understanding of both network and systems securityExperience with NoSQL Databases (e.g. Azure Cosmos, Cassandra, MongoDB)Cloud based development: (e.g. AWS/Azure Development)Spring Boot and Spring FrameworkVirtualizationPerformance and scalability Java tuningWeb application development (e.g. HTML, JavaScript)Agile Scrum Development
+EDUCATIONBachelor’s degree in Engineering or Computer Science is required; Master’s degree is a plus.
+Dell Technologies is a unique family of businesses that helps organizations and individuals build their digital future and transform how they work, live and play—providing customers with the industry’s broadest and most innovative technology and services portfolio. We value our customers, winning together, innovation, results and integrity. Grow your career with a highly competitive salary, bonus programs, world-class benefits and unparalleled learning and development opportunities— all at a company that is proud to be diverse and inclusive. Learn more on how we are closing the diversity gap here.
+
+Dell is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Dell are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Dell will not tolerate discrimination or harassment based on any of these characteristics. Dell encourages applicants of all ages. Read the full Employment Opportunity Policy here.

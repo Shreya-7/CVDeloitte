@@ -1,0 +1,25 @@
+Embedded Hardware Engineer
+We are looking for ambitious hands-on coders who love building mobile applications from the ground up and have a special affection for mobile apps. An ideal fit is a person with an insatiable appetite for learning and exploring new technologies and one who is forever looking to bring improvement in the way they work, with technology to help.
+Responsibilities
+Develop robust, web-based applications interacting with databases, filesystems, and APIs.
+Design and build advanced applications for the Android platform using Java or Kotlin.
+Obsess about code quality and readability
+Remain updated on new and evolving client-side technologies, their application to our functionality or architecture goals
+Work closely in a multi-disciplinary structure to deliver world-class solutions across web, mobile, and tablets.
+Identify and establish best practices and frameworks keeping in mind parameters of performance, responsiveness, security, maintainability, extensibility, and reuse.
+Work on bug fixing and improving application performance.
+Work collaboratively in an Agile environment
+Must Have
+Experience in developing android applications with experience in Java/ Kotlin.
+Solid understanding of Android Lifecycle, Android SDK, Grade.
+Excellent command over Data Structures and Algorithms, OOPs concept.
+Strong debugging skills.
+Ability to use Android Debugger effectively to identify the issues.
+Worked on Client-Server application.
+Understating of BLE communication.
+DataStorage - Content Providers, Shared Preferences, External Storage.
+Background Processing and Multithreading - Service, AsyncTask.
+Ability to work with Data Parsing - JSON and XML.
+Knowledge of database, preferably some NoSQL DB like Mongo.
+Knowledge on Swift/ iOS, hybrid apps is a plus.
+Familiar with Git version control system

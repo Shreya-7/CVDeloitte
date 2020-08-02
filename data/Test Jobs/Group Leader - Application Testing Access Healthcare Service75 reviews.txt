@@ -1,0 +1,127 @@
+Group Leader - Application Testing
+Project Management
+Organizational Skills
+SQL
+Group Leader - Application Testing
+JOB DESCRIPTION
+Identifying rules and data required for testing various portals
+Drafting and documenting test cases and test results for testing
+Perform manual testing of suite of web applications developed by client in different environments
+Track & resolve reported defects using Team Foundation Server (TFS)
+Preparing test report
+Collaborated with the development and testing teams in an offshore – onsite model
+Working on testing mobile application on android and iPhone devices.
+Perform Analysis of the inquiries/queries raised by clients and document them using our BRD/SRD templates and determine their relevance and impact as per our system
+Clarified and prioritized requirements by conducting brainstorming sessions with the stakeholders and SMEs
+Preparation of Test Cases, Test Reports, Use Cases, BRD, and various workflow diagrams
+Create wire frames for different dashboard and screens using Balsamiq mock-up tool for different web functionalities to communicate visual data flow to the end user
+Understanding service objectives and capturing business requirements through active listening & questioning techniques
+Performing sanity/smoke testing of implemented code
+Drafting and documenting Test cases and Test results for testing
+Resolving and /or escalating complex matters to the Project Manager in a timely manner
+Point of Contact for the Development team and business team
+Collaborated with the development and testing teams and finalized work estimates for the project
+
+To be considered for this position, applicants need to meet the following qualification criteria:
+JOB REQUIREMENTS
+
+Proven experience as a Quality Assurance Tester or similar role for 2-3 years
+
+Experience in project management and QA methodology
+Familiarity with Agile frameworks and regression testing is a plus
+Ability to document and troubleshoot errors
+Working knowledge of test management software (e.g. qTest, Zephyr) and SQL
+Excellent communication skills
+Attention to detail
+Analytical mind and problem-solving aptitude
+Strong organizational skills
+Engineering, BSc/BA in Computer Science, or a related field
+
+Job Location: Mumbai
+
+Free: Pickup & Drop Cab and Food Facility
+
+
+Please Share your updated resume to careers@accesshealthcare.com
+
+Contact HR- Rathish
+Mobile.No: +91-91762-77733
+
+
+Venue:
+
+Access Healthcare Services Pvt ltd
+
+Empire Tower,
+14th floor, D wing, Reliable Cloud City, Gut no-31, Thane - Belapur Road,
+Airoli, Navi Mumbai,,
+
+Maharashtra 400708.
+
+Profile Summary
+
+EmploymentType:Full Time
+Role: Group Leader - Application Testing
+Industry:BPO , Call Centre , ITES
+Salary:Best in the industry
+Function:ITES, BPO, KPO, LPO, Customer Service, Operations
+Experience:1 - 4 Years
+Deadline:2019-03-31
+", "hiringOrganization" : { "@type": "Organization", "name": "Access Healthcare Services Pvt Ltd", "sameAs": "https://www.accesshealthcare.com/" }, "industry": "Healthcare and RCM Industry", "employmentType": "FULL_TIME", "workHours": "8:30am-5:30pm", "datePosted": "2019-08-20", "validThrough": "2019-10-30T17:30", "jobLocation": { "@type": "Place", "address": { "@type": "PostalAddress", "streetAddress": "14th Floor, D wing, Empire Tower, Reliable Cloud city, Gut No-31, Thane – Belapur Road, Airoli", "addressLocality": "Navi Mumbai", "addressRegion": "Maharashtra", "postalCode": "400708", "addressCountry": "India" } }, "responsibilities": "
+JOB DESCRIPTION
+6 months to 2 years’ experience in technical support in computer hardware/OS
+Experience in installation of Windows, Configuration, Technical Troubleshooting and Remote support
+IT admin kind of role with system troubleshooting and remote maintenance
+", "qualifications": "
+JOB REQUIREMENTS
+
+Excellent English communication Verbal & Written
+
+Willingness to work in Night Shifts (Fixed Night Shift (6:30 pm to 3:30 am)
+Ability to work independently or as team worker
+Analytical, problem-solving, and troubleshooting ability
+2 to 3 years’ experience in technical support role.
+Education – Bachelor’s degree (B.E./ B.Tech) or Diploma in Engineering, preferably in Computer Sciences
+Shift Timings and working days
+", "educationRequirements": "
+Education – Bachelor’s degree (B.E./ B.Tech) or Diploma in Engineering, preferably in Computer Sciences
+", "experienceRequirements": "2 to 3 years’ experience in technical support role." }
+Grow your career with access healthcare!
+If you want to do more with your Applications development career and deepen your knowledge of Applications Development services delivery, join a company that values your work and enables you to become a true partner to your clients by investing in your growth besides empowering you to work directly with the customer.
+Start your career as a Group Leader - Application Testing with Access Healthcare. We are always interested in talking to inspired, talented, and motivated people. Many opportunities are available to join our vibrant culture. Review and apply online below.
+JOB LOCATION: MUMBAI, INDIA
+Job Description
+Identifying rules and data required for testing various portals
+Drafting and documenting test cases and test results for testing
+Perform manual testing of suite of web applications developed by client in different environments
+Track & resolve reported defects using Team Foundation Server (TFS)
+Preparing test report
+Collaborated with the development and testing teams in an offshore – onsite model
+Working on testing mobile application on android and iPhone devices.
+Perform Analysis of the inquiries/queries raised by clients and document them using our BRD/SRD templates and determine their relevance and impact as per our system
+Clarified and prioritized requirements by conducting brainstorming sessions with the stakeholders and SMEs
+Preparation of Test Cases, Test Reports, Use Cases, BRD, and various workflow diagrams
+Created wire frames for different dashboard and screens using Balsamiq mock-up tool for different web functionalities to communicate visual data flow to the end user
+Understanding service objectives and capturing business requirements through active listening & questioning techniques
+Performing sanity/smoke testing of implemented code
+Drafting and documenting Test cases and Test results for testing
+Resolving and /or escalating complex matters to the Project Manager in a timely manner
+Point of Contact for the Development team and business team
+Collaborated with the development and testing teams and finalized work estimates for the project
+Job REQUIREMENTs
+To be considered for this position, applicants need to meet the following qualification criteria:
+Proven experience as a Quality Assurance Tester or similar role for 2-3 years
+Experience in project management and QA methodology
+Familiarity with Agile frameworks and regression testing is a plus
+Ability to document and troubleshoot errors
+Working knowledge of test management software (e.g. qTest, Zephyr) and SQL
+Excellent communication skills
+Attention to detail
+Analytical mind and problem-solving aptitude
+Strong organizational skills
+Engineering, BSc/BA in Computer Science, or a related field
+More Ways to Apply
+Email us at: careers@accesshealthcare.com
+Call us at: +91-91762-77733
+Address: 14th Floor, D wing, Empire Tower, Reliable Cloud city, Gut No-31, Thane – Belapur Road, Airoli, Navi Mumbai, Maharashtra 400 708
+Know a friend who would like to work for us? Refer and Earn money when they complete 90 days with Access Healthcare. Please note that you will need to connect your Facebook account.

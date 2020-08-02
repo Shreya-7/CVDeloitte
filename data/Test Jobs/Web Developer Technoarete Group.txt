@@ -1,0 +1,26 @@
+Web Developer
+JavaScript
+WordPress
+HTML5
+PHP
+Job Description :
+We are looking for a PHP Developer who is dedicated to the craft, writes code that they are proud of and can hit the ground running. A PHP Developer who writes beautiful, fast PHP to a high standard, in a timely and scalable way that improves the code-base of our products in meaningful ways. You will be a part of a full-stack creative team that is responsible for all aspects of the ongoing software development from the initial specification, through to developing, testing and launching.
+Responsibilities:
+Write "clean", well-designed code
+Produce detailed specifications
+Troubleshoot, test and maintain the core product software and databases to ensure strong optimization and functionality
+Contribute in all phases of the development lifecycle
+Follow industry best practices
+Develop and deploy new features to facilitate related procedures and tools if necessary
+Skills:
+Experience with Laravel/Codeigniter will be an advantage.
+Wordpress knowledge and experience is required.
+Should be good with Html/CSS and Javascript concepts.
+Experience:
+Wordpress: 1 year (Required)
+software development: 1 year (Required)
+HTML 5: 1 year (Preferred)
+total work: 1 year (Required)
+Core PHP: 1 year (Required)
+Education:
+Diploma / Degree

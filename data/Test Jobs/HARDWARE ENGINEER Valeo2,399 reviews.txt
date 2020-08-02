@@ -1,0 +1,94 @@
+HARDWARE ENGINEER
+Responsibilities:
+
+Conduct Hardware verification / validation testing:
+
+ Understand the test protocol document
+
+ Understand the design / DUT
+
+ Experience in use of various test electronic test equipments and their setup
+
+ Safe handling of equipment, spares, boards and components
+
+ Clear observation of various reading
+
+ Maintenance of record
+
+ Drafting the test report.
+
+Develop the hardware in a dedicated Team:
+
+ By delegation of the Hardware Team Leader
+
+ In the project development, apply the hardware architecture at electronics block level
+
+ Manage coverage from requirements
+
+ Do the documentation with the demonstration of the right design
+
+ Do the specification to supplier in case of new electronic component
+
+ According to the Project Technical Manager/Leader and reviewers, manage design change
+
+ Do the validation on sample of the design/prototypes
+
+ Prepare the design review and fill the check-lists
+
+ Alert in case of issue
+
+
+Professional Experience
+
+At least 3 years hardware designing experience on:
+
+
+General:
+
+ Good at basic analogue and digital knowledge
+
+ Basic experience in hardware design and development lifecycle
+
+ Good at communication
+
+ Understand automotives electronics
+
+ Be good at English (Writing, reading, speaking, listening)
+
+ Good teamwork spirit
+
+Work specific:
+
+ Experience in Cadence/ORCAD/Pspice/Simetrex
+
+ Experience in EMC / EMI
+
+ Experience in Interface CAN / LIN / SPI / I2C
+
+ Experience in Signal Integrity
+
+ Experience in Camera – CMOS
+
+ Experience in Video Transmission (LVDS, Ethernet, NTSC, Wi-Fi)
+
+ Experience in Power supply design – DCDC / LDO / SBC
+
+ Experience in MCU
+
+ Experience in Video Processing Module – SOC
+
+ Experience in Memory interface – NAND, NOR, DDR, eMMC
+
+ Experience in using instruments like – PUS, oscilloscope, spectrum analyzer, signal generators
+
+BE/ ME / MTech /MS in Electronics from a reputed Institute .
+
+3-6 years of experience in electronics design
+Primary Location: IN-TN-Chennai 3
+Job: Research and Development
+Organization: C25E Group Expertise VECI
+Schedule: Full-time
+Shift: Day Job
+Employee Status: Regular
+Job Type: Regular
+Job Posting: 25/01/2019, 3:51:00 AM

@@ -1,0 +1,38 @@
+QA (Automation Testing)
+Project Management
+Organizational Skills
+Need to have
+Experience: 2-5 years
+ Experience in Project Management and QA methodology
+ Good hands-on following Tools :
+ JIRA, Trello, Bugzilla
+ Selenium WebDriver, Selenium Grid
+ Protractor
+ Cucumber
+ Robot Framework
+ Katalon Studio
+Good to have
+ Strong communication skills to effectively collaborate with team members, developer or client
+We are looking for
+A QA Tester to assess software quality through manual and automated testing. You will be responsible for finding and reporting bugs and glitches. In this role, you should have a keen eye for detail and excellent communication skills. If you are also competent in executing test cases and are passionate about quality, we would like to meet you. Ultimately, you will ensure that our products, applications and systems work correctly.
+Key Responsibilities
+ Perform manual and automated testing
+ Perform mobile (native/hybrid), desktop and web testing
+ Proven experience as a Quality Assurance Tester or similar role
+ Familiarity with Agile frameworks and regression testing is a plus
+ Analytical mind and problem-solving aptitude
+ Should be a good team player
+ Ability to manage multiple projects and meet deadlines
+ Should have knowledge about bug tracking tools like JIRA, Trello etc.
+ Should have knowledge about automation tools like Selenium, Protractor, Cucumber
+ Should be able to work on Device Farms
+ Strong organizational skills
+ Ability to work on all OS like Windows, Ubuntu, Mac
+ Ability to document and troubleshoot errors
+ Research new tools, technologies and testing processes
+ Identify, isolate, and track bugs throughout testing
+ Review user interfaces for consistency and functionality
+Selection Process
+Send your resume to us at jobs@iauro.com
+
+Shortlisted profiles will hear from us soon.

@@ -1,0 +1,11 @@
+Android Developer
+Android
+Google Cloud Platform
+REST
+SQL
+Responsibilities:
+Translate designs and wireframes into high-quality code Identify and correct bottlenecks and fix bugs Strong knowledge of Android SDK, different versions of Android, and how to deal with different screen sizes Familiarity with RESTful APIs to connect Android applications to back-end services Strong knowledge of Android UI design principles, patterns, and best practices Experience with offline storage, threading, and performance tuning Ability to design applications around natural user interfaces, such as touch Familiarity with cloud message APIs and push notifications Knowledge of Integration of 3rd party SDK App store uploading process for Android developer Experience with offline storage e.g. SQL LITE Strong knowledge of Android UI design principles, patterns, and best practices with all android versions Good Knowledge of for Android applications to back-end services Knowledge of social media API integration (Facebook, Google, Twitter, Linkedin, Instagram) Knowledge of Integration any Payment Gateway Knowledge of Google cloud messaging, Push Notification, Google Map, Location tracking & GPS
+
+
+Education & Experience:
+Bachelor’s degree or equivalent in appropriate field of study, i.e. Information Technology, Computer Science Minimum 1 Year of Experience Required

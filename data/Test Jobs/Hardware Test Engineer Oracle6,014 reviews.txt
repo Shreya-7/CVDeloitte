@@ -1,0 +1,35 @@
+Hardware Test Engineer
+Hardware Test Engineer-190013J8
+
+
+Applicants are required to read, write, and speak the following languages: English
+
+Preferred Qualifications
+
+Oracle is searching for highly motivated engineers who want to maximize their skills developing cutting edge hardware systems for secure, diverse, content rich networks.
+
+Department Description:
+
+As part of the Communications Global Business Unit On-Premise Hardware Development Team, the applicant will be involved in developing the next generation of Oracle hardware underlying secure, efficient and highly scalable networks. These systems utilize cutting edge technology to deliver best in class performance, simplified management, and cost-saving efficiencies in both enterprise and communication service provider deployments.
+
+Position Overview:
+
+Our organization is looking for highly motivated, dedicated team members to drive hardware design & development for these products. Engineers will utilize a broad skillset to implement designs and participate in all phases of product development including:
+Initial concept and platform architectureComponent selection and qualificationDesign implementation (schematic design, physical layout, simulation)Manufacturing, assembly, testRapid prototyping, bringup and debugDesign Verification TestingTroubleshooting and fault identification
+
+Job Responsibilities:
+
+Engineers on our team have broad opportunity to explore multiple areas of electrical systems design including:
+High speed I/O bus architecture (PCI Express, USB, SAS/SATA)Network and Security Processors, DSP technologyI/O interfaces (USB, Ethernet)Processor interfacesDigital and analog power systems
+
+Candidate Profile:
+BS or MS in Electrical Engineering or Computer Engineering plus 1-4 years of relevant experienceExperience with Computer Architecture/Systems. Completed board designs of medium to high complexity with high qualityFamiliarity with x86 architecture, DDR4, PCIeExperience with lab debug/bringup and associated equipment (logic analyzers, high speed oscilloscopes)
+- Experience with high speed design concepts (10 - 20 Gbps)Experience with PCB design toolsExperience with FPGAs desirable
+
+Detailed Description and Job Requirements
+
+Evaluates reliability of materials, properties and techniques used in production; plans, designs and develops electronic parts, components, integrated circuitry, mechanical systems, equipment and packaging, optical systems and/or DSP systems.
+
+Responsible for designing, developing, modifying and evaluating electronic, electro-mechanical or mechanical components, assemblies or integrated circuitry for hardware systems for the external market. Includes new design, as well as modification activities that results in significant product enhancement. Activities encompass design, analysis, testing and process development using engineering principles and methods. Technical disciplines may include electrical and logical design of printed circuit boards or integrated circuits; mechanical design of electronics enclosures or integrated circuit packaging; and embedded software/firmware design.
+
+Duties and tasks are standard with some variation; displays understanding of roles, processes and procedures. Performs moderately complex problem solving with assistance and guidance in understanding and applying company policies and processes. BS degree or equivalent experience relevant to functional area. 1 year of engineering or related experience.

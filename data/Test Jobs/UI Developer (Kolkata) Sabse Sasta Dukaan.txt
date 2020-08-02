@@ -1,0 +1,34 @@
+UI Developer (Kolkata)
+Agile
+JavaScript
+Bootstrap
+Node.js
+MongoDB
+HTML5
+AJAX
+We are looking for a UI developer who can design and implement user interfaces for maximum usability and performance in web applications.
+Location:
+Kolkata
+Job Responsibilities:
+Proficient in HTML5/CSS3/JQuery/Vuejs front-end code across a broad array of interactive web and mobile projects.
+Develop and test across multiple browsers, platforms, and devices, including smartphones and tablets.
+Building web applications by doing research on different frameworks/tools/technologies and giving best in class user experience
+Understand Agile methodology and instill best practices into the process.
+Web environment : Node.JS/ VueJS/ JavaScript/MongoDB, HTML5, and typescript
+CSS3,AJAX,Bootstrap
+Requirements:
+Strong knowledge of Web UI design principles, patterns, and best practices
+Excellent knowledge of hand-coded HTML5, CSS3, Object-Oriented JavaScript
+Experience in building HTML framework using Foundation Grid system, Compass CSS authoring framework Good
+Experience in working with Responsive Layouts, Design/PSD to HTML conversion
+A strong and innovative approach to problem-solving and finding solutions
+Flexible and proactive/self-motivated working style with strong personal ownership of problem resolution
+Experience with third-party libraries and APIs(Preferred)
+Experience using fluid grids, and building responsive websites(Preferred)
+Track record for teamwork and group participation(Preferred)
+Education:
+B. Tech/ M. Tech/ MCA / PGDCA
+Experience:
+We are looking for a UI developer who can design and implement user interfaces for maximum usability and performance in web applications.
+Salary:
+25,000-35,000

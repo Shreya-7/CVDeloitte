@@ -1,0 +1,19 @@
+Full Stack Developer (Java/J2EE/Spring/Hibernate/Angular/ReactJS)
+Java
+Hibernate
+Angular
+React
+Salesforce
+OOP
+Google Cloud Platform
+Agile
+JavaScript
+Bootstrap
+Node.js
+REST
+NoSQL
+HTML5
+JSON
+AWS
+SQL
+SpicaStream Solutions is founded by a group of enterprise architects having deep expertise in providing enterprise solutions to solve business problems. Our team consists of highly experienced associates with a total of 50 years of industry experience combined. Our experience spans across developing architectures and solutions in Integration, Salesforce CRM, HCM and FullStack/ Cloud development. SpicaStream architects are business savvy and have insight that matches their ability to develop and deploy complex technical solutions to align with our Clients business strategy. We provide strategic management and consulting services for Application modernization, Digital transformation and Cloud adoption services. Our service offerings span across Customer Relationship Management, Master Data Management, API Led Integration, DevOps, AWS, Google Cloud and Managed Services.We are looking for highly motivated and experienced Full Stack Developers having 2-4 years of hands on experience on Core Java, J2EE, Angular, React JS, Javascript, NodeJS (Node.js), Bootstrap, Agile/ScrumThe role would require you to:Develop, customize, maintain and monitor applications for web platforms, utilizing the latest technologiesResponsible for analyzing business requirements and translating them into technical termsDocumenting solutions and communicating with other team members on the way forwardFollow a Test Driven Development (TDD) approach to software developmentProactively Investigates, analyses and fixes reported defects.Work to enhance, maintain, and create Microservices in JavaDesign, build, and unit test software in a collaborative environmentWrite clear, efficient, scalable, and maintainable codeParticipate in design and code reviewsParticipate regularly in an Agile team environment and scheduleRequirements: Minimum 2-4 years of Java/J2EE developmentExperience in developing web services/APIs (RESTFUL)Extensive experience about Spring Framework (Springboot, dependency injection, Data access, transaction management, MVC, batch) management.Experience in Spring Security OAuth.Experience with microservice-development using Springboot.In-depth knowledge of XML, WSDL, JSON, NodeJS.Proficiency in Linux, SQL and NoSQL.Solid knowledge pertaining to Object Oriented Design Patterns.Previous experience delivering software as a part of an agile team.Minimum 2-4 years of JavaScript, AngularJS, ReactJS, ViewJS development.Develop and troubleshoot UI-components having JavaScript, Bootstrap, CSS, HTML5, Angular, ReactJSJob Type: Full-timeExperience:java/j2EE: 2 years (Required)Angular or ReactJS: 2 years (Required)Education:Bachelor's (Required)

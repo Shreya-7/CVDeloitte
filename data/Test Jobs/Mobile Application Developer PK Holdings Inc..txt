@@ -1,0 +1,12 @@
+Mobile Application Developer
+Test Automation
+Graphic Design
+Android
+Agile
+Unit Testing
+Jenkins
+SQLite
+REST
+iOS
+Git
+We are looking for a candidate who is energetic and has a passion for developing & evolving mobile applications and service platforms. The candidate should have the ability to self-manage without continuous delivery oversight.Responsibilities:Desire to work in a startup environmentPerform full life-cycle development of innovative mobile applications made for global usersUtilize best practices in iOS / Android development and unit testingUtilize version control and continuous integration with tools such as Git and JenkinsAdhere to agreed upon delivery schedulesMaintain documentation of development and unit testing activitiesShould show integrity and ability to adapt and grow with the products that you buildShould be proactive in seeking clarifications and acquiring complete understanding of business requirementsQualifications:Computer science degree / BSc IT / equivalent qualitification2+ years of experience in mobile applications developmentExperience in development in Dart, either with Flutter or for the webShould have basic knowledge of Database, OOPS concepts and Data StructuresExperience in developing integrations with common APIs like SQLite, Google APIs, Social APIs, Core Android APIs, Framework APIs (Camera, Media), Push Notification and worked with App Security'sWorking knowledge of the general mobile landscape, architectures, trends, and emerging technologiesSolid understanding of the full mobile development life cycle, including automated testing and buildingExperience with agile development and developing client-server applications using technologies and web service APIs such as REST would be an advantageExperience with graphic design would be an advantageJob location:Goregaon, MumbaiExpected CTC:Depending upon previous experience and skillset, candidate can expect CTC between 2.5 - 3.0 lakhs per annumNote:First round of interview will be conducted on a video call, while later rounds will be conducted face to faceIt will be a 5 day work week, however the 2 weekly offs may be offset to Monday & Tuesday or Wednesday & ThursdayAspiring candidates are requested to contact at below:Parth KMobile: +91 9819351293Job Type: Full-timeSalary: ₹250,000.00 to ₹300,000.00 /yearExperience:work: 1 year (Preferred)mobile application development : 2 years (Preferred)Education:Bachelor's (Preferred)

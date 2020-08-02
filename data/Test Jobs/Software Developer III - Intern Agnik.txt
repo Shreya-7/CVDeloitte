@@ -1,0 +1,7 @@
+Software Developer I/II - Intern
+C/C++
+Java
+Position: Software Developer I/II - Intern
+
+Status: Open and Continuous
+AGNIK is looking for a number of intelligent, hard-working, team-oriented Graduate and Undergraduate Student interns who enjoy developing professional software. We are interested in candidates with strong interest in algorithm development, implementation and excellent programming experience in Java and/or C/C++. Candidates must be either Junior/Senior/ Graduate students doing BS or MS/PhD in Computer Science or Computer Engineering. These are paid intern positions. Candidates must be authorized to work in the United States. No Security Clearance is Required. The interns will be involved in + Design, implementation and testing of data stream mining algorithms for embedded and distributed systems + Design, development, testing and debugging software + Helping with writing the design documentations Education and/or Experience: + Pursuing BS/MS/Ph.D in Computer Science + Strong interests in algorithm development + Excellent programming skills in Java and C/C++ + Strong verbal and written communication and interpersonal skills are essential. In order to be considered for this position, please send your resume to jobs@agnik.com with subject line "Software Intern".

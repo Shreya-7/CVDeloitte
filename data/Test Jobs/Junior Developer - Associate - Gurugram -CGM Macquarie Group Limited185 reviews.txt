@@ -1,0 +1,45 @@
+Junior Developer - Associate - Gurugram -CGM
+NoSQL
+Python
+Java
+SQL
+AWS
+Continuous Integration
+Java Engineer – Gurugram
+
+We are seeking an outstanding developer with a passion for product development to join our technology team aligned to Commodities and Global Markets Group (CGM). CGM is the global trading & hedging, financing and research operations within Macquarie and is a core business with strong Global foundations. This is a great opportunity for a developer with strong technical and communication skills to deliver in a challenging and dynamic environment.
+
+In this position there will be a focus on project deliveries across a large range of applications supporting the business. You’ll be part of a dynamic team that supports globally used applications.
+
+At Macquarie we support our teams to explore and grow through experimentation, hackathons, learning and community involvement.
+
+About the role
+
+Design, development, testing (unit & automation), implementation and maintenance of software solutions with a focus on quality and DevOps principles
+Production support, including coordinating the resolution of High Severity incidents
+
+To be successful in this role you will have experience in a selection from the following;
+
+build and maintain new and existing applications using Java and related technologies.
+exposure to highly transactional message-based systems, complex event processing and micro-services architectures covering batch, real-time, synchronous and asynchronous patterns strong knowledge of SQL/No SQL databases
+passion for Test Driven Development (TDD)
+scripting – Unix, Python
+experience with AWS
+worked in CI/CD environments
+relevant tertiary qualifications in engineering, computer science or equivalent
+financial industry experience would be highly regarded
+
+
+Macquarie understands the importance of diversity and inclusion - our long history of success has come from being different. At Macquarie we value the innovation and creativity that diversity of thought brings. The one thing we all have in common is our focus on high performance. If you're capable, motivated and can deliver, we want you on our team.
+
+Founded in 1969, Macquarie Group is a global financial services provider with offices in 28 countries. Our long history of success has come from being different. We value the creativity that diversity of thought brings and we promote an innovative and entrepreneurial culture. The one thing we all have in common is our focus on high performance. If you’re motivated and can deliver, we want you on our team.
+
+The Corporate Operations Group (COG) brings together specialist support services including workplace, HR, technology and market operations to drive operational excellence. Technology provides business-aligned account management, software development and manages Macquarie's enterprise-wide technology.
+Job no: COG-953062
+Work type: Full time
+Location: Gurugram
+Category: Junior, Corporate Banking
+Group: Corporate Operations Group
+Division: Technology
+Recruiter: Mahak Maheshwari
+Opening Date: 30/4/2020

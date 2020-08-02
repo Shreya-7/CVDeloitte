@@ -1,0 +1,14 @@
+Manager
+Description
+The IT Operations Specialist focuses upon activities that help to identify and manage the changing customer / business / user needs (regarding IT requirements) and ensure customer satisfaction with Vodafone�s IT products and services in line with the Customer Service Management strategy. Providing technical advice and administration across the IT lifecycle for all end-users.The IT Operations Specialist has a good understanding of established concepts and procedures in IT operations including administration and maintenance of assigned applications, services, systems and solutions, incident management, problem management, change and release management and vendor management, to drive improvements through innovation, best practice techniques, and collaboration.Typically reports to the IT Operations Manager.
+Job Responsibilities
+Advises on and executes administrative activities against the operations plans, to enable the achievement of the Technology strategy;Supports the team to deliver appropriate actions to keep the system/service in good working order, preventing incidents from arising and restoring system/service to normal operation in line with objectives and KPIs;Effectively coordinates with colleagues to deliver required applications, systems and solutions for all end-users, related to incident management, problem management, change and release management and vendor management;Understands market trends and contributes to suggested improvements for processes, procedures and business interfaces related to IT Operations and maintenance activities, ensuring operating efficiency for all applications and support;Executes the tasks and activities in line with the plan to ensure the effectiveness of the area;Supports the end-to-end projects that improve customer and employee satisfaction ;Supports the team in automation and digitisation, capacity planning, analysing, reporting and investigating service performance metrics;Maintains relations with internal and external partners;Uses communication skills to exchange ideas and information in a concise and logical way to support the team priorities, resolve incidents and interface with 1st line teams and with suppliers on incident resolution;Performs other job-related duties or tasks defined by the supervisor or resulting from assigned agendas;
+Skills
+Monitor and Diagnose
+Incident Response
+Data Driven Decision Making
+Dev Ops
+Security
+Software Engineering
+Cloud
+Automation and Robotics

@@ -1,0 +1,12 @@
+Front End Web Developer
+SEO
+JavaScript
+Backbone.js
+Adobe Photoshop
+Angular
+React
+HTML5
+AJAX
+Git
+SVN
+ResponsibilitiesDevelop new user-facing featuresBuild reusable code and libraries for future useEnsure the technical feasibility of UI/UX designsOptimize application for maximum speed and scalabilityAssure that all user input is validated before submitting to back-endCollaborate with other team members and stakeholders{{Add other responsibilities that are relevant}}Skills And QualificationsProficient understanding of web markup, including HTML5, CSS3Basic understanding of server-side CSS pre-processing platforms, such as LESS and SASSProficient understanding of client-side scripting and JavaScript frameworks, including jQueryNote: Every front-end developer is expected to have a proficient knowledge of JavaScript, while most front-end developers should know jQuery.Good understanding of {{Depending on the specific case, a developer should have the knowledge of advanced JavaScript libraries and frameworks, such as Angular, KnockoutJS, BackboneJS, ReactJS, DurandalJS etc.}}Good understanding of asynchronous request handling, partial page updates, and AJAXBasic knowledge of image authoring tools, to be able to crop, resize, or perform small adjustments on an image. Familiarity with tools such as as Gimp or Photoshop is a plus.Note: A UI/UX designer is expected to deliver finished resources for the developer to incorporate into the app. However, quite often a front-end web developer needs to make some small adjustments.Proficient understanding of cross-browser compatibility issues and ways to work around them.Proficient understanding of code versioning tools, such as {{Git / Mercurial / SVN}}Good understanding of SEO principles and ensuring that application will adhere to them.{{Make sure to mention any other framework, library, or any other technology related to your development stack}}{{List education level or certification you require}}Job Type: Full-timeSalary: ₹8,000.00 to ₹10,000.00 /monthExperience:Programming / HTML: 1 year (Preferred)css: 1 year (Preferred)total work: 1 year (Preferred)AngularJS: 1 year (Preferred)Licence:Magneto (Preferred)Work Remotely:Temporarily due to COVID-19

@@ -1,0 +1,15 @@
+Hardware Design Engineer
+Hardware Design Engineer - Baroda
+Job Description
+Development of embedded hardware products including design, prototyping, testing, debug
+Board-level mixed signal circuit design, component selection and schematic developmentDesign of and support for printed circuit board developmentBoard bring up, debugging and bug trackingAssembly of electronic componentsSupport for developing embedded system products including writing requirements, manuals, test procedures and test reports for such productsHands-on experience in embedded system hardware design and developmentExperience in circuit design, printed circuit board schematic and layout development for multi-layer, compact PCBsFamiliarity with 8051/AVR/ARM/PIC Micro ControllerExperience in sensor interface design and high speed interfaces such as USB, I2C, UART, SPI, Ethernet, CANExperience in component selection and developing BOMs
+
+
+Job Requirements
+Good knowledge of analog and digital electronics • Knowledge of design for EMI / EMC compliance, testability and manufacturability is a plus • Knowledge of industry standards for embedded hardware design • Excellent communication skills, both oral and written • Self-driven, ability to work independently
+
+
+About Company
+RK HR Management, Ahmedabad based Human Resource Consultant, has 10 years of experience in providing Manpower, Staffing, Executive Search, and headhunting services PAN India.
+RK HR Management human resource consultant provides different executive and headhunting search services to reputed corporate entities for different function & Industry domains in technical & non-technical areas from executive to top management levels across India.
+RK HR Management human resource consultant works with a selected number of clients and serves their entire business staffing requirements including Executive Search, Staffing and permanent recruitment from executive to top management levels. RK HR Management manpower consultant Ahmedabad knows market niche so intimately that can provide excellent advice to their clients about candidate availability, sourcing methods, salaries & benefits, hiring timeframes.

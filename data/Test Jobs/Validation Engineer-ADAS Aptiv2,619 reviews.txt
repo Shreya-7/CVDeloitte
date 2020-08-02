@@ -1,0 +1,23 @@
+Validation Engineer-ADAS
+We are looking for
+A graduate in BE/B.Tech/ ME/ M.Tech (Electricals/Electronics/ Instrumentation, CS, Robotics)
+An experience of 5-10 years
+A go-getter, good in communication, challenge ideas to achieve career aspirations aligned with Aptiv mission
+A Learning Enthusiast to be passionate about learning, follow trends and publications in the market outlining new solutions
+Skill Set Requirement
+Essential
+Connectivity & Security Specific: Body/Chassis [Body Computer Module, Immobilizer, RKE, PKE, Vehicle Connectivity/Gateway Module, V2X]
+Advanced Safety: Radars, ADAS, Camera, LiDAR
+UX: Radio, Navigation, Clusters, Telematic
+Communication protocols: CAN/CAN-FD/ J1939/GMLAN/LIN/Flexray/Ethernet/
+Powerline Communication Protocol
+Diagnostic protocols : KWP, ISO 14229 (UDSOnCAN, UDSOnFR), DoIP, ISO 15765, ISO 10681
+Programming: CAPL, Python, PERL, Tcl/Tk, Labview
+Test Framework: Vector, NI, dSPACE
+Requirement Management: DOORS/POLARION
+Bug Management: JIRA/Change Synergy
+ASPICE (especially SYS.4 & SYS.5)
+Desirable
+Agile/Scrum principles | Functional Safety standards and Testing | Cyber Security on automotive products; Instrumentation Protocol : CCP, XCP | Hardware knowledge
+
+Aptiv is an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender identity, sexual orientation, disability status, protected veteran status or any other characteristic protected by law.

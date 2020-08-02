@@ -1,0 +1,12 @@
+Front End Developer
+SEO
+Relational Databases
+Organizational Skills
+OOP
+Responsive Web Design
+JavaScript
+Bootstrap
+REST
+Angular
+HTML5
+We are looking for an outstanding Web Developer for writing well designed, testable, efficient codes as well as for creating innovative design and layouts of our website. Main responsibility will be Creating website layout/user interfaces by using standard HTML/CSS practices and Integrating data from various back-end services and databasesResponsibilitiesWrite well designed, testable, efficient code by using best software development practicesCreate website layout/user interface by using standard HTML/CSS, JavaScript, JQuery and API's. PracticesExperience with responsive design (bootstrap or equivalent)Experience with i8n / localizationIntegrate data from various back-end services, restful APIs and databasesGather and refine specifications and requirements based on technical needsCreate and maintain software documentationBe responsible for maintaining, expanding, and scaling our siteStay plugged into emerging technologies/industry trends and apply them into operations and activitiesCooperate with web designers to match visual design intent.RequirementProven working experience in web programmingTop-notch programming skills and in-depth knowledge of modern HTML/CSSDeep experience with Angular 6+A solid understanding of how web applications work including security, session management, and best development practicesAdequate knowledge of relational database systems, Object Oriented Programming and web application developmentCandidate must have a strong understanding of UI, cross-browser compatibility, general web functions and standards.Basic knowledge of Search Engine Optimization processAggressive problem diagnosis and creative problem solving skillsStrong organizational skills to juggle multiple tasks within the constraints of timelines and budgets with business acumenAbility to work and thrive in a fast-paced environment, learn rapidly and master diverse web technologies and techniques.Experience of eCommerce site development will be added advantage.Experience : 3 - 4 YearsSkillsAngular 6+, Web Development, Front End DevelopmentJob Type: Full-timeSalary: ₹200,000.00 to ₹500,000.00 /yearExperience:Angular: 2 years (Preferred)total work: 3 years (Required)javascript: 2 years (Preferred)Front End Development: 2 years (Preferred)Location:Hinjewadi, Maharashtra (Preferred)Work Remotely:Temporarily due to COVID-19

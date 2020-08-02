@@ -1,0 +1,15 @@
+Quality Assurance
+Company Description
+
+Mindbowser Info solutions is a digital transformation services provider working with global brands aiding on their journey to digital transformation. Mindbowser offers a suite of products and services around user experience, automation, analytics, and mobility that in turn helps businesses become more efficient and improves profitability.
+
+Job Description
+Experience in manual testing of web applications as well as mobile applications.Good understanding of the SDLC, STLC, Agile & different bug tracking tools like JIRA, Trello etc.Should have good implementation knowledge in Testing like (System, regression,re-testing, sanity, Smoke and explanatory)Also should have the knowledge of the API testingAbility to work independently.Exposure to Automation testing is an added advantageGood communication skills.
+
+Qualifications
+
+BE/BTech/Mtech/MCA
+- Experience:- 0-1 year
+Additional Information
+
+Fluency in spoken and written English

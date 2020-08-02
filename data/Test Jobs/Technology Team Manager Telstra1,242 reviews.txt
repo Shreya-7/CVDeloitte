@@ -1,0 +1,30 @@
+Technology Team Manager
+Continuous Improvement
+Ready to join one of the world’s largest Telecommunication providers working on some of the best technologies in the market?
+World Class organizations are driven by a sense of purpose.Our purpose is to create a brilliant connected future for everyone! Our ambition is to enrich lives and power commerce. It's why we're constantly finding better ways to serve our customers and why we're building new ways to support our clients doing business.
+Who we are?
+Telstra is Australia's leading telecommunications and information services company employing over 37,000 staff, being the most well-known brand in the technology and communications industry.
+We offer a full range of services and compete in all telecommunications markets throughout Australia, providing more than 9.6 million Australian fixed line and 12.2 million mobile services.
+Looking for : Solutions Architect
+Qualification & Experience:
+Minimum 10 years of experience in designing and developing software systems preferably for wireless network management systems.
+Experience and knowledge with multiple front-end and back-end software technologies.
+Technologies like Java/J2EE JavaScript based technologies like Angular, React, Redux, back-end technologies like node.js etc
+Good understanding of public cloud like AWS, Google Cloud, Azure
+Experience with multiple database ie. RDBMS, Graph DB, NOSQL, Big Data technologies etc.
+Key Accountabilities:
+Architecture, development and support of systems and automation initiatives across the radio domain for network configuration, observability, analytics, reporting and element management.
+Ensure the chapter members have appropriate competencies and skills by continuous improvement of their skills and the area of expertise as a whole. Align development direction with wireless group vision.
+Build capability and manage performance and career goals of members in consultation with Wireless Systems development team leaders.
+Determine WoW with wireless system team s and implement the user of standard together with the chapter members, challenge members to share and improve best practices to ensure the chapter remains delivering high quality outcomes.
+Be on top of the latest developments within your chapters area of expertise. Regularly organise alignment meetings to update chapter members.
+Own and manage the technical solutions, build and support all the network system and automation initiatives across the Wireless Access group.
+Transform Epics into new capability/feature, fixes and updates
+Work closely with other Telstra team (Telstra security team, Cloud infrastructure team etc.) to develop solutions which follow Telstra strategy and meet business needs.
+Performance regular people management activities.
+What can we offer you?
+In return for all your hard work within this role, you will be given exposure to a wide variety of career pathways within Telstra, with plenty of scope for learning and development.
+Working for the most successful Telco Company also brings with it some great benefits, including:
+Working with the Specialists in the APAC Region who provide support and mentoring, Substantial discounts on a range of Telstra products, Financial benefits such as Telstra Share Options, Great Salary Packaging Options and discounts on various retail, health and fitness and entertainment areas.
+Excellent work/life balance that allows you to have an excellent divide of personal needs and work commitments and performance bonuses*. Check out our website for more information and testimonials from our Employees.
+We’re committed to building a diverse and inclusive workforce. To enable everyone to participate, we’ve developed an ‘All Roles Flex’ policy to consider flexible ways of working for every role. To learn more, visit https://careers.telstra.com/allrolesflex

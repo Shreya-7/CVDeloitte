@@ -1,0 +1,39 @@
+Software Test Engineer
+Power BI
+Microsoft SQL Server
+JavaScript
+Big Data
+.Net
+HTML5
+SQL
+OOP
+Everyone communicates. It’s the essence of the human experience. How we communicate is evolving. Technology is reshaping the way we live, learn and thrive. The epicenter of this transformation is the network—our passion.
+Our experts are rethinking the purpose, role and usage of networks to help our customers increase bandwidth, expand capacity, enhance efficiency, speed deployment and simplify migration. From remote cell sites to massive sports arenas, from
+busy airports to state-of-the-art data centers—we provide the essential expertise and vital infrastructure your business needs to succeed. The world’s most advanced networks rely on CommScope connectivity
+
+Job Title : Software Test Engineer
+
+General Summary : This role will be responsible for designing and developing test software and reporting tools to be used in the testing of wireless products. Will work as part of a global test engineering team to develop software to further automate testing of products and ensure consistent utilization at all plants. Also responsible for the implementation of commercial and custom test hardware into the test platform.
+
+Duties & Responsibilities :
+Develop, debug and implement software test solutions for mass production of RF products: using C# on Microsoft .NET (mostly .NET Core with ASP.NET Core), combinations of SQL server persistence, and an array of front-end frameworks - primarily HTML and JavaScript
+Manage and test engineering SQL database for use in global manufacturing facilities
+Develop custom, real time statistical reports and user interfaces from database queries, and business intelligence tools & reports from RF products testing big data
+Work within a team environment while collaborating with Operations, Engineering and Quality teams
+Provide guidance and ideas for continuous improvement of test engineering tools and features
+Align with manufacturing strategies and product roadmaps.
+
+Qualification : Bachelor's degree in Software Engineering, Information Technology or equivalent
+
+Experience : 4 - 7 years of related experience. 1+ years’ hands-on software development experience with .NET and related technologies, including C#, MVC, HTML5, CSS, JavaScript, jQuery, ASP.NET, OOP
+
+Skills Required :
+Good knowledge of SQL server database development, e.g. table design, writing stored procedures, improving query performance.
+Familiar with SQL Reporting/Business Intelligence (e.g. MS Power BI)
+RF and digital hardware design experience.
+Controls, PLC, IoT preferred
+Experience with factory testing
+Attention to detail and ability to thoroughly document projects (e.g. schematics, BOMs, user manuals, drawings, etc.)
+Experience working as part of a global cross functional team
+Proficient in English language and can communicate technically clear.
+Commscope is an Equal Opportunity Employer.

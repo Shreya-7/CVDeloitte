@@ -1,0 +1,54 @@
+Software Developer (Fresher)
+Git
+Web and mobile technologies.
+Are you fresh out of college and find yourself at the center of this?
+
+You can begin your journey with us building applications to make an impact on the healthcare, social sector, or any of other domains ColoredCow works in. You will work collaboratively with experienced engineers on the best and latest technologies and frameworks.
+
+In a nutshell, you can be a part of a diverse startup environment where you will develop world-class applications using the latest tools and technologies.
+The right environment that benefits your journey
+Work in a non-hierarchical structure to live up to the opportunities as big as you want
+Craft the career that’s unique to you in a collaborative and no B.S. environment
+Utilize your talents to contribute and grow in different directions
+Experiment, explore and be creative with the development practices The environment you need, for a greater achievement
+
+To do your best and be at the top of your game, you’ll get access to-
+
+Library with the ability to have any book you need,
+Subscription to Laracasts and other modern training to grow your career in web development,
+Subscription to Leading journals and magazines to be exposed to ideas for holistic growth,
+Being at the conferences, becoming a better part of the community,
+Option to work from a natural location in the hills whenever you want (we have another office in the hills)
+What you bring to the table
+You should preferably have an engineering degree with a background of computer science. You should be eager to learn and be familiar with the basics of-
+
+Database management,
+SDLC,
+Data structures and Algorithms,
+
+This is how we see a great match in walking towards success together,
+
+Do these excite you?
+On your path to building products remarkably, the team will walk with you to become masters at the skills below. However, any prior knowledge will help in getting there faster-
+
+Building
+Custom software, developing on both clientside and serverside.
+Integrations with 3rd party tools and services
+Unit tests for your modules
+Effectively using the tools – Git, Github, SublimeText/VSCode, NPM, Composer, Grunt/Gulp, Browser DevTools, Command Line Interface, to deliver your best.
+Understanding the business domain and working in close proximity with the clients to discuss requirements and deliver end to end results
+Owning the maintenance of cloud infrastructure for your applications.
+Learning new technologies and frameworks, with knowledge of
+Back-end programming: Laravel 5.6, WordPress, CodeIgniter
+Front-end programming: ECMAScript 2016, SASS/LESS, Bootstrap3/4, VueJS v 2.0
+Mastering concepts such as – Version Control, Design Patterns, Continuous Integration and Testing frameworks in Laravel, performance optimization, programming standards, and best practices.
+Past projects for you to checkout
+Multiplying the output and influence of an NGO – Reducing dependence on resources for operations, through a custom tool
+
+MORE PROJECTS
+https://www.facebook.com/ColoredCowConsulting/
+
+If you’d like to be a part of the community that wants to shake things up and make a dent in the universe, that not just believes in doing the work but making a difference with it. If you’d like to leave a legacy, you may find ColoredCow as the right place for you.
+
+
+Behind the scenes: how we wrote the job descriptions.

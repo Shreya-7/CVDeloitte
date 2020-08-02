@@ -1,0 +1,33 @@
+Graduate Trainee
+Job Title: Junior Associate
+Location: TRIL GTC
+GCL :C1
+Job Purpose / Summary
+We are looking for a Data Engineer who will support our sales and marketing teams with insights gained from analyzing data. The ideal candidate is adept at using large data sets to find opportunities for optimization and using models to test the efficiency of different courses of action. They must have strong experience using a variety of data mining/data analysis methods, using a variety of data tools, building and implementing models, using/crafting algorithms and building/running simulations. They must have a proven ability to drive business results with their data-based insights. They must be comfortable working with a wide range of partners and functional teams. The right candidate will have a passion for discovering solutions hidden in large data sets and working with partners to improve business outcomes
+Accountabilities / Responsibilities
+Work with large, complex datasets. Seek difficult, non-routine analysis problems, applying advanced analytical methods as needed. Conduct end-to-end analysis that includes data gathering and requirements specification, processing, analysis, ongoing deliverables, and presentations.
+Develop prescriptive and predictive statistical, behavioral or other models via machine learning and/or traditional statistical modeling techniques and understand which type of model applies best in each business situation.
+Assess the efficiency and accuracy of new data sources and data gathering techniques.
+Develop custom data models and algorithms to apply to data sets.
+Use predictive modeling to increase and optimize customer experiences, revenue generation, ad targeting and other business outcomes.
+Implement analytical models into production by collaborating with business partners, and implement improvements as needed.
+Education, Qualifications, Skills and Experience
+Essential
+Must have Direct Hands-on, 2 to 5 years of experience, building complex systems using any Statistical Programming Language (R / Python / SAS)
+Must have fundamental knowledge of Inferential Statistics
+Should have worked on Predictive Modelling
+Experience should include the following,
+Multi-Dimensional Array Processing
+Simulation & Optimization Techniques
+Machine Learning Techniques (Supervised, Unsupervised)
+Artificial Intelligence and Deep Learning
+Natural Language Processing
+Model Ensembling Techniques
+Building Interactive Applications to demonstrate Data Science Use Cases
+Should have Excellent Analytical, Problem Solving ability. Should be able to grasp new concepts quickly
+Should have experience of balancing multiple simultaneous projects
+Desirable
+Prior experience in Healthcare Domain, is a plus
+Experience using Big Data, is a plus. Exposure to SPARK is desirable
+Exposure to working in Agile project environment is a plus
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

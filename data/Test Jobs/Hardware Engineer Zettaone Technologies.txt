@@ -1,0 +1,24 @@
+Hardware Engineer
+Conversion Optimization
+Job Overview
+Overall experience of 3 to 5 years in design, development, testing of hardware embedded boards with Microcontroller, Microprocessor and FPGA based projects.
+Responsibilities and Duties
+Responsible for Circuit design, Schematics design, working with PCB layout engineers to come up with the design, Coordinate with Manufacturing team for Manufacturing, Board bring up testing and Working with SW team for completion of Boards testing.
+Work as per the schedule and complete the deliverables as provided by HW Lead / Manager as per the schedule, Project plan defined.
+Skills
+Hands on experience in working commercial/ industrial/Automotive domain projects from specifications till delivery.
+Experience in any one of the schematic capture tools, PCB layout design tool, signal analyzing or simulation tools and PCB board bring up activities.
+Experience in Power supply Switchers / LDOs / Mixed signal designs / Digital designs (8, 16, 32-bit micro-controller / ARM controller design).
+Experience in design circuits with USB, I2C, SPI, RS232, ADC, DAC, SDR, DDR, Flash Memory IC Interfaces.
+Experience in hardware design analysis like power calculations, worst case analysis will be a plus.
+Hands on experience of test equipment’s like CRO, Multimeters, Logic analyzer etc.
+Experience / Knowledge about certification / precertification compliance testing of products will be a plus.
+Good team player.
+Preferred Tools
+Experience in any one of the schematics and Layout Tool. Cadence Allegro OrCAD / Mentor Graphics PADS / Altium.
+Qualifications
+The candidate should have Bachelor’s degree or Master’s degree in engineering (ECE or EEE) is a must.
+Location
+Bangalore
+Build a world that inspires human connection
+Zettaone offers a dynamic and creative work environment, with compensation and benefits on par with industry standards. If you’re looking for a challenging and rewarding career, we invite you to get in touch with our Recruitment department at careers@zettaone.com.

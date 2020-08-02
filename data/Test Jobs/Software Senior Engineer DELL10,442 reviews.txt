@@ -1,0 +1,41 @@
+Software Senior Engineer
+Compliance Management
+Analysis Skills
+Agile
+Angular
+Node.js
+MongoDB
+Eclipse
+Maven
+Java
+REST
+JIRA
+Git
+JavaScript
+Company Description:
+Dell provides the technology that transforms the way we all work and live. But we are more than a technology company — we are a people company. We inspire, challenge and respect every one of our over 100,000 employees. We also provide them with unparalleled growth and development opportunities.
+Why Work For Us:
+Dell is primed to recruit the best and brightest candidates from all across the globe. We take pride in fostering a winning, innovative, inclusive employee culture. We also take calculated risks and we celebrate big victories when they pay off.
+Our EVP:
+Our Culture Code unites us and makes us a great family of companies and a great place to work. It’s how we run the business, go to market, work together and provide inspirational leadership.
+Our culture code is defined by our values and are made real every day by defining expectations for how we work and how we lead.
+RSA, part of Dell Technologies, is the premier provider of security, risk and compliance management solutions for business acceleration. RSA helps the world's leading organizations solve their most complex and sensitive security challenges. These challenges include managing organizational risk, safeguarding mobile access and collaboration, proving compliance, and securing virtual and cloud environments. Combining business-critical controls in identity assurance, encryption and key management, SIEM, Network forensics, EDR and fraud protection with industry leading eGRC capabilities and robust consulting services, RSA brings visibility and trust to millions of user identities, the transactions that they perform and the data that is generated.
+The RSA NetWitness Platform is an evolved SIEM – the centerpiece of an intelligent Security Operations Center (SOC) - that provides end-to-end visibility across an organization’s digital ecosystem that spans networks, transactions, applications, identities and user behaviors. Engineered to immediately detect high-risk threats on devices, in the cloud and across your virtual enterprise, RSA NetWitness Platform also optimizes security response processes to reduce attacker dwell time and make analysts more efficient and effective.
+Key Responsibilities
+6 to 9 years of experience in software engineering
+Strong experience on Java, Spring, Spring Boot framework, Junit and Spock
+Strong analytical and problem-solving skills and solid debugging skills.
+Experience on full stack development
+Experience on Web-Services with SOAP/REST specification
+Experience on “UI frameworks like Angular.js, Ember.js” or Node.js.
+Experience on MongoDB and RabbitMQ
+Working knowledge on IntelliJ, Eclipse, JIRA, Maven, GIT
+Essential Requirements
+Working experience on Linux platform
+Exposure to Agile development
+Excellent written and verbal communication skills
+Mentor junior engineers and perform code, design, and unit test review
+Good team player
+Benefits
+We offer highly competitive salaries, bonus programs, world-class benefits, and unparalleled growth and development opportunities — all to create a compelling and rewarding work environment.
+Dell is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Dell are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Dell will not tolerate discrimination or harassment based on any of these characteristics. Learn more about Diversity and Inclusion at Dell here.

@@ -1,0 +1,25 @@
+Product Testing Engineer – CCTV
+Job Description
+Should be good in Designing hardware test strategy and documentation for variety of security solutions to support the objectives of product development.
+Should be able to create Test Specifications.
+Should perform the tasks of developing and implementing test strategies for Security related products.
+Should be very keen in Identifying and verifying new hardware products.
+Should create and implement STTE (Special Tools & Test Equipment) for product and project verification activities.
+Must have good understanding about Electronic Security Product like CCTV Camera, DVR, IP Camera, NVR , Access control, Biometric etc.
+Must have good knowledge about the network Topology.
+Must be familiar with Windows Operating System.
+Must be familiar with Video management software and Access control software.
+Must have good knowledge computer hardware, software and storage devices.
+Should be eager to learn new technologies.
+Should provide analysis related to the design, development, and implementation of hardware products.
+Should assist Product Head in developing test strategies, devices and systems.
+Should be able to perform stress and performance tests on a variety of hardware including Circuit boards, DSP, Sensor, Lens, Power Supply Board, IR LEDs and wiring.
+Should participate in the design, research, development and modification of information processing hardware, systems and electrical components.
+Should be able conduct basic testing of existing products to diagnose malfunctions and make routine improvements or modifications to produce desired results.
+Should evaluate design and test data as well as prepare technical specifications and reports.
+Essential Skills:
+Good communication, presentation skills and Demonstration skills
+Should possess an in-depth knowledge of CCTV industry and solutions
+Excellent Experience in CCTV testing and related security and surveillance solutions
+B-Tech/ technical educational background must
+For further queries email us at hr@globusinfocom.com

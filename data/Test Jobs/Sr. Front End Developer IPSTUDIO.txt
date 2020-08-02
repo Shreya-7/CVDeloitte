@@ -1,0 +1,10 @@
+Sr. Front End Developer
+JavaScript
+WordPress
+Bootstrap
+Angular
+React
+HTML5
+PHP
+Git
+Description:We at IPSTUDIO mostly provide web solutions to US based fitness industry. Your work will include creating website using WordPress, WooCommerce, Shopify or any of the CMS client want but mostly WordPress. Flexible thinking in learning is what we are looking for in all our employees.Location:Remotely work from home.Working Hours:Night shift that is 9PM to 5AM Indian Standard Time.Responsibility:Experience building moderately complex web sites or applications using PHP, HTML, CSS and Javascript.Experience with WordPress (Must have experience developing WordPress themes and plugins from scratch).Candidate should have an intimate knowledge of WordPress core, including actions, filters, hooks, custom post types, taxonomies, and custom fields.Experience converting PSD comps and specifications to functioning websites.Experience with CSS frameworks, such as Bootstrap.Experience using GIT.Experience using React, Vue, Angular, or similar is a big plus.Job Types: Full-time, ContractSalary: ₹20,000.00 to ₹30,000.00 /monthExperience:WordPress: 3 years (Required)web development: 3 years (Required)JavaScript: 2 years (Required)Work Remotely:Yes

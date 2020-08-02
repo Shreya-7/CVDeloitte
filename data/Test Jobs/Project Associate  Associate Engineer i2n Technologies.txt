@@ -1,0 +1,45 @@
+Project Associate / Associate Engineer
+Role: Lead Engineer
+Experience: 1-2 years. | Experience: 3-4 years.
+Job Code: ES-E/2018/i2n | Job Code: ES-L/2018/i2n
+Working with Us: We are a small team of interdisciplinary engineering capabilities. We believe, and if
+lucky, will be able to contribute to some strategic needs of this country, through our products. We are fun to
+work with, and strongly believe on Freedom comes with Responsibility. We can be paramount in your goals
+if one is determined to adapt and learn. If you have it in you, we have opportunities to share and learn in
+building Hardware Products and Systems.
+
+Job description:
+Electronics Systems Engineer job includes and not limited to research, design and develop electronics systems and hardware products. Typical area of work involves signal conditioning, signal measurement & control for interface design for high tech analytical instruments and Sensors. Execution activities demand experiment with design concepts in building PoC and H/w. Liaison with vendors/consultant or procurements for
+your work will be a need. Candidate should be willing to learn proactively and deliver independently in a
+pivot mode, and in a StartUp culture of working. Work closely with the people from interdisciplinary branch
+and appreciate multi physics capabilities in the product. There will be due emphasis on schedules, quality
+processes, documentation and presentation.
+At a lead role of ES-L, while individual contribution as above job description is a mandate, it is indeed a requirement to offer help/mentor others in the team and drive the mission with a larger accountability by external interactions, effective project planning and being inclusive. Bringing out new ideas on design improvement and productivity will be one of the important goals. Study on capabilities of existing products in the
+market & IP landscaping will be needed to support the Business development team.
+
+Required Skill sets:
+
+Strong fundamentals on basic building blocks (Analog & Digital) of electronics design
+Hand calculations to substantiate circuit analysis & signal response
+Knowledge of different ICs characteristics and its selection criteria for a design need
+Ability to comprehend & analyse data sheet and application notes
+Knowledge of Micro controller/microprocessor application & interface in system design
+Analysis & interpretation of schematic designs and implement PoC on board/PCB
+Develop Testing procedure, root cause analysis and debugging methods
+Scheme out Power supply needs, filters, estimation of signal loss/integrity for product development
+Measurement techniques - Function generator, DSO, PS, Lock-in amplifier, Current & Voltage sources
+Hands-on building electronics hardware product/module
+
+Desired Skill sets:
+
+Application of readily available sensors signal conditioning evaluation kit
+Design & analysis of Signal conditioning circuit for low level signal measurement
+Communication of Sensor output with different protocols & interfaces: I2C, SPI etc.
+Knowledge of various sensing or transduction mechanisms and Sensors applications.
+
+Application Process:
+Applications are invited from interested candidates with a minimum qualification as Diploma/B.E/M.E
+(Instrumentation/Electronics) through an e-mail communications, meeting the following requirements:
+1. Strictly specify the Job Code in both Subject line and as a heading in Body text of the mail.
+2. CV as an attachment with the file named as Your Name_Job Code
+Applications are acceptable ONLY if above requirements are addressed by e-mail at: careers@i2ntech.com

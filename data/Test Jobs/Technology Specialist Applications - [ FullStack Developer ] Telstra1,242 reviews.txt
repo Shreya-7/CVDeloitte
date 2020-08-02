@@ -1,0 +1,41 @@
+Technology Specialist Applications - [ FullStack Developer ]
+JavaScript
+Agile
+Test Automation
+Unit Testing
+Kubernetes
+Bootstrap
+React
+Selenium
+REST
+GraphQL
+Node.js
+Docker
+Azure
+HTML5
+AWS
+Continuous Integration
+Ready to join one of the world’s largest Telecommunication providers working on some of the best technologies in the market?
+World Class organizations are driven by a sense of purpose... Our purpose is to create a brilliant connected future for everyone! Our ambition is to enrich lives and power commerce. It's why we're constantly finding better ways to serve our customers and why we're building new ways to support our clients doing business.
+Who we are?
+Telstra is Australia's leading telecommunications and information services company employing over 37,000 staff, being the most well-known brand in the technology and communications industry.
+We offer a full range of services and compete in all telecommunications markets throughout Australia, providing more than 9.6 million Australian fixed line and 12.2 million mobile services.
+Looking for: Full Stack Developer
+Minimum 4 years and minimum 90% of IT experience is hands-on coding and testing.
+Design, Develop, Test , Implement & Support software in accordance with business needs.
+Strong Working experience on JavaScript/JQuery/HTML/CSS
+Strong Working experience on NodeJS/Express JS/React Js
+Strong Working experience on RESTful Web Services / SOAP
+GraphQL, Elastic Search , MangoDB, Bootstrap
+"Unit testing tools (mocha, jasmine or similar)"
+Testing incl unit test framework, test automation, Selenium
+CI/CD (e.g. Docker , Kubernetes etc )
+AWS/Azure
+Test Driven Development/Agile Methodology
+Telecom Domain
+What can we offer you?
+In return for all your hard work within this role, you will be given exposure to a wide variety of career pathways within Telstra, with plenty of scope for learning and development.
+Working for the most successful Telco Company also brings with it some great benefits, including:
+Working with the Specialists in the APAC Region who provide support and mentoring, Substantial discounts on a range of Telstra products, Financial benefits such as Telstra Share Options, Great Salary Packaging Options and discounts on various retail, health and fitness and entertainment areas.
+Excellent work/life balance that allows you to have an excellent divide of personal needs and work commitments and performance bonuses*. Check out our website for more information and testimonials from our Employees.
+We’re committed to building a diverse and inclusive workforce. To enable everyone to participate, we’ve developed an ‘All Roles Flex’ policy to consider flexible ways of working for every role. To learn more, visit https://careers.telstra.com/allrolesflex

@@ -1,0 +1,71 @@
+Project Management
+Project Management
+PMP
+Introduction
+We build phenomenal products that our customers rely on so it’s important they are running at their best. As a Systems Management Specialist, you will work with the latest software to keep moving business forward. Whether it’s our Engineering teams that need a test environment or our software running in production, we are seeking skilled systems management professionals ready for the challenge.
+
+Your Role and Responsibilities
+As Project Management Professional , you are responsible for program management of Managed Server Services like Disaster Recovery. You will manage all Partners – internal and external partners.
+
+If you thrive in a dynamic, reciprocal workplace, IBM provides an environment where you will be challenged and inspired every single day. And if you relish the freedom to bring creative, thoughtful solutions to the table, there's no limit to what you can accomplish here.
+
+
+WHAT YOU WILL DO
+Develop strategies and operational plan for customers to standardize compliance-based service Offerings
+Lead client implementation service delivery providing management and oversight of SIEM Implementation
+Responsible for Revenue realization, Coach developers, testers to deliver high quality software. Closely work with and/or Lead a highly skilled engineering team to guide, help implement and deliver solutions on time
+Partner closely with the product owners, business analyst to align product architecture with business needs.
+Manage diverse requirements, negotiate, and effectively articulate rationale and vision behind technical decisions that support the business
+Play trusted advisor to the program leadership to bring the right technical skills on the board.
+Research, analyze and recommend solutions which meet business and technology needs
+Partner with DevOps teams to operationalize the product deliveries
+
+How we’ll help you grow..
+You’ll have access to all the technical and management training courses that will help you
+You’ll learn directly from guide developers in the field; our team leads love to mentor
+You have the opportunity to work in many different areas to identify what really excites you
+
+
+
+Culture..
+
+IBM is committed to crafting a diverse environment and is proud to be an equal opportunity employer.
+You will receive consideration for employment without regard to your race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. We are committed to compliance with all fair employment practices regarding citizenship and immigration status.
+
+Please beware...
+
+Of misleading advertisements and fraudsters issuing 'Offer Letters', on behalf of IBM in exchange for a fee. We recommend you to Stay Alert. Read more here http://ibm.co/2fwBkyK. To avoid any instance of fraud, when receiving communication from IBM, look for this authentic IBM e-mail format: XYZ@in.ibm.com.
+
+Required Technical and Professional Expertise
+
+Minimum 8+ years of experience in IT Industry.
+Minimum 2+ years of Project Management experience (IT Infrastructure willing to move into the Project Management career path, can also apply).
+Experience in microservices, application level design and architecting for Server management and disaster recovery
+Ability to develop applications using DevOps, open source tech stack, security, scalability, performance tuning
+Proven ability in project management while managing partner expectations as per prescribed service level agreements
+
+Preferred Technical and Professional Expertise
+
+You love collaborative environments that use agile methodologies to encourage creative design thinking and find innovative ways to develop with cutting edge technologies
+Ambitious individual who can work under their own direction towards agreed targets/goals and with creative approach to work
+Proven interpersonal skills while contributing to team effort by accomplishing related results as needed
+Up-to-date technical knowledge by attending educational workshops, reviewing publications
+
+About Business Unit
+At Global Technology Services (GTS), we help our clients envision the future by offering end-to-end IT and technology support services, supported by an unmatched global delivery network. It's a unique blend of bold new ideas and client-first thinking. If you can restlessly reinvent yourself and solve problems in new ways, work on both technology and business projects, and ask, "What else is possible?" GTS is the place for you!
+
+Your Life @ IBM
+What matters to you when you’re looking for your next career challenge?
+
+Maybe you want to get involved in work that really changes the world? What about somewhere with incredible and diverse career and development opportunities – where you can truly discover your passion? Are you looking for a culture of openness, collaboration and trust – where everyone has a voice? What about all of these? If so, then IBM could be your next career challenge. Join us, not to do something better, but to attempt things you never thought possible.
+
+Impact. Inclusion. Infinite Experiences. Do your best work ever.
+
+About IBM
+IBM’s greatest invention is the IBMer. We believe that progress is made through progressive thinking, progressive leadership, progressive policy and progressive action. IBMers believe that the application of intelligence, reason and science can improve business, society and the human condition. Restlessly reinventing since 1911, we are the largest technology and consulting employer in the world, with more than 380,000 IBMers serving clients in 170 countries.
+
+Location Statement
+For additional information about location requirements, please discuss with the recruiter following submission of your application.
+
+Being You @ IBM
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.

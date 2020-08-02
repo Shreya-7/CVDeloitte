@@ -1,0 +1,12 @@
+Software QA Engineer 1
+Test Automation
+Selenium
+IQVIA™ is the leading human data science company focused on helping healthcare clients find unparalleled insights and better solutions for patients. Formed through the merger of IMS Health and Quintiles, IQVIA offers a broad range of solutions that harness the power of healthcare data, domain expertise, transformative technology, and advanced analytics to drive healthcare forward.
+RESPONSIBILITIES – Tester
+
+Authors defined sets of test cases within the scope of a broader defined testing strategy aa nd involved in doing peer review of test cases.Having experience and proficiency in creating the test scenarios, test cases ,requirements review and peer review.Ability to learn and use automated testing tools. Knowledge in PAF or Selenium preferred.Assists in creation of test data to support test case execution and supports creation and maintenance of libraries of reusable test data sets. Executes test cases and logs retests issues found.Reports status progress and concerns in a proactive consistent and accurate manner to SVT Manager, and to the IT Project Manager directly or via the Testing Lead.Knowledge and understanding of system and project testing strategies, approaches and the CSV and SLC processes adopted by IQVIA.Keeps current on software applications testing industry knowledge and acquiring industry computer validation systems knowledge by attending industry conferences reading industry periodicals and training via workshop attendance and self-study.
+Join Us
+Making a positive impact on human health takes insight, curiosity, and intellectual courage. It takes brave minds, pushing the boundaries to transform healthcare. Regardless of your role, you will have the opportunity to play an important part in helping our clients drive healthcare forward and ultimately improve outcomes for patients.
+Forge a career with greater purpose, make an impact, and never stop learning.
+
+Job ID: R1125792

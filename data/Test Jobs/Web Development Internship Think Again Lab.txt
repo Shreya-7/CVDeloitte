@@ -1,0 +1,24 @@
+Web Development Internship
+Agile
+JavaScript
+React
+Angular
+MySQL
+PHP
+About the company:
+We are bridging the gap between education and skill by providing Techno-Spiritual project-oriented, activity-based learning to transform job-seekers into job creators thus creating a Research - Innovation - Entrepreneurial Ecosystem in India.
+About the internship/job:
+Selected intern's day-to-day responsibilities include: 1. ï·Collaborating in an agile development team, made up of a product manager, technical lead, back-end developer, multiple UI/UX developer's all working together on an exciting industry-transforming product 2. ï·Developing new user-facing features and building reusable code and libraries/API for future use 3. ï·Optimizing applications for maximum speed and scalability using ReactJS 4. ï·Writing and maintaining efficient, reusable, and reliable PHP Laravel code and API endpoints 5. ï·Ensuring the best possible performance, quality, and responsiveness of the applications by identifying bugs and solving problems 6. ï·Helping maintain code quality, organization, and automatization as well as the integration of user-facing elements with server-side logic
+Who can apply:
+Only those students or freshers can apply who:
+are available for full time (in-office) internship
+have relevant skills and interests
+can start the internship between 6th May'20 and 10th Jun'20
+are available for duration of 3 months
+have already graduated or are currently in any year of study
+are from Kolkata, Bidhannagar and neighboring cities
+Females willing to start/restart their career may also apply
+Other requirements:
+Have a 6-month experience with modern PHP development strategies (is a plus but optional) â¢ Solid working experience with PHP frameworks like Symfony or Laravel (Laravel preferred) â¢ Solid working experience with basic database fundamentals, data modeling, and optimization (MySQL preferred) â¢ Experience integrating with third-party APIs â¢ Solid working experience with Javascript, particularly integrating with APIs (Vue.js or React or angular would be a plus)
+Number of internships/jobs available: 1
+Categories: Web Development,Computer Science,Engineering

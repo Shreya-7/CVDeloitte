@@ -1,0 +1,19 @@
+Hardware Engineer
+Experience Undergradutae Engineer with 2-3 years of experience in relevant field.
+
+Educational Qualification
+B.Tech (ECE)
+
+Salary As per Industry
+
+Work Mode Permanent
+
+Key Requirements
+Hands on experience in circuit design using Processors/ Controllers/SoCs/FPGAs, DDR2/3 SDRAM, NAND/NOR Flash, DC-DC Converters, etc.
+Hands-on experience in using EDA Tools (Cadence OrCAD/ ConceptHDL/Allegro, Mentor Graphics DxDesigner/PADS/PowerPCB/ Expedition/ BoardStation or Altium Designer)
+Exposure to process driven Hardware Board Design development stages like Requirements Analysis, Engineering Specification, Architecture Design, Detailed Design, Schematics Design & Capture, Board Bring-up and Testing
+Experience in coordination for PCB Design, PCB Fabrication, Component Assembly and Component Procurement
+Should be proficient with popular communication/interface technologies like UART / RS232, I2C, SPI, PCIe, SRIO, USB, HDMI, SATA, Ethernet/ GbE/ XAUI, MIPI, etc.
+Exposure to domains such as Communications (Wireless Telecom/Data communication) Infrastructure and/or Consumer Electronics/ AV Entertainment Systems is a plus
+Should be familiar to lab instruments like Multi- meters, Oscilloscope, Function Generator, Logic analyser etc with good soldering and wiring skills
+Desired People send your resume to - info@mobiledigiconverse.net

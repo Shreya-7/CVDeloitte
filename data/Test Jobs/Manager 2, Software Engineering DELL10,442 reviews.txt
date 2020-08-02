@@ -1,0 +1,77 @@
+Manager 2, Software Engineering
+Leadership Experience
+Analysis Skills
+Agile
+.Net
+Java
+C/C++
+Company Description:
+Dell provides the technology that transforms the way we all work and live. But we are more than a technology company — we are a people company. We inspire, challenge and respect every one of our over 100,000 employees. We also provide them with unparalleled growth and development opportunities.
+Why Work For Us:
+Dell is primed to recruit the best and brightest candidates from all across the globe. We take pride in fostering a winning, innovative, inclusive employee culture. We also take calculated risks and we celebrate big victories when they pay off.
+Our EVP:
+Our Culture Code unites us and makes us a great family of companies and a great place to work. It’s how we run the business, go to market, work together and provide inspirational leadership.
+Our culture code is defined by our values and are made real every day by defining expectations for how we work and how we lead.
+Manager 2, Software Engineering
+
+Competitive salary
+
+Location
+Bangalore\India
+
+Dell provides the technology that transforms the way we all work and live. But we are more than a technology company — we are a people company. We inspire, challenge and respect every one of our over 100,000 employees. We also provide them with unparalleled growth and development opportunities. We can’t wait for you to discover this for yourself as a Manager on our management team in Bangalore.
+
+The Software Engineering team delivers next-generation software application enhancements and new products for a changing world. Working at the cutting edge, we design and develop software for platforms, peripherals, applications and diagnostics — all with the most advanced technologies, tools, software engineering methodologies and the collaboration of internal and external partners.
+Key Responsibilities
+As a Manager need to have strong design, development, test knowledge, preferably in Identity or Security domain products.
+Ensure the performance, quality and UX of applications by following engineering best practices, design guidelines and principles.
+Anticipates, resolves and/or escalates issues in a timely fashion
+Collaborate with cross-functional teams to define, design, and ship new features
+Ability to work with remote teams and ensure on-time delivery
+Time to Time fill the role of technical expert within the team. Remain relevant with new technologies to ensure continuous development efficiency
+Contribute to all aspects of Software Development by being introducing best practices and achieve greater productivity and quality.
+Hiring the correct talent, Diligent Performance reviews, adhering to Dell code of conduct, Ethics & Organizational process
+Establishes goals for subordinates that are aligned with policies and standards.
+Develops and provides challenging yet appropriate assignments, evaluates work, communicates progress toward career development and goals.
+Develops strategy & solutions to difficult problems, which may require ingenuity and creativity, communicates progress toward project/program goals; influences future product/program direction.
+Monitors the completion of tasks within time and cost constraints and ensures that technical and functional objectives are met.
+Collaborates cross functionally with engineering employees and other engineering groups, voluntarily shares information, fosters teamwork and collaboration. Accountable for HR processes and actions.
+Manages the daily activities of individual contributors and supervisors, accountable for results, responsible for establishing goals and objectives for the work group; typically manages groups with similar technical or functional responsibility.
+Provides feedback to peers and supervisors. Identifies and facilitates training and development opportunities for staff to enhance knowledge and expertise, keeping up with the rapidly changing technology used within the company and the overall industry.
+Interfaces with senior management to report on project and program milestones and to present project needs and technical knowledge.
+
+Essential Requirements
+12+ years of experience with building enterprise scale, large scale distributed systems including at least 3+ years of experience as a people manager.
+Strong experience in SDLC and Agile technologies, preferably experience in setting up and working with scrum teams.
+Strong Security understanding and developing applications for IAM\security use cases, building enterprise scalable applications.
+Hands-on Coding Expertise and significant hands-on development experience building both native and enterprise web applications based on C\C++, .NET and Java. Good expertize in both C\C++ and Java will be added advantage.
+Solid understanding of Windows and Unix OS internals.
+Proven track record of delivering high quality enterprise software products through geographically distributed teams operating in fast-paced dynamic environment.
+Significant experience working with geographically distributed engineering teams
+Demonstrated experience driving projects with an execution mindset
+Knowledge/experience working with multitier architecture products,
+Ability to communicate with customers and handle customer escalations as needed
+Ability to hire, develop and retain high performers.
+Ability to influence others, troubleshoot and guide team during critical project decision points to achieve results.
+Must have strong communication skills and be project oriented with ability to work with minimal day-to-day direction
+Good analytical skills, ability to troubleshoot and guide team during critical project decision points to achieve results.
+Conflict resolution skills
+Education and Experience
+BS/MS in Computer Science or equivalent technical field with 12-15 years of relevant experience
+Typically requires 3+ years managerial/leadership experience preferably in relevant field
+Desirable Requirements
+Security understanding and experience in developing products in Security domain, preferably in IAM.
+Understanding of the Cloud computing, Virtualization & Thin clients
+Expertise in building secure, scalable and performance oriented product architecture is desirable.
+Good understanding of Test Planning, Test Strategies and exposure to various test metrics that are used to drive quality releases
+Good experience implementing Continuous Integration, Code coverage, Test case management, Bug tracking tools etc
+Good understanding of Security concepts and Secure Development Life Cycle.
+
+Benefits
+We offer highly competitive salaries, bonus programs, world-class benefits, and unparalleled growth and development opportunities — all to create a compelling and rewarding work environment.
+Benefits
+We offer highly competitive salaries, bonus programs, world-class benefits, and unparalleled growth and development opportunities — all to create a compelling and rewarding work environment.
+Dell is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Dell are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Dell will not tolerate discrimination or harassment based on any of these characteristics. Learn more about Diversity and Inclusion at Dell here.
+If you’re ready to develop cutting-edge software for a changing world, this is your opportunity to develop with Dell.
+
+Dell is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Dell are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Dell will not tolerate discrimination or harassment based on any of these characteristics. Learn more about Diversity and Inclusion at Dell here.

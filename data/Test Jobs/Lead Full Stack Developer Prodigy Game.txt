@@ -1,0 +1,52 @@
+Lead Full Stack Developer
+JavaScript
+PostgreSQL
+DynamoDB
+Backbone.js
+Angular
+Node.js
+GraphQL
+Agile
+HTML5
+React
+Redis
+AWS
+Prodigy Education connects students, parents, teachers and school districts with resources that promote a lifelong love of learning. Anyone with an internet connection is welcome to create a free account and try the most effective and engaging K-8 math platform in the world. Our business model helps us connect with youth around the world, with over 50 million students now voluntarily practicing math every single day — and enjoying it!
+
+At Prodigy Education, we have an incredible team that works tirelessly to turn our goal of making education a human right into a reality. We are immensely grateful for our amazing team and all they do every day. We welcome people who share our passion to join our team, where you will have the opportunity to help an entire generation of students to LOVE learning.
+
+Our passion is our mission - to help every student in the world love learning!
+
+Overview:
+As a Lead Full Stack Developer at Prodigy you will build features that help millions of kids learn math. The work you do here will aid the educational advancement of millions of students. you will have the chance to apply your product development skills.
+Your Impact:
+Assist in guiding and supporting a new development team in Bengaluru
+Lead and mentor a development team; enabling them to improve the product, ship code faster, and further their careers
+Make architectural decisions that will help us scale our product for the next 30+ million students
+Build new interfaces for teachers and parents to enable them to help their kids learn
+Work cross-functionally with an agile team including Product, UX & Design, Development, and QA
+Provide input on technical design and product features
+Who You Are:
+Excellent communication skills
+A passion for user experience and performance
+Experience leading and managing product teams
+Experience designing high availability systems
+A solid understanding of JavaScript and HTML5
+Experience with one or more JavaScript frameworks (React, Backbone, Angular, Vue.js, Ember, etc.)
+Experience writing API endpoints and working with databases (PostgreSQL, Dynamo DB, etc.)
+A love for learning and staying on top of the latest in web development
+
+Our Core Technologies:
+Backend: Node.js, GraphQL, Postgres, Dynamo DB, Redis, AWS
+Frontend: React, Backbone (legacy), ES6, SASS & BEM
+
+What We Offer:
+A lively work environment - WeWork @Hebbal
+Health benefits
+Gym & Learning Fund
+Flexible work hours
+Snacks & Coffee
+Fun activities
+Team lunches
+
+We are an equal opportunity employer and are committed to providing employment accommodation in accordance with the Ontario Human Rights Code and the Accessibility for Ontarians with Disabilities Act, 2005 (AODA). Prodigy Game will provide accommodations to job applicants with disabilities throughout the recruitment process. If you require an accommodation, please notify us and we will work with you to meet your needs.

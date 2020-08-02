@@ -1,18 +1,31 @@
 from flask import Flask, render_template, request, session, redirect, url_for, flash, send_from_directory, jsonify
 from pymongo import MongoClient
-from bson.json_util import loads, dumps
 from bson import ObjectId
+from shutil import copyfile
 import os
-import time
 import json
+
+from util import extract_job_keywords
+from main_prediction import predict_resumes, parse_resumes
+from reverse import predict_jobs
 
 app=Flask(__name__, static_url_path='/static')
 app.secret_key = "lol"
 app.config["UPLOAD_FOLDER"] = "./files"
 app.config['MAX_CONTENT_LENGTH'] = 4*1024*1024
 
-client = MongoClient(os.getenv("DELOITTE_DB"))
+#client = MongoClient(os.getenv("DELOITTE_DB"))
+client = MongoClient("mongodb+srv://Shreya:yll8IlpaMYqDfvx9@cvd.xjnmg.mongodb.net/test")
 user = client["users"]["user_details"]
+
+job_corpus_path = "./data/CORPUS.json"
+input_resumes_path = "./data/Test Resumes"
+train_data_path = "./data/Train Data/data.csv"
+html_path = "./data/HTML_Resumes/"
+output_path = "./data/Output/"
+result_path = "./data/Output/Selected Resumes"
+resume_path_input = "./data/Input Resume"
+test_jobs_path = "./data/Test Jobs/"
 
 #default signup page
 @app.route("/")
@@ -50,6 +63,7 @@ def signup():
 
     #logging in
     session["person"] = cred
+    session["folder_path"] = os.path.join(app.config['UPLOAD_FOLDER'],str(session["person"]["email"]))
     return redirect("/home")
 
 #after pressing login button
@@ -67,7 +81,8 @@ def login():
         #login logic
         if(password==person["password"]):
             person.pop('_id')
-            session["person"] = person
+            session["person"] = person    
+            session["folder_path"] = os.path.join(app.config['UPLOAD_FOLDER'],str(session["person"]["email"]))
             return redirect("/home")
         else:
             message = "Incorrect password."
@@ -94,20 +109,25 @@ def upload():
 
     if request.method == 'POST':
         f = request.files['file']
-        #saving file
-        f.save(os.path.join(app.config['UPLOAD_FOLDER'],str(session["person"]["email"]),f.filename))
+        #saving file to user folder
+        f.save(os.path.join(session["folder_path"],f.filename))
+        #saving file to processing folder
+        copyfile(os.path.join(session["folder_path"],f.filename), os.path.join(resume_path_input, f.filename))
         
         session["current_file"] = f.filename
 
-        #TBD: save to document - filename and json filename
+        #save to document - filename and json filename
         temp, extension = os.path.splitext(f.filename)
         jsonfile = temp+".json" #can be queried
-        user.update_one({"email": session["person"]["email"]}, {"$set": { "filenames."+temp: {"extension": extension,"json": jsonfile, "processed": 0, "results": ["gfg.py"]}}})
+        user.update_one({"email": session["person"]["email"]}, {"$set": { "filenames."+temp: {"extension": extension,"json": jsonfile, "results": [], "processed": 0}}})
         
-        #TBD: "jsonify" the file and save in filesystem
-
+        #"jsonify" the file and save in filesystem
+        jsonified = extract_job_keywords(os.path.join(session["folder_path"],f.filename), job_corpus_path)
+        with open(os.path.join(session["folder_path"], jsonfile), 'w') as fp:
+            json.dump(jsonified, fp)
+        
         #show results after processing       
-        return redirect("/" + f.filename) 
+        return redirect("/" + temp) 
 
 #for exceeding file size
 @app.errorhandler(413)
@@ -128,19 +148,43 @@ def getresults(filename):
 
     temp = filename #only filename, without extension
     extension = obj["filenames"][temp]["extension"]
-    filename = temp+extension 
-
-    #processed or not, if processed it means accessing from history page, no processing req again   
-    x = user.find_one({"email": session["person"]["email"]}, {"filenames."+temp+".processed": 1})
-
-    if(x==0): #not processed
-        something = "something"
-        #TBD: processing logic, store filenames in document, store files in folder, set processed to 1
+    filename = temp+extension     
     
     jsonfile = temp+".json"
-    
-    filepath = os.path.join(app.config['UPLOAD_FOLDER'],str(session["person"]["email"]), jsonfile)
+    filepath = os.path.join(session["folder_path"], jsonfile)
     jsontext = json.load(open(filepath, "r"))
+
+    #if not processed already
+    if(obj["filenames"][temp]["processed"]==0):
+
+        try:
+            if(obj["type"]=="Employer"): #job as input
+                parse_resumes(input_resumes_path, html_path, output_path, filepath) 
+                predict_resumes(os.path.join(session["folder_path"], filename))
+            else: #resume as input
+                predict_jobs(resume_path_input, job_corpus_path, test_jobs_path, output_path)
+
+        except:
+            return render_template("error.html", message = "An error occured when processing the file. Please try later.")
+
+        #saving results
+        selected_resumes = sorted(os.listdir(result_path))
+        user.update_one({"email": session["person"]["email"]}, {"$addToSet": {"filenames."+temp+".results": {"$each": selected_resumes}}})
+        for i in selected_resumes:
+            copyfile(os.path.join(result_path, i), os.path.join(session["folder_path"], i))
+        user.update_one({"email": session["person"]["email"]}, {"$set": {"processed": 1}})
+
+        #delete all extra files made
+        htmls = os.listdir(html_path)
+        for i in htmls:
+            os.remove(os.path.join(html_path, i))
+
+        selected_resumes = sorted(os.listdir(result_path))
+        for i in selected_resumes:
+            os.remove(os.path.join(result_path, i))
+
+        os.remove("./data/Output/parsed_resume.csv")
+
 
     details = user.find_one({"email": session["person"]["email"]})
 

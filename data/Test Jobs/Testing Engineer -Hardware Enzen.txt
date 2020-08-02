@@ -1,0 +1,21 @@
+Testing Engineer -Hardware
+Smart Meter 1. Strong knowledge of Standard compliance , tender compliance verification as per IS 15959 , 16444 , 13779 with latest amendments.Independently handled design validation ,
+
+2. Standard compliance , Meter database validation , Protocol testing and to execute Internal & External Lab testing in support.
+preparing of test cases and execute test plans, test reports ,
+
+3. Strong understanding of metering standards and compliance requirements , Algorithm analysis, Meter database testing , temper & other logic validation , Communication Protocol testing.Execution of Internal & External Laboratory testing in support with HW and FW Team.
+
+
+Qualifications
+
+Skills sets 1. Experiene DLMS Testing ,Knowledge on IS15959 Part 1,2 and 3 standards ,Knowledge on Energy metering standards ,Worked On Tools like Kalkitech ,Gurux
+
+3.Knowledge of Single Phase ,Three phase and LTCT meter.
+4.Export and Import Metering
+
+5.Understandating of Load survey,BIlling ,Tampers as per IS and CBIP satnadards
+
+Tools 1. Kalkitech ,Gurux any other DLMS protocol Testing Tools
+
+Experience Range 2 Yrs

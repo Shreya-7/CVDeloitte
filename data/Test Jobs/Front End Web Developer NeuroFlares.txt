@@ -1,0 +1,8 @@
+Front End Web Developer
+JavaScript
+Bootstrap
+Angular
+HTML5
+AJAX
+SQL
+Job SummaryFront end Developers are responsible for ensuring the alignment of web design and user experience requirements, optimizing web pages for maximum efficiency.They should be having good understanding of asynchronous request handling, partial page updates, and AJAX.Front End Developers are required to work in teams alongside Back end Developers, Graphic Designers and User Experience Designers to ensure all elements of web creation are consistent. This requires excellent communication and interpersonal skillsNote: Work location will be at Mysore - 570002Responsibilities and DutiesDetermining the structure and design of web pages.Ensuring user experience determines design choices.Striking a balance between functional and aesthetic design.Ensuring web design is optimized for smartphones.Building reusable code for future use.Optimizing web pages for maximum speed and scalability.Collaborate with other team membersRequired Experience, Skills and QualificationsSkills Required : Angular, SQL, Javascript, Jquery, HTML5, CSS, BootstrapQualifications: B.E or MCAExperience: Min 1 year.Job Type: Full-timeExperience:total work: 2 years (Preferred)front end development(angular): 1 year (Required)Location:Mysore, Karnataka (Required)Work Remotely:Temporarily due to COVID-19

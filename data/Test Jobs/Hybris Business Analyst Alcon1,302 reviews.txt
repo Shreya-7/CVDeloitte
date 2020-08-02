@@ -1,0 +1,25 @@
+Hybris Business Analyst
+SAP
+Analyze and refine requirements for delivering the necessary technology service to business The Business Process Expert will work closely with the business and solution teams to translate business requirements and user stories into high quality functional design documents that can be delivered by the solution teams to ensure the best user experience possible for customers.
+
+• Develop project rationale and perform scoping assessments to determine feasibility of projects • Highlight/identify gaps in existing functionality and review requirements with stakeholders • Develop a comprehensive requirement specifications that will determine the estimate of cost, time and resources to deploy solutions • Liaise with the service development team to suggest a high level functional solution • Develop project estimates and complete financial model (costs, savings, revenue opportunities, investment horizon, etc.) • Ensure that relevant stakeholders are involved in specification of new services and/or major upgrades to existing services • Perform in a functional expert role to the Agile team’s continuing success and improvement, by leading/participating Agile ceremonies as required and delivering assigned artifacts • Work with business stakeholders to gather and prioritize business and functional requirements through Backlog Grooming and Sprint Planning sessions • Develop user stories that satisfy business requirements while providing the best user experience possible, including appropriate acceptance criteria and testing requirements • Conduct Sprint Demos with business stakeholders to ensure developed solutions satisfy the business requirements. Provide feedback to development team members as necessary • Support QA testing process to minimize defects • Deliver necessary artifacts to support deployment timelines • Actively participate in Sprint Retrospective sessions to identify and initiate process improvements (continuous improvement) • Work with Production Support team in the research and resolution of production issues
+Minimum requirements
+Bachelor Degree in Computer Science, MIS or Business Administration or a related field The ability to fluently read, write, understand and communicate in English. 7+ years of applicable experience o Minimum 3+ years’ experience in SAP Hybris Commerce (preferably B2B or B2B2C) o Total 5+ years of experience in cloud-based eCommerce systems o 1+ years of SAP OTI experience o Experience with Atlassian toolsets (JIRA, Confluence) and testing suites (Proton or QTest)
+Division
+ALCON
+Business Unit
+NON-NVS AL INFORMATION TECHNOLOGY
+Country
+India
+Work Location
+Bangalore
+Company/Legal Entity
+Alcon Ind
+Functional Area
+Information Technology
+Job Type
+Full Time
+Employment Type
+Regular
+Shift Work
+Yes

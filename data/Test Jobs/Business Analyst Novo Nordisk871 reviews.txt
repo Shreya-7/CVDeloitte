@@ -1,0 +1,55 @@
+Business Analyst
+Information Technology & Telecom
+Bangalore
+Novo Nordisk is one of the world’s most successful pharmaceutical companies and with a strong growth potential. Global IT India is the unit responsible for several global IT systems at Novo Nordisk including the operation, maintenance, support and development of these systems. Our people have a unique combination of IT insight and the ability to navigate many agendas and stakeholders. Are you up for the challenge?
+
+About the department
+Corporate IT India was established in February 2010 as an integral part of Corporate IT in HQ. The establishment of Corporate IT India is in line with the overall IT Strategy in Novo Nordisk, which is to globalise IT in Novo Nordisk. From the beginning in 2010, the unit has grown to 400+ employees till date.
+
+The presence in Bengaluru provides access to a large pool of highly skilled IT professionals, who work in a time zone and a geography which is like our increasingly global employee & customer base. Objective of Corporate IT India is to make sure that the IT needs of the Novo Nordisk business areas are taken care of by cost effectively providing stable, compliant and updated IT systems & Infrastructure.
+
+Corporate IT India has quickly grown to encompass IT employees servicing and working together with IT colleagues from all areas of Corporate Development and IT units in region European Union and International Operations. The main role of Corporate IT India is to 'manage' IT, which includes System Management, Project Management, Infrastructure Management, Compliance Management, Security Management, Process Management and Vendor Management.
+
+The position
+As an RPA Developer, your key responsibilities will be work as part of Operations and Maintenance team supporting Robotic Process Automation, guide team members with best practices, solutions and support in any escalations on issues. You will be the single point of contact for any technical support and guidance. We expect you to tackle complex problems and manage multiple stakeholders. You will work as Technical Developer in RPA related, infrastructure/ upgrade projects, support in development of automation script in the RPA tool (UiPath) based on predefined process description details and should be able to support/drive change management of existing processes as per new requirements using a structured change control process.
+
+Qualifications
+The below qualifications are required.
+Under Graduate degree Engineering (B.E. or BTech) from a reputed Tier1/Tier 2 professional Engineering college
+Good academic track records and grades
+7 to 9+ years of proven programming and development/configurations skills, preferably in a well-known Multinational Corporation
+2 to 3 years hands on experience in UiPath to meet the defined design/solution approach
+Experience and understanding in documenting business processes using UML or BPMN notation
+Experience of having worked with a pharmaceutical/healthcare company or a client on the IT side is a plus
+Comprehensive and evident understanding of Microsoft Technology (VB. NET, Windows, Internet Explorer, SQL Server, Web Services, MS Office)
+Assess automation opportunity from technical perspective and perform due diligence to arrive at an optimal solution. Define the technical framework based on below considerations
+Method of access (internal client network, internet, local access)
+User Authentication (SSO, central LDAP, individual log in)
+IT Security and/or Audit Policies which impact the robot deployment
+User Authorisation Processes, its lead times & request process
+Application landscape
+Applications requiring fat client, any client installation to access, or require individual logins to access
+Technical impacts of applications using OCR or Adobe Flash
+Technical impacts of applications accessed behind Citrix
+Hosting & Environments
+Strong analytical and product management skills, including a thorough understanding of how to interpret customer business needs and translating them into application and operational requirements
+Good analytical skills and should be able to grasp existing systems and propose solutions accordingly
+Excellent written skills with the ability to clearly document and explain business processes and automated solution designs
+
+In addition, the right candidate also possesses the following personal skills.
+Ability to interact professionally with a diverse group, executives, managers and subject matter experts
+Ability to serve as the conduit between the customer community (internal and external customers) and the software development team through which requirements flow
+Should be able to explain new ideas and demonstrate ideas to a large audience with good presentation skills
+Effective stakeholder management of multiple verticals and sharing timely updates with senior management especially in a matrix set up
+
+Working at Novo Nordisk
+In Novo Nordisk, you will be met with trust, interesting challenges and rich opportunity for personal and professional growth. You will be investing your unique skills in an environment focused around a competent sharing of knowledge, and where your talent and experience is valued. We are proud to use our dedication and our capabilities to make a difference for millions of people around the world.
+
+Contact
+For further information, please contact Neha Vashishtha at QNVY@novonordisk.com
+
+Deadline
+6 June 2020.
+
+Millions rely on us
+To work for Novo Nordisk you will need the skills, dedication and ambition to change lives for the better for millions of patients living with diabetes and other chronical diseases. In exchange, we offer the chance to be part of a truly global workplace, where passion and engagement are met with opportunities for professional and personal development.

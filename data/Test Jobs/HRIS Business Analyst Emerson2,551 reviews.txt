@@ -1,0 +1,54 @@
+HRIS Business Analyst
+HRIS Business Analyst
+
+Requisition ID: (20003566)
+Primary Location: India-Punjab
+Job Function: Information Technology
+Job Posting Date: Apr 6, 2020, 7:38:12 AM
+
+Basic Function
+This position supports and assists the implementation of HCM (Human Capital Management) and Payroll System for Emerson Business Units in India, multi-Business Group environment. This position provides assistance to the Project Managers in HRIS for implementations and other enhancements. In addition, this position will help the Operations team in resolving production issues, as needed.
+Principal Functional Responsibilities
+Manage the configuration of the application based on Business Unit requirements and Emerson Global HRIS standards for Human Resources, Payroll, Benefits, Talent Acquisition, L&D and other associated modules
+Coordinate with cross-functional teams in different lines of business to collect requirements for Oracle HCM and payroll vendor
+Assist in Core HR and Payroll implementations in the following areas:
+Participate in requirements gathering sessions and maintain requirements documents
+Help in documenting the requirements, doing setups and testing the system
+Work with the payroll vendor on interface.
+Maintain other project management documentation such as fit/gap analysis
+Participate in data validation
+Assist with payroll parallel testing
+Maintain reporting standards and coordinate reporting requirements across multiple Business Units
+Provide support to the Business Units for HR, Payroll, Benefits, Talent Acquisition, L&D and other associated modules
+Research new Oracle functionality to enhance customer usage of Oracle and assist in testing the new configuration before it is migrated in production
+Assist with the maintenance of end-user training documentation
+Provide support in resolving production issues and running India payroll operations.
+Other duties as assigned
+
+Education
+Requires completion of a four-year bachelor’s degree in a Human Resources, Information Technology Business, or related field or equivalent experience.
+
+Experience/Skills
+
+Minimum of three years of related work experience configuration, implementation or business support experience with an Oracle EBS or Fusion HCM Cloud applications. Oracle HR, Payroll and/or Advanced Benefits experience preferred, however PeopleSoft or similar system experience will be considered
+Good business knowledge in HR, Payroll, Benefits and related processes
+Knowledge of PL/SQL, HCM Extracts, HDL and BI Reports is a plus.
+Deadline oriented with a sense of urgency in meeting project goals
+Ready and willing to share information, as necessary
+Able to communicate with personnel in multi-disciplines from the clerical level to senior management
+Able to interact professionally with clients, contractors and vendors both internal and external
+Experience with large change initiatives is a plus
+Interacts with other team members to exchange information and creates a positive and productive team dynamic
+Ability to effectively work in a team environment
+Excellent organizational and interpersonal and written communication skills
+
+About Emerson
+At Emerson, we are innovators and problem-solvers, focused on a common purpose: leaving our world in a better place than we found it. Each and every day, our foundational values—integrity, safety and quality, supporting our people, customer focus, continuous improvement, collaboration and innovation—inform every decision we make and empower our employees to keep reaching higher.
+
+As a global technology and engineering leader, we provide groundbreaking solutions for customers in industrial, commercial, and residential markets.
+
+Our Automation Solutions business helps process, hybrid, and discrete manufacturers maximize production and protect personnel and the environment while optimizing their energy and operating costs. Our Commercial & Residential Solutions business helps ensure human comfort and health, protect food quality and safety, advance energy efficiency and create sustainable infrastructure.
+
+Emerson, a Fortune 500 company with $17.4 billion in sales, more than 20 Innovation, Solutions & Engineering Centers, and 200 manufacturing locations worldwide, is committed to helping employees grow and thrive throughout their careers.
+
+Whether you're an established professional looking for a career change, an undergraduate student exploring options or a recent MBA graduate, you'll find a variety of opportunities at Emerson. Join our team and start your journey today.

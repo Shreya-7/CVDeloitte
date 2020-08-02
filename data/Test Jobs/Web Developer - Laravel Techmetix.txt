@@ -1,0 +1,8 @@
+Web Developer - Laravel
+Analysis Skills
+Unit Testing
+MySQL
+AJAX
+JSON
+PHP
+Job Description: Experience in Laravel frameworkExperience in the development of PHP based web applications, Core PHP, AJAX, Web Services (JSON), MySQL, CSSShould have good debugging skillsRequirement gathering and analysis skillsExperience in application and database designingShould be able to develop modules independently and perform Unit testingIntegration of multiple data sources and databases into one systemCreative and efficient problem solverResponsibilities and DutiesGood experience of parsing data formats such as JSON and using 3rd party APIsUnderstand end-user requirements, formulate use cases and come up with effective solutions.Ability to build a feature from scratch and drive it to completion.A willingness to learn new technology, whatever lets you deliver the best product.Qualifications and SkillsFrameworks: LaravelBenefitsFriendly EnvironmentFlexible working hoursWork-life balanceLearning and DevelopmentJob Type: Full-timeSalary: ₹12,000.00 to ₹20,000.00 /monthExperience:software development: 1 year (Preferred)work: 1 year (Preferred)Education:Bachelor's (Preferred)Location:Ahmedabad, Gujarat (Preferred)Benefits:Flexible work hoursIndustry:Software DevelopmentWork Remotely:Temporarily due to COVID-19

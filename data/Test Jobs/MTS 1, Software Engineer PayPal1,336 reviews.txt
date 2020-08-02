@@ -1,0 +1,50 @@
+MTS 1, Software Engineer
+Agile
+Test Automation
+Unit Testing
+Hibernate
+Java
+Oracle
+Hadoop
+NoSQL
+REST
+OOP
+SQL
+Apache Pig
+Responsibilities
+
+As a lead member of our team, you will work with Designers, Product Owners and Domain Technical Leads building new experiences and improving existing products, developing robust software solutions and dependable products for PayPal’s merchants and consumer. You’ll estimate engineering efforts, prioritize projects, plan implementations, and triage production issues. You need to be dynamic, collaborative and curious, as you’ll work in a fast-paced environment where continuous experimentation and innovation are a given.
+We are looking for the best Back-End Application engineers in the world, who have a passion for developing massively scalable, distributed software systems that require high availability to support mission-critical business tasks. Quality is at the forefront of everything our team does, and we are looking for true passion for writing robust, re-usable, scalable and well-tested code.
+
+On the personality side, you are the right person for PayPal if you are willing to:
+
+Drive to get results and not let anything get in your way.
+Be proactive and anticipate/handle issues before they blowup.
+Exhibit a strong backbone and challenge the status quo when needed.
+Demonstrate a high level of curiosity and keep abreast of the latest technologies.
+Show pride of ownership and strive for excellence in everything you do.
+Show pride and passion for helping businesses thrive around the globe.
+
+Your responsibilities will also include:
+
+Design, development, and testing of features delivered as applications and/or services.
+Collaborating with peers and leads both within the team and across the organization.
+Working with scrum teams and product managers using agile methodologies to deliver high quality solutions on time.
+Working with operations teams to ensure applications and services are highly available and reliable.
+Supporting applications and/or services as and when required on a 24x7 basis.
+
+Requirements
+
+8+ years of experience with proficiency in back-end development using Java EE technologies (e.g. Java language, application servers, servlet containers, JMS, JPA, etc.).
+Strong OOP skills, with ability to analyze requirements and transform into scalable software designs.
+Experience with HTTP, REST API's and competent designing and building web services/microservices in a commercial setting.
+Cognizant of SQL and other/NoSQL/modern database and storage technologies. Desired understanding of Oracle, JDBC and ORM frameworks (e.g. Hibernate).
+Experience with Design Patterns, MVC and frameworks (e.g. Spring).
+Competent in design/implementation for reliability, availability, scalability and performance.
+Competent in software engineering tools (e.g. Java build tools) and best practices (e.g. unit testing, test automation, continuous integration, etc.).
+Extra credit: Exposure to Hadoop technologies and developing Pig scripts.
+
+Job_Description_Summary: Fueled by a fundamental belief that having access to financial services creates opportunity, PayPal (Nasdaq: PYPL) is committed to democratizing financial services and empowering people and businesses to join and thrive in the global economy. Our open digital payments platform gives PayPal’s 250+ million active account holders the confidence to connect and transact in new and powerful ways, whether they are online, on a mobile device, in an app, or in person. Through a combination of technological innovation and strategic partnerships, PayPal creates better ways to manage and move money, and offers choice and flexibility when sending payments, paying or getting paid. Available in more than 200 markets around the world, the PayPal platform, including Braintree, Venmo and Xoom, enables consumers and merchants to receive money in more than 100 currencies, withdraw funds in 56 currencies and hold balances in their PayPal accounts in 25 currencies.
+Who we are: Fueled by a fundamental belief that having access to financial services creates opportunity, PayPal (NASDAQ: PYPL) is committed to democratizing financial services and empowering people and businesses to join and thrive in the global economy. Our open digital payments platform gives PayPal’s 286 million active account holders the confidence to connect and transact in new and powerful ways, whether they are online, on a mobile device, in an app, or in person. Through a combination of technological innovation and strategic partnerships, PayPal creates better ways to manage and move money, and offers choice and flexibility when sending payments, paying or getting paid. Available in more than 200 markets around the world, the PayPal platform, including Braintree, Venmo and Xoom enables consumers and merchants to receive money in more than 100 currencies, withdraw funds in 56 currencies and hold balances in their PayPal accounts in 25 currencies.
+We're a purpose-driven company whose beliefs are the foundation for how we conduct business every day. We hold ourselves to our One Team Behaviors which demand that we hold the highest ethical standards, to empower an open and diverse workplace, and strive to treat everyone who is touched by our business with dignity and respect. Our employees challenge the status quo, ask questions, and find solutions. We want to break down barriers to financial empowerment. Join us as we change the way the world defines financial freedom.
+PayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities.

@@ -1,0 +1,24 @@
+Engineer
+Responsibilities:
+1. Detailed electronic design, including schematic capture (Cadence / Mentor Graphics). The analog circuits will include power (DC to DC), discrete I/O, preamps, amplifiers, filters, A/D conversion, and sensor signal conditioning circuits. The digital circuits will include multiplexers, FPGAs, PLDs, microcontrollers, and aircraft communications transceivers.
+2. Coordinate PWB layout and circuit card(s) documentation release.
+
+3. Documentation and fabrication of engineering breadboards, review and analyze test data, support qualification, transition products to manufacturing, and sustaining support.
+4. Provide technical support for operations team
+5. Thermal and performance analysis (worst case analysis, simulation or breadboard test)
+
+6. Test support, including writing test procedure, test reports, and designing test fixtures.
+
+7. Support formal design reviews and presentations to customer.
+
+8. Compliance with DO-254 Complex Hardware design and substantial documentation.
+
+The position may require occasional travel to various test facilities for set up and monitoring of qualification/integration testing or infrequent field support. Some system level support may also be necessary.
+Requirements:
+
+Qualification:
+
+BE/B.Tech in Electrical / Electronics engineering or equivalent
+Experience: 0 to 2 Years
+Tools expertise on Cadence tools, MS Office Software, MS ProjectExpertise with design and analysis of Analog electronics, digital electronics, power circuits, sensor interfaces, FPGAs.
+Experience in making presentations and communicating with management/customers. Strong technical writing and verbal communication skills.

@@ -1,0 +1,21 @@
+INTERN/ Software Developer
+Agile
+JavaScript
+Angular
+Oracle
+Microsoft SQL Server
+Java
+HTML5
+AJAX
+SQL
+EXP: 0 – 2 YRS
+Location: Noida
+Job Description:
+The position is open for people who are quick learners and are not hesitant to learn any new technology and domain. Position will be responsible for development and testing of application and customizations.
+Requirements:
+Well versed with Java, Javascript, Angular JS, HTML, XML, AJAX.
+Able to write SQL queries for Relational databases like SQL, oracle, MS-SQL.
+Use standard coding practices for writing efficient code.
+Good knowledge of Soap and Rest Web services.
+Knowledge of all phases of SDLC project lifecycle.
+Understand Agile methodology and Scrum Model.

@@ -1,0 +1,5 @@
+Android Developer
+Android
+REST
+Git
+Strong knowledge of Android SDK, different versions of Android, and how to deal with different screen sizesFamiliarity with RESTful APIs to connect Android applications to back-end servicesStrong knowledge of Android UI design principles, patterns, and best practicesExperience with offline storage, threading, and performance tuningAbility to design applications around natural user interfaces, such as “touch”Knowledge of the open-source Android ecosystem and the libraries available for common tasksAbility to understand business requirements and translate them into technical requirementsUnderstanding of Google’s Android design principles and interface guidelinesProficient understanding of code versioning tools, such as GitFamiliarity with continuous integrationJob Location - Deccan J.M.Road (Shivaji Nagar)Ready to Join ImmediatelyJob Type: Full-timeSalary: ₹15,000.00 to ₹30,000.00 /monthExperience:Android : 1 year (Required)Education:Bachelor's (Preferred)Location:Pune, Maharashtra (Preferred)

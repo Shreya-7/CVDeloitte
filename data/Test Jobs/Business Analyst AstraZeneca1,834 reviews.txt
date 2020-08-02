@@ -1,0 +1,46 @@
+Business Analyst
+Job Title: Business Analyst
+Location: TRIL GTC
+GCL :D1
+Company description
+AstraZeneca is a global, innovation-driven biopharmaceutical business that focuses on the discovery, development and commercialization of prescription medicines for some of the world's most serious diseases. But we're more than one of the world's leading pharmaceutical companies. At AstraZeneca, we're proud to have a unique workplace culture that inspires innovation and collaboration. Here, employees are empowered to express diverse perspectives - and are made to feel valued, energized and rewarded for their ideas and creativity.
+High Level Function and Role Overview
+The purpose of Operations IT is to partner with the global AstraZeneca Operations organization to deliver excellent Information Technology to support and accelerate business objectives.
+The team in which this role is based is customer-facing and strong partnering and influencing skills are essential. As a Business Analyst, you will work closely with your customer groups to understand their key challenges and use your knowledge and experience to determine where IM and/or IT would provide optimal value including:
+Ensuring proposed and delivered solutions meet business needs Proactively seeking opportunities in IT that might benefit your business customers Providing support & consultancy to users on system exploitation and best practice to maximise value from existing IT solutions
+Whilst this role is not a hands-on technical IT role, to be successful as a Business Analyst in AstraZeneca, you will have a demonstrable appreciation of current technology trends and a strong desire to improve the IT user experience in the business. SAP and Ariba suites form the underlying technology driving the core business processes and these are supplemented by a myriad of other solutions providing differentiated, supporting solutions for more bespoke business processes.
+Key Accountabilities
+User Support & business consultancy
+Collaborate with key business stakeholders to maximise system exploitations and optimise business solutions
+Lead improvement projects to improve service delivery for customers
+Requirements Management
+lead the effort to work with the business to identify functional and technical requirements
+Lead the translation of business requirements into design specifications
+Work with the technical delivery teams to ensure requirements are understood
+Monitor and ensure that requirements are met, tested and implemented
+Solution Design
+Ensure new solutions meet the needs of customers
+Support UAT and manage introduction of new solutions to customers
+Candidate Knowledge, Skills and Experience
+Successful candidates will be required to demonstrate the following capabilities & skills:
+Hands-on experience of working with Historian applications (OSIsoft PI, Aspentech IP-21, Wonderware).
+Experience to different kinds of interfaces to local equipment via OPC-UA, OPC-DA, direct database connections and scheduled file transfers.
+Experience with tag definition, building batch context for Historian, creation of reports and visualisations based on Historian data.
+Awareness of regulatory frameworks (e.g. GxP), incl. change management, requirements management and testing.
+Awareness of integration with Manufacturing Execution Systems (e.g. PAS-X) and/or Manufacturing Intelligence solutions (e.g. TrakSys).
+Domain Knowledge / Working Experience / Good Understanding in Production Planning/Manufacturing process, Shop floor activities.
+Awareness of ME Site Setups, Shop floor master data, Shop Floor execution and material tracking.
+Significant professional experience in IS/IT is essential with strong focus on business analysis and business relationship management
+Proven ability to collaborate and build strategic working relationships with senior internal customers, peers and vendors regardless of organizational boundaries
+Experience of delivering solutions in a regulated environment with internal and external standards.
+Service Management
+ The candidate should have knowledge on Service management and tools used for Service Management which includes:
+Change management / Incident management / Problem Management
+ Service Level Agreements (SLA) / Operation Level Agreements (OLA) and their priorities
+In addition, candidates will be expected to demonstrate:
+IT Project delivery and/or Business Analysis experience
+Strong influencing and Innovation skills
+Good communication skills and facilitation skills with the ability to work with others to achieve objectives
+Good written and verbal skills, fluent English
+Additional verbal/written languages would be an advantage
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

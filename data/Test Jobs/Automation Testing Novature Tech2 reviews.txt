@@ -1,0 +1,26 @@
+Automation Testing
+Test Automation
+Analysis Skills
+JD:
+
+1. Good experience in manual testing of at least 1 of web applications, client-
+server applications, mobile apps.
+
+2. Must have experience with test automation using c# and selenium
+
+3. Good understanding of operating system concepts, databases, system
+architecture and performance testing concepts
+
+4. Good understanding of SDLC, STLC and different project methodologies
+
+5. Good understanding of test plan, test cases writing/reviewing, effort
+estimations &amp; test strategy
+
+6. Strong analytical skills with excellent troubleshooting approach
+
+7. Good verbal and written communication in English
+
+8. Excellent documentation skills and able to explain application workflow,
+system design, defects and functionality in clear and concise manner
+
+9. Able to work independently and multi-tasking.

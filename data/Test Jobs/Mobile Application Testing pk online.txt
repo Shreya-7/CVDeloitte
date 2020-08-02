@@ -1,0 +1,34 @@
+Mobile Application Testing
+Analysis Skills
+Test Automation
+Eclipse
+MySQL
+Java
+Perl
+REST
+PHP
+Job Description
+We are seeking Mobile Application Test Engineer with strong technical expertise in Testing and familiarity with backend technologies to join us as we disrupt the mobile market. As you will have a direct impact on a product that reaches millions of users you must be familiar with software Testing methodologies and techniques, and have the skills to write & design the test cases. Ideally, you must have good communication, Test management and analytical skills and good at analyzing both the business and technical requirements for a software program.
+Experience: 1 to 3 years | Location: Gurgaon
+Roles and Responsibilities:
+Write Test Cases for new Applications/Features
+Test & report bugs in applications/products
+Support existing and new application/product deployments
+Mentor/Train Peers with Expert Knowledge
+Participate in Release Management and Configuration activities
+Must have experience working on Android/Mobile Application Testing.
+Development of Test Automation Frameworks using Java/Perl/PHP/Shell or C
+Working knowledge of web services (Rest APIs).
+Hands on experience on tools like SOAPUI, Eclipse, REST API
+Ability to multi task work across a main product development as well as patch regression.
+Excellent analytical and problem solving skills; Strong written and oral communication skills.
+Experience with a defect tracking system such as Bugzilla or Mantis.
+Experience with any Test Management tool
+Good technical understanding of Linux System, Linux Commands, MySQL, and Apache.
+Prior experience in developing automated test infrastructures.
+Should have working knowledge of bug reporting and code versioning systems
+Interest towards Social Networking sites like Facebook, Twitter
+Desire to learn and build new technologies
+Skills Required:
+Hands on experience of software quality assurance automation testing experience, including Test Design and execution.
+Experience testing Rest APIs

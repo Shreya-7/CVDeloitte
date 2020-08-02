@@ -1,0 +1,55 @@
+Mobile Application Developer
+OOP
+JavaScript
+iOS Development
+SQLite
+MySQL
+HTML5
+REST
+JSON
+Java
+PHP
+iOS
+Job Description
+Hi,
+Hope you are doing fine!
+Opening for Mobile Application Developer with our esteemed client- Bangalore( Jayanagar)
+Know about the Company-
+About Company: It is a 12-month-old business funded 1.5 months back by A leading venture capital fund in India. They are creating a high quality, affordable secondary care health care delivery service in India.
+Problem Statement:80% of the bed supply in the private hospital market is delivered by standalone hospitals with 30-100 beds. These hospitals are typically owned by doctors whose capabilities are on the clinical side, however, they need support on administering the hospital.
+Approach: Through a combination of operational and technology enabled services, Company administers these hospitals thereby delivering high quality, affordability & availability treatments for patients.
+Location-Bangalore( Jayanagar)
+Experience- 3 -8 Years
+Role-Mobile Application Developer
+Job Description
+Proficient in mobile app development. Good knowledge ofFlutterSDK.
+Strong with at least one programming language PHP
+Good knowledge of object-oriented design patterns and Multi-threading concepts.
+Published at least one app on the Play Store using Flutter/ Native
+Familiarity with REST APIs to connect applications to back-end services
+Experience using web services (HTTP, REST, SOAP) using JSON.
+Good knowledge of the SQLite database, mysql and the Google Play Services like Push Notifications. Knowledge of HTML5, JavaScript, and the third-party API (like Facebook, Twitter, etc.) will be added advantage.
+Should be good with both frontend and backend and have a good understanding of version control.
+Experience with third-party libraries and APIs Native iOS and Android mobile app experience are a plus
+6 day work week
+Kindly send your updated resume if interested.
+
+Salary: Not Disclosed by Recruiter
+Industry:Medical / Healthcare / Hospitals
+Functional Area:IT Software - Client/Server Programming
+Role Category:Programming & Design
+Role:Software Developer
+Keyskills
+Application Development
+Native
+Java
+Healthcare
+PHP
+Flutter
+Hospital
+Venture Capital
+Desired Candidate Profile
+Please refer to the Job description above
+Company Profile
+FUTURES AND CAREERS
+FUTURES AND CAREERS is a company that has a definite purpose. We offer Recruitment and Training Services to Companies and Educational Institutions. Success and longevity is directly linked to our Clients’ happiness along with our service delivery. Having been market experts in the areas that we recruit and train, we build long-term futuristic relationships with Employers, Institutions and Candidates in order to seal Win-Win relationships!

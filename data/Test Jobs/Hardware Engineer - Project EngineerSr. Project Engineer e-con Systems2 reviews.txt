@@ -1,0 +1,23 @@
+Hardware Engineer - Project Engineer/Sr. Project Engineer
+Position: Hardware Engineer - Project Engineer/Sr. Project Engineer
+
+Location: Chennai
+
+Experience Required: 2 to 6 years
+
+
+
+
+Skillsets:
+
+
+
+Should have worked in Digital design.
+Should have designed Processor based boards is added plus.
+Should have worked with Microcontrollers.
+Design skills - Thermal analysis, Load analysis, Timing analysis.
+Basic knowledge on Signal Integrity.
+Interfaces - USB,UART, SPI, I2C,etc..
+Strong electrical/electronic basics (Good in fundamentals like, transistors, op-amps)
+Tools used - Schematic entry (Orcad), PCB Design (Allegro), Gerber viewers
+Should have done Testing and validation of designed boards.

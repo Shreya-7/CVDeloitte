@@ -1,0 +1,19 @@
+Software Developer / Software Engineer
+JavaScript
+Git
+HashCube is a gaming company that makes high quality deep classical games for Mobile and Facebook. We are looking for developers who will be working on games that will be played by millions of players.
+
+Benefits
+ Working on interesting problems that affects thousands of users
+ Exposure to business and technical challenges in a startup
+ Free Food :)
+ We are big fans of opensource. You could find our contributions at https://github.com/hashcube
+
+Skills
+0-2+ years work experience
+Proficient in atleast one programming language. Having Javascript experience is a plus
+Comfortable with unix/Linux systems
+Experience with any version control system like git
+
+ About HashCube
+HashCube is a mobile gaming studio in Bangalore and makers of the most monetizing Sudoku game - Sudoku Quest and now Mahjong

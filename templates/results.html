@@ -6,6 +6,7 @@
     <table class="table">
         <tbody>
             {% for k,v in json.items() %}
+            {% if (v is defined) and v %}
                 <tr>
                     <td style="color: #44BCDD">
                         <b>{{k|upper}}</b>
@@ -18,7 +19,8 @@
                             {% endif %}
                         {% endfor %}
                     </td>
-                </tr>               
+                </tr>  
+            {% endif %}             
             {% endfor %}
         </tbody>
     </table>

@@ -1,0 +1,26 @@
+Principal Software Engineer - Cloud Eng
+Embedded Software
+Principal Software Engineer
+The Software Engineering team delivers next-generation software application enhancements and new products for a changing world. Working at the cutting edge, we design and develop software for platforms, peripherals, applications and diagnostics — all with the most advanced technologies, tools, software engineering methodologies and the collaboration of internal and external partners.
+
+Join us as a a Principal Software Engineer on our Engineering Development team in [Location] to do the best work of your career and make a profound social impact.
+
+Key Responsibilities:
+Our Software Engineers create solutions. As a part of the team, you will analyze the customer’s business goals, needs and general business environment to design technical system answers.
+
+You will:
+Contribute to the design and architecture of high-quality, complex systems and software/storage environments
+Prepare, review and evaluate software/storage specifications for products and systems
+Contribute to the development and implementation of test strategies for complex software products and systems/for storage products and systems
+
+Essential Requirements:
+Good knowledge of programming languages; operating systems; firmware; BIOS; device drivers; databases; system, network, operating system, and application administration; embedded software/firmware; tools and utilities
+Ability to code/debug and guide others to code/debug flexible, scalable and complex programs, using either written or verbal design specifications
+Experience with multiple programming languages, databases, operating systems, tools and hardware platforms
+Ability to learn new tools, languages and operating systems with some training and on-the-job experience
+
+Desirable Requirements:
+8+ years of related experience with a Bachelor’s degree; or 6+ years with a Master’s degree; or 3+ years with a PhD; or equivalent experience
+Dell Technologies is a unique family of businesses that helps organizations and individuals build their digital future and transform how they work, live and play—providing customers with the industry’s broadest and most innovative technology and services portfolio. We value our customers, winning together, innovation, results and integrity. Grow your career with a highly competitive salary, bonus programs, world-class benefits and unparalleled learning and development opportunities— all at a company that is proud to be diverse and inclusive. Learn more on how we are closing the diversity gap here.
+
+Dell is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Dell are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Dell will not tolerate discrimination or harassment based on any of these characteristics. Dell encourages applicants of all ages. Read the full Employment Opportunity Policy here.

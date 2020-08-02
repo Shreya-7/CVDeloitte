@@ -1,0 +1,7 @@
+Mobile Application Developer
+React Native
+JavaScript
+REST
+React
+iOS
+· Work on React Native on the front end to create Android/iOS Apps.· Thorough understanding of React Native and its core principles· Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model· Experience with popular React workflows (such as Flux or Redux)· Familiarity with RESTful APIs· Experience creating, optimizing, and integrating Application Programming Interface (API) calls; background in API development preferred.· Create Technical Requirements Documentation based on Product Requirement Documents.· Build high-level user interfaces using rapid prototyping methodologies.· Design application frameworks for use across multiple products.· Work with internal technical teams to identify and build platform elements required to support key mobile product features.Job Types: Full-time, Part-time, ContractExperience:work: 2 years (Required)total work: 2 years (Required)Education:Bachelor's (Required)

@@ -1,0 +1,9 @@
+Web developer
+Exp: Min. 3 years
+
+Responsibilities :
+
+Creating website layout/user interfaces by using
+Integrating data from various back-end services and databases
+ Software documentation Creation & maintenance.
+Responsible for maintaining, expanding, and scaling our site.

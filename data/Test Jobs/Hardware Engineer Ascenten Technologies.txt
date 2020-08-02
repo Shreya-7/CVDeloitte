@@ -1,0 +1,25 @@
+Hardware Engineer
+Must have design & development experience in a industrial related product. Nice to have: Experience in low power design and intrinsically safe design.
+Experience in control system, metering and instrumentation is highly desired
+Experience in EMC and compliance product design & testing.
+Experience in various interface topology (especially I2C/SPI/UART/USB/Ethernet/Bluetooth/GSM/GPS)
+Deep understanding of characteristics of passive components, transistors (BJTs and FETs)
+Must be able to do AC and DC analysis of circuits
+Familiar with schematic capture, simulation and timing analysis tools
+Experience in Wearable and Metering design preferred
+Experience in verify the PCB design and PCB lay-out
+Strong troubleshooting skill is a must
+Must have documentation skill
+Works in both an independent and team member environment to meet product delivery goals.
+Ability to define and communicate problems clearly to others while working across multiple groups
+Nice to have: Experience in embedded C programming
+
+Responsibilities:
+Developed and established product
+Perform product characterization and develop specification
+Components selection and Designing schematics
+Assist in PCB design and PCB lay-out
+Prototype board bring up, testing and debugging
+Create test plans & reports
+Resolve any hardware issues during the development phase
+Documentation

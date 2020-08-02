@@ -1,0 +1,35 @@
+Software Developer
+JavaScript
+Python
+PHP
+Job Roles:
+
+Technical Lead:
+Description: As a technical lead you hold the responsibility of the complete technical team and its performance. The technical lead must work for the overall development of the team and have clear knowledge in multiple fields like webapp developments, software development etc.
+Skills: Proficiency in multiple technical fields, good leadership and management skills
+Language: PHP/Python/JavaScript
+Experience: 4+ years
+Priority for candidates having experience in the job roles applied.
+Team Lead:
+Description: Our technical team consists of various sub teams to handle different types of software needs like web app development, software development, etc. Being a team lead, you hold the authority of a sub team that is assigned to you based on your expertise and experience. You also hold responsibility for your team and its performance.
+Skills: Proficiency in the respective technical field, good leadership and management skills.
+Language: PHP/Python/JavaScript
+Experience: 2.5+ years
+Priority for candidates having experience in the job roles applied.
+Senior Developer
+Description: Becoming our senior developer will be the right choice for developers having quite an experience. We are ready to undertake projects of any level, thereby offering a wide exposure for our developers. Based on your technical experience, expertise and interests in various fields like web app development, software development, etc. you will be working with the respective team
+Skills: High level knowledge in coding and its related languages, adaptability.
+Language: PHP/Python/JavaScript
+Experience: 1+ years
+Priority for candidates having experience in the job roles applied.
+Jr.Developer:
+Description: For developers holding a minimum experience this is the right spot to further nurture your career. Based on your technical expertise and interests in various fields like web app development, software development, etc. you will be working with the respective team.
+Skills: Good knowledge in coding and related languages, quick learning and adaptability.
+Language: PHP/Python/JavaScript
+Experience: 0-1 year
+Priority for candidates having experience in the job roles applied.
+Trainee:
+Description: Trainee is a perfect spot for freshers among the developers to start their career. Being our trainee you get a chance to learn the latest technologies and apply them in real world applications.
+Skills: Basic knowledge in coding and its related language.
+Language: PHP/Python/JavaScript
+Experience: Nil

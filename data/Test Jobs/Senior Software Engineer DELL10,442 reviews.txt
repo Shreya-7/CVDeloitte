@@ -1,0 +1,33 @@
+Senior Software Engineer
+MongoDB
+Python
+Azure
+Shell Scripting
+AWS
+Company Description:
+Dell provides the technology that transforms the way we all work and live. But we are more than a technology company — we are a people company. We inspire, challenge and respect every one of our over 100,000 employees. We also provide them with unparalleled growth and development opportunities.
+Why Work For Us:
+Dell is primed to recruit the best and brightest candidates from all across the globe. We take pride in fostering a winning, innovative, inclusive employee culture. We also take calculated risks and we celebrate big victories when they pay off.
+Our EVP:
+Our Culture Code unites us and makes us a great family of companies and a great place to work. It’s how we run the business, go to market, work together and provide inspirational leadership.
+Our culture code is defined by our values and are made real every day by defining expectations for how we work and how we lead.
+Senior Software Engineer -
+End to End Understanding of Performance Test Lifecycle [ NFR, Design, Build, Execute, Analyze, Optimize and Report]
+Understanding of Performance testing across different application tiers [UI-Performance[Frontend] / DB-Performance[DB] / Hardware & Storage Performance[Platform]]
+Experience in conducting system stability/reliability of Enterprise/Large Scale Applications on on-prem and Cloud.
+Ability to deep dive and analyze/ RCA Performance bottlenecks / Good understanding of heap and thread dumps
+Good Understanding of
+OS - Linux/Windows OS
+Programming - Python, Bash/Shell
+DB – MongoDB
+Ability to contribute to performance automation frameworks.
+Tools - Loadrunner, Jmeter, ELK , Grafana/Graphite
+Knowledge of virtual environment [ ESXi / Hyper-V], AWS, GCP and Azure Cloud
+Good Communication skills and ability to work across the with Dev, PO and Architect teams.
+
+Competitive salary
+
+Benefits:
+We offer highly competitive salaries, bonus programs, world-class benefits, and unparalleled growth and development opportunities — all to create a compelling and rewarding work environment.
+Apply now!
+Dell is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Dell are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Dell will not tolerate discrimination or harassment based on any of these characteristics. Learn more about Diversity and Inclusion at Dell here.

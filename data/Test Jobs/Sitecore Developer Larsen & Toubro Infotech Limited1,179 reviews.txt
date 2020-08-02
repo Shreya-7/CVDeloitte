@@ -1,0 +1,14 @@
+Sitecore Developer
+JIRA
+Solr
+Git
+TFS
+Minimum 3+ years of experience in the Sitecore application.
+5+ total years’ experience in software design and implementation in distributed, multi- tier, heterogeneous client systems using structured, object-oriented
+Good experience in up-gradation and migration of Sitecore application. at-least 1 project handled for upgrade & migration
+Experience in DAM (Digital asset management) and integration of it with Sitecore
+Work collaboratively with the Development team on software development efforts from a technology This involves being intimately involved with all technical activities within the team (software development lifecycle activities, code reviews, research, etc.)
+Develop applications and websites that support business strategy and requirements, emphasizing on quality, performance, scalability, security, and maintainability
+Maintain an ongoing awareness of emerging developments and trends in technology that could impact current projects and influence new projects
+Candidate must know Sitecore terms like pipelines, workflow, customation, multisite, multilingual, etc.
+• Establishment and enforcement of coding standards and practices • Follow team process by entering and tracking implementation information including work items and tasks in GIT, JIRA & TFS • Experience in integration of enterprise search like Solr, Coveo, Elastic in a scaled environment.

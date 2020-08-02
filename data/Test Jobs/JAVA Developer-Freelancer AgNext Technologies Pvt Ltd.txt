@@ -1,0 +1,18 @@
+JAVA Developer-Freelancer
+Java
+Time Management
+OOP
+Oracle
+Analysis Skills
+JavaScript
+Hibernate
+PostgreSQL
+Node.js
+Struts
+Tomcat
+JBoss
+MySQL
+Agile
+AJAX
+REST
+We’re looking for a dynamic, passionate and ace Java developer having excellent logical reasoning and experience to develop awesome web applications and products that are not just user-centric, but productive too. Our Java developer must have knowledge in all stages of software development. You’ll be working alongside other engineers and developers, collaborating on the various layers of the infrastructure for our various applications.Skills and Expertise:-Design overall architecture of the web application.-Maintain quality and ensure responsiveness of applications.-Collaborate with the rest of the engineering team to design and launch new features.-Maintain code integrity and organization.-Should have experience in Java, JEE, Spring, Springboot, Hibernate-Should have worked on frameworks (e.g. Spring MVC, Struts).-Good experienced with Front End technologies (e.g. HTML+CSS, JavaScript/AJAX, Node.js, jQuery (or equivalent).-Web infrastructure (E.g. Apache HTTP/Servlet containers – Tomcat/ JBoss).-Object Oriented Analysis and Design.-Design and creation of web services (E.g. SOAP, REST) RDBMS (E.g. MySQL, Postgres, Oracle) -Working with an Agile (e.g. Scrum, Lean) methodology.-Familiar with testing frameworks like JUnit, Mockito, Powermock, JMock, DBUnit.-XP practices - TDD, Refactoring, Continuous Integration and related tools.-Time management and analytical skills.-Ability to perform several tasks at the same time.-Ability to translate requirements into a finished project.-Communication skills to collaborate with clients and internal development teams.-Problem-solving ability.Job Types: Temporary, ContractSalary: ₹15,000.00 to ₹40,000.00 /month

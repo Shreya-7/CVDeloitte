@@ -1,0 +1,45 @@
+WEB DEVELOPER
+OOP
+MySQL
+JavaScript
+Agile
+HTML5
+Solr
+SQL
+PHP
+Git
+SVN
+As a Senior Software Engineer you will engage in product engineering efforts and work with product, design and marketing teams to build world class WEB 2.0 products that are being used by millions of users worldwide. These products have been built using various technologies, on different platforms and complex algorithms. You will be involved in coding, architecture, testing, and deployment of the project and mainly deliver clean and well designed code.
+
+Responsibilities:
+1. Deliver clean, testable, well designed and scalable code using PHP5, JavaScript, HTML, CSS
+2. Write optimized SQL queries
+3. Write and plan stress test cases
+4. Thoroughly test cross browser compatibility of all products interfaces
+5. Maintain, support and debug code for large scale web sites in a network which have millions of visitors everyday
+6. Work closely and co-ordinate with developers and tech leads to integrate code across projects
+7. Peer code review
+8. Evaluate & identify new technologies for implementation
+9. Mentor and impart knowledge to juniors
+
+Requirements:
+1. Bachelors Degree (preferably Computer Science)
+2. 3-7 years of professional experience, preferably in a Product team
+3. Expertise in PHP, JavaScript, Advanced HTML, MySQL
+4. knowledge of JS library like Jquery, YUI
+5. Hands-on experience in Linux environment with intermediate knowledge of command line tool and basic commands.
+6. Experience in atleast one MVC based framework
+7. Experience in 3rd party API integration.
+8. Good knowledge of Object Oriented Design and Analysis (OOA & OOD)
+9. Must have used versioning tools like Git, SVN
+10. Knowledge of Cloud computing technologies.
+11. Ability to work independently or as part of a team on multiple tasks/projects concurrently
+12. Experience of working through an entire project cycle - implementation, review, testing and documentation
+13. Good communication skill
+
+Good to have:
+1. Experience in Yii/Zend framework
+2. Basic knowledge of caching strategies
+3. Experience in MySQL database clustering, memcache
+4. Knowledge of Agile, SCRUM Development Methodologies
+5. Knowledge of Solr

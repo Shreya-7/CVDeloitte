@@ -1,0 +1,9 @@
+UI Developer for a Product Based Company
+HTML5
+JavaScript
+Angular
+React
+REST
+AWS
+S3
+Front-end/UI developer with hands-on experience in Angular, React, VueJS (or least one of them).Candidate should have a stronghold on HTML & CSS.Expertise in any front-end framework and good hold on JavaScript.Can understand and troubleshoot REST APIs calls.Strong fundamentals in computer programming.Exposure to AWS services like S3, CloudFront will be a plus.Knowledge of SASS & LESS will be a plus as well.Good understanding of UI/UX concepts.Demonstrated ability to communicate, present and influence credibly and effectively.Job Type: Full-timeSalary: ₹0.00 to ₹100,000.00 /yearExperience:web development: 1 year (Preferred)Angular or React : 1 year (Preferred)HTML and CSS: 1 year (Preferred)

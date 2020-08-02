@@ -1,0 +1,12 @@
+Hybrid Mobile Developer for a Product Based Company
+OOP
+Analysis Skills
+iOS Development
+JavaScript
+SQLite
+Agile
+HTML5
+REST
+JSON
+iOS
+Roles and responsibilities: Cross-platform mobile app developers who have developed mobile apps with a familiarity of Ionic/FlutterDevelop and Manage Mobile Application in Hybrid - Android / iOS PlatformMobile app architecture planningMobile app design and optimization, able to provide a solution to improve mobile app quality, understand emerging technologies, standards and best practices to bring mobile app product to the next levelContinuously discover, evaluate, and implement new technologies and frameworks to maximize development efficiencyEstimate timelines and deliver as per scheduleSolid knowledge of mobile app development practices, along with mobile testing tools and techniquesExpertise in optimizing the app for performanceExperience using agile principles and methodologiesDeep understanding of the mobile landscape and behavior patterns is mandatoryRequired Skills: Experience using web services (HTTP, REST, SOAP) using JSON.Good knowledge of object-oriented design patterns and Multi-threading conceptsGood knowledge of the SQLite database and the Google Play Services like Push NotificationsStrong mobile UI design (multi-screen resolutions), coding, support and maintenanceKnowledge of HTML5, JavaScript, and the third-party API (like Facebook, Twitter, etc.) will be added advantageExperience with third-party libraries and APIsNative iOS and Android mobile app experience are a plusExperience: Minimum 3 years of hands on experienceWrite clean, manageable code and maintain proper documentationExcellent command over Data Structures and AlgorithmsFamiliarity with continuous integrationStrong problem solving and analytical skillsKnowledge of benchmarking and optimizationSecurity mindedness in development practicesCollaborate with cross-functional teams to define, design and deliver new featuresAbility to work independently in small teamsResponsible and capable of meeting tight deadlinesJob Type: Full-timeSalary: ₹0.00 to ₹1,500,000.00 /yearExperience:Hybrid Mobile Tech: 1 year (Preferred)Andriod or iOS: 1 year (Preferred)

@@ -1,0 +1,14 @@
+Hardware Circuit Design
+Skills : Analog/Digital/Mixed Signal Circuit Design
+
+We are in services to display Hardware Circuit Design Engineer Current Openings to the market, We are looking candidates for Hardware Circuit Design Engineer Job Openings in Chennai, Bangalore, to Various IT Clients in India, Apply Hardware Circuit Design Engineer Jobs and and get placed in your dreamed Organization
+Roles & Responsibilities:
+
+BE(ECE/EEE) with 1- 5- yrs of experience in embedded hardware circuit design ( Analog / Digital / Mixed signal circuit design)
+using 16bit, 32 bit and 64 bit processors and micro controllers (ARM, POWERPC, INTEL etc).
+Experience in any 2 COTS technology (PCI, cPCI, VME, VXI, PCMCIA, VPX) etc., is a must.
+Design Development, testing & Debugging in the following field:High speed Digital,Analog,Processor, FPGA ,sRIO, PCIe design,DDR2,DDR3,DDR3L, High speed DAC&ADC,PLL,Flash,USB,QDR-II,SRAM,RS422,RS232,RS485,EIA-530,Ethernet, SATA,FMC,XMC,VPX,I2C,SPI,ARINC-interfaces.
+Should have minimum 2 years of experience in Embedded Hardware Circuit Design
+Should have designed hardware circuits for Analog/ Digital/ Mixed Signal using 16 Bit, 32 Bit & 64 Bit processors and Micro-Controllers like ARM, POWERPC, INTEL etc
+Should have worked at least any of these two COTS technologies like PCI, cPCI, VME, VXI, PCMCIA, VPX etc
+Should Handle a team

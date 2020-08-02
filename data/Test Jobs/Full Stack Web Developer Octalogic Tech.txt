@@ -1,0 +1,33 @@
+Full Stack Web Developer
+Analysis Skills
+React
+Node.js
+PHP
+JavaScript
+Prerequisites
+
+Must have strong analytical skills
+Must be proficient in English
+Knowledge of at least 1 backend framework (Experience: 2 yrs +)
+Knowledge of at least 1 frontend framework (Experience: 2 yrs +)
+
+Backend Frameworks
+
+PHP with a framework ( Laravel (Priority), Codeigniter, Cake) OR
+Node.js with a framework ( Express (Priority), Koa )
+
+Frontend Framework
+
+React js or similar
+
+What we offer
+
+You will get the opportunity to learn and enhance your skills
+You will get to work on different and exciting projects
+You will get a good work life balance
+
+The project you will be working on will have either Laravel or Express as the backend framework and React js as the frontend framework
+
+Kindly mention your notice period in your application.
+
+The interview will be conducted remotely and we will follow work from home during the lock down period

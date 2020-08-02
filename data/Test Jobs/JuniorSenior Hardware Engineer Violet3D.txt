@@ -1,0 +1,49 @@
+Junior/Senior Hardware Engineer
+Violet is looking for a Junior and Senior Hardware Design Engineer for high speed, analog and RF board design. The successful candidate will have attention to detail and will be highly process oriented. This person should have a ‘get it right the first time’ attitude. This person should not be afraid to roll up his or her sleeves and jump in. This person leaves no question unanswered and constantly strives to ask more. If you think you’ve got the right stuff, keep reading.
+What you need for this position:
+Ability and Attitude
+You should love hardware engineering and board level design
+You should intimately familiar with component selection, data sheets, schematic design, layout board fabrication and board bring up
+You should be able to roll up your sleeve to draw a schematic, connect a logic analyzer or an oscilloscope or take a soldering gun in your hand.
+You should be a quick learner and an outstanding problem solver
+You should be self-motivated and enthusiastic to work in fast-paced startup environment
+You need to be able to realize value of design processes
+You should have excellent work ethics and value quality, productivity, technical innovation and creativity
+You should have organizing abilities, excellent team working capabilities, and strong communication skills
+Experience
+2-5 years (Junior) 5-10 years (Senior/Architect), maybe? If you can get the work done, we would love to keep the average age of the company as low as possible!
+You should have designed and developed boards having high speed digital design, audio circuits, switch mode power supplies, RF and analog circuits and worked with processors, DSPs, memories, ADC/DACs, op-amps and such
+You should have done multimedia design (audio and video system) and physical layer digital wireless and wired communication such as USB, Ethernet, WiFi.
+You should be proficient in schematic capture tools like ORCAD and familiar with board layout tools like PADS, Allegro, etc.
+You should be able to debug boards using Oscilloscopes, Spectrum Analyzer, Logic Analyzer and other test equipments
+You should have a good understanding of Power, Thermal, FCC/CE compliance testing of products
+Your experience with manufacturing of consumer electronics product will be a bonus
+Education
+o We believe that a Bachelors or a Masters in Electrical/Electronic Engineering from a reputable university will help
+What you'll be doing:
+Design / develop / debug hardware boards for multimedia products and network accessories targeting audio/video applications
+Generate design and functional specifications, high-level design, selects optimal components & vendors and creates schematics
+Support and reviews layout, BOM and Gerbers and creates testing plans for the designs.
+Work with software and hardware teams in board bring up
+Work with the team to discover and solve any quality-related issues of designs in early stage to ensure and enhance the quality of the products
+Resolve complicated design issues and engineering-related problems
+Interact with various vendors, customers and component manufacturers for product design
+Co-ordinates with and supports contract manufacturers and production department in creating prototypes
+Institute process methodologies to enable efficient design development and to ensure ‘first time right’ products
+Create design to conform to engineering specifications, CE, UL, EMC/EMI and FCC regulations
+Provide documents and technical supports to the contract manufacturers and production department to enable mass production
+What's in it for you:
+An opportunity to drive end-end hardware design
+A highly competitive base salary and great benefits
+A work place of young and talented people who have high aspirations and are willing to chase them
+A chance to work for a rapidly growing startup with proven traction and to directly contribute to its success
+An opportunity to try out your ideas and make mistakes
+Keywords
+Company: Violet3D/SNAP Networks
+Designation: Junior/Senior Hardware Engineer
+Location: Bangalore
+Experience: 2+ (Junior) 5+ (Senior) Years
+Education: Bachelor/Masters Engineering, Electronics
+Industry Type: Consumer Product
+Current Role: Hardware Engineer
+Functional Area: Board design

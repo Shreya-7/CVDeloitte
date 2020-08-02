@@ -1,0 +1,25 @@
+Testing Engineer (Kolkata)
+We are looking for a QA Tester to assess software quality through manual and automated testing. You will be responsible for reporting bugs and glitches.
+Location:
+Kolkata
+Job Responsibilities:
+Review and analyze system specifications
+Collaborate with QA Engineers to develop effective strategies and test plans
+Execute test cases (manual or automated) and analyze results
+Evaluate product code according to specifications
+Create logs to document testing phases and defects
+Report bugs and errors to development teams
+Help troubleshoot issues
+Conduct post-release/post-implementation testing
+Work with cross-functional teams to ensure quality throughout the software development lifecycle
+Requirements:
+Attention to detail
+Analytical mind and problem-solving aptitude
+Ability to document issues and help developers troubleshoot errors
+The consistent academic record of a minimum 60%
+Education:
+2017/2018 batch of B.E./ B.Tech belonging to CSE / IT / ECE / Computer & Technology / Software Engineering (Full Time)
+Experience:
+1-3 years as a testing engineer
+Salary:
+25,000-35,000

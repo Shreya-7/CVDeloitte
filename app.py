@@ -22,8 +22,8 @@ input_resumes_path = "./data/Test Resumes"
 train_data_path = "./data/Train Data/data.csv"
 html_path = "./data/HTML_Resumes/"
 output_path = "./data/Output/"
-result_path = "./data/Output/Selected Resumes"
-resume_path_input = "./data/Input Resume"
+result_path = "./data/Output/Selected"
+resume_path_input = "./data/Input Resume/"
 test_jobs_path = "./data/Test Jobs/"
 
 #default signup page
@@ -159,13 +159,13 @@ def getresults(filename):
     #if not processed already
     if(obj["filenames"][temp]["processed"]==0):
         print("Processing file..")
+        
         try:
             if(obj["type"]=="Employer"): #job as input
                 parse_resumes(input_resumes_path, html_path, output_path, filepath) 
-                predict_resumes(os.path.join(session["folder_path"], filename))
+                predict_resumes(os.path.join(session["folder_path"], filename), output_path)
             else: #resume as input
-                predict_jobs(resume_path_input, job_corpus_path, test_jobs_path, output_path)
-
+                predict_jobs(resume_path_input, job_corpus_path, test_jobs_path, output_path, filepath)
         except:
             return render_template("error.html", message = "An error occured when processing the file. Please try later.")
 
@@ -177,15 +177,7 @@ def getresults(filename):
         user.update_one({"email": session["person"]["email"]}, {"$set": {"filenames."+temp+".processed": 1}})
 
         #delete all extra files made
-        htmls = os.listdir(html_path)
-        for i in htmls:
-            os.remove(os.path.join(html_path, i))
-
-        selected_resumes = sorted(os.listdir(result_path))
-        for i in selected_resumes:
-            os.remove(os.path.join(result_path, i))
-
-        os.remove("./data/Output/parsed_resume.csv")
+        delete_files(selected_resumes, temp)
     else:
         print("Showing pre-processed results..")
 
@@ -215,6 +207,23 @@ def download(filename):
     return send_from_directory(os.path.join(app.config["UPLOAD_FOLDER"], session["person"]["email"]), filename)
 
 
+def delete_files(selected_resumes, temp):
+    try:
+        htmls = os.listdir(html_path)
+        for i in htmls:
+            os.remove(os.path.join(html_path, i))
 
+        htmls = os.listdir(resume_path_input)
+        for i in htmls:
+            os.remove(os.path.join(resume_path_input, i))
 
+        selected_resumes = sorted(os.listdir(result_path))
+        for i in selected_resumes:
+            os.remove(os.path.join(result_path, i))
+
+        os.remove(resume_path_input+temp+".html")
+        os.remove("./data/Output/parsed_resume.csv")
+        os.remove("./data/Output/selected_jobs.csv")
+    except:
+        return render_template("error.html", message = "An error occured when processing the file. Please try later.")
 

@@ -20,11 +20,12 @@ def parse_resumes(input_resumes_path, html_path, output_path, job_path):
     data = util.resume_details_extraction(resume_text, job_path)
     pd.DataFrame(data).to_csv(parsed_resume_path)
 
-def predict_resumes(job_desc_path):
+def predict_resumes(job_desc_path, output_path):
     print("Job description path: ", job_desc_path)
     xgb = xgboost.XGBClassifier()
     
-    job_desc_path = job_desc_path[:-3] + 'json'
+    temp, extension = os.path.splitext(job_desc_path)
+    job_desc_path = temp + '.json'
     
 
     with open(job_desc_path, 'r') as fp:
@@ -74,4 +75,4 @@ def predict_resumes(job_desc_path):
         if test_y[i] == 'Yes':
             pdf_name = test_dict[i]['pdf_name']
             #print(pdf_name, "selected, pdf being saved in ./data/Output/Selected Resumes")
-            copyfile(resume_path+pdf_name, './data/Output/Selected Resumes/'+pdf_name)
+            copyfile(resume_path+pdf_name, output_path + "/"+pdf_name)

@@ -21,7 +21,7 @@ def parse_resumes(input_resumes_path, html_path, output_path, job_path):
     pd.DataFrame(data).to_csv(parsed_resume_path)
 
 def predict_resumes(job_desc_path):
-    print(job_desc_path)
+    print("Job description path: ", job_desc_path)
     xgb = xgboost.XGBClassifier()
     
     job_desc_path = job_desc_path[:-3] + 'json'
@@ -40,7 +40,7 @@ def predict_resumes(job_desc_path):
             new_keys.append(keys[i])
     keys = new_keys
 
-    print(keys)
+    print("Keys: ", keys)
 
     if os.path.exists(model_path):
     

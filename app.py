@@ -14,8 +14,7 @@ app.secret_key = "lol"
 app.config["UPLOAD_FOLDER"] = "./files"
 app.config['MAX_CONTENT_LENGTH'] = 4*1024*1024
 
-#client = MongoClient(os.getenv("DELOITTE_DB"))
-client = MongoClient("mongodb+srv://Shreya:yll8IlpaMYqDfvx9@cvd.xjnmg.mongodb.net/test")
+client = MongoClient(os.getenv("DELOITTE_DB"))
 user = client["users"]["user_details"]
 
 job_corpus_path = "./data/CORPUS.json"
@@ -109,7 +108,11 @@ def upload():
 
     if request.method == 'POST':
         f = request.files['file']
+        temp, extension = os.path.splitext(f.filename)
         #saving file to user folder
+        obj = user.find_one({"email": session["person"]["email"]}, {"filenames": 1})
+        if(temp in obj["filenames"].keys()):
+            return render_template("error.html", message="You have already uploaded this file. Please check your file history :)")
         f.save(os.path.join(session["folder_path"],f.filename))
         #saving file to processing folder
         copyfile(os.path.join(session["folder_path"],f.filename), os.path.join(resume_path_input, f.filename))
@@ -117,7 +120,6 @@ def upload():
         session["current_file"] = f.filename
 
         #save to document - filename and json filename
-        temp, extension = os.path.splitext(f.filename)
         jsonfile = temp+".json" #can be queried
         user.update_one({"email": session["person"]["email"]}, {"$set": { "filenames."+temp: {"extension": extension,"json": jsonfile, "results": [], "processed": 0}}})
         
@@ -142,7 +144,7 @@ def getresults(filename):
     if("person" not in session.keys()): #if not logged in
         return redirect("/")
 
-    obj = user.find_one({"email": session["person"]["email"]}, {"filenames": 1})
+    obj = user.find_one({"email": session["person"]["email"]})
     if(filename not in obj["filenames"].keys()): #if file doesnt exist(invalid url)
         return render_template("error.html", message = "Invalid filename.")
 
@@ -156,7 +158,7 @@ def getresults(filename):
 
     #if not processed already
     if(obj["filenames"][temp]["processed"]==0):
-
+        print("Processing file..")
         try:
             if(obj["type"]=="Employer"): #job as input
                 parse_resumes(input_resumes_path, html_path, output_path, filepath) 
@@ -172,7 +174,7 @@ def getresults(filename):
         user.update_one({"email": session["person"]["email"]}, {"$addToSet": {"filenames."+temp+".results": {"$each": selected_resumes}}})
         for i in selected_resumes:
             copyfile(os.path.join(result_path, i), os.path.join(session["folder_path"], i))
-        user.update_one({"email": session["person"]["email"]}, {"$set": {"processed": 1}})
+        user.update_one({"email": session["person"]["email"]}, {"$set": {"filenames."+temp+".processed": 1}})
 
         #delete all extra files made
         htmls = os.listdir(html_path)
@@ -184,7 +186,8 @@ def getresults(filename):
             os.remove(os.path.join(result_path, i))
 
         os.remove("./data/Output/parsed_resume.csv")
-
+    else:
+        print("Showing pre-processed results..")
 
     details = user.find_one({"email": session["person"]["email"]})
 

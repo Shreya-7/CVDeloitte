@@ -1,12 +1,6 @@
 form template - https://codepen.io/KovJonas/pen/BoPOPY
 site template - http://bootstraptaste.com
 
-TBD -
-1. placeholders to labels
-2. duplicate file upload
-3. file processing logic
-
-
 - make csv from resumes json
 - train model 
 - fix encoding issue
@@ -22,6 +16,7 @@ Future improvements -
 3. Editing profile details, password reset
 4. Upload own resume pool 
 5. Accessibility features
+6. delete files
 
 
 

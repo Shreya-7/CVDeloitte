@@ -254,3 +254,5 @@ def delete_files(selected_resumes, temp):
         os.remove("./data/Output/selected_jobs.csv")
     except:
         return render_template("error.html", message="An error occured when processing the file. Please try later.")
+if __name__=="__main__":
+	app.run("0.0.0.0", port=80)

@@ -6,38 +6,38 @@ import re
 import pdftotree
 from bs4 import BeautifulSoup as bs
 import util
+from sklearn.cluster import KMeans
 
 
-def predict_jobs(resume1, job_corpus_path, jobs_folder, output_path, filepath):
+def predict_jobs(resume1, job_corpus_path, output_path, db):
+    jobs = list(db.jobs.find({}, {'_id': False}))
+    resume = json.load(open(resume1, 'r'))
+    r = {}
+    r['name'] = resume1.split('/')[-1]
+    for x, y in resume.items():
+        for z in y:
+            r[z.replace('.', '_')] = 1
+        jobs.append(r)
+    train_data = pd.DataFrame(jobs).fillna(0)
+    cluster = train_kmeans(train_data)
+    df = pd.DataFrame(cluster, columns=['Jobs'])
+    df.to_csv(os.path.join(output_path, 'selected_resumes.csv'))
 
-    resume1=util.html2text(resume1)
 
-    file='resume'+'.txt'
-    file1=open(file,'w')
-    file1.write(resume1[0][0].text)
-    file1.close()
-
-    with open(filepath) as json_file:
-        resume_keys = json.load(json_file)
-
-    jobs = []
-    for i in os.listdir(jobs_folder):
-        try:
-            with open(jobs_folder + i, encoding = 'utf8') as fp:
-                jobs.append(fp.read())
-        except:
+def train_kmeans(data):
+    train_X = data.values[:, 2:]
+    data = data.to_dict('records')
+    km = KMeans(max_iter=128, n_clusters=5)
+    km.fit(train_X)
+    labels = km.labels_
+    cluster = {}
+    for i in range(len(labels[:-1])):
+        if data[i]['path'] == 0:
             continue
-    
-    d = []
-    for i in jobs:
-        d.append(util.match_keywords(i,resume_keys))
-
-    m = []
-    for i in jobs:
-        m.append(i.split('\n')[0])
-
-    p = pd.DataFrame(d)
-    p['Job Name'] = m
-    c = p.set_index('Job Name')
-
-    c.to_csv(os.path.join(output_path, "selected_jobs.csv"))
+        try:
+            cluster[labels[i]].append(
+                str(data[i]['path'])+'/'+str(data[i]['name']))
+        except:
+            cluster[labels[i]] = [
+                str(data[i]['path'])+'/'+str(data[i]['name'])]
+    return cluster[labels[-1]]

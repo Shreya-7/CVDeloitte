@@ -9,15 +9,21 @@ import util
 from sklearn.cluster import KMeans
 
 
-def predict_jobs(resume1, job_corpus_path, output_path, db):
-    jobs = list(db.jobs.find({}, {'_id': False}))
+def predict(resume1, job_corpus_path, output_path, db, typ):
+    if typ == "resumes":
+        search_type = "jobs"
+    else:
+        search_type = "resumes"
+    jobs = list(db[search_type].find({}, {'_id': False}))
     resume = json.load(open(resume1, 'r'))
     r = {}
     r['name'] = resume1.split('/')[-1]
+    r['path'] = resume1.replace(r['name'], '')
     for x, y in resume.items():
         for z in y:
             r[z.replace('.', '_')] = 1
-        jobs.append(r)
+    db[typ].insert_one(r)
+    jobs.append(r)
     train_data = pd.DataFrame(jobs).fillna(0)
     cluster = train_kmeans(train_data)
     df = pd.DataFrame(cluster, columns=['Jobs'])
@@ -27,7 +33,7 @@ def predict_jobs(resume1, job_corpus_path, output_path, db):
 def train_kmeans(data):
     train_X = data.values[:, 2:]
     data = data.to_dict('records')
-    km = KMeans(max_iter=128, n_clusters=5)
+    km = KMeans(max_iter=128, n_clusters=12)
     km.fit(train_X)
     labels = km.labels_
     cluster = {}

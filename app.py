@@ -7,7 +7,7 @@ import json
 
 from util import extract_job_keywords
 from main_prediction import predict_resumes, parse_resumes
-from reverse import predict_jobs
+from reverse import predict
 
 app = Flask(__name__, static_url_path='/static')
 app.secret_key = "lol"
@@ -181,20 +181,18 @@ def getresults(filename):
 
         # try:
         if(obj["type"] == "Employer"):  # job as input
-            parse_resumes(input_resumes_path, html_path,
-                          output_path, filepath)
-            predict_resumes(os.path.join(
-                session["folder_path"], filename), output_path)
+            predict(filepath, job_corpus_path, result_path,
+                    client["users"], "jobs")
         else:  # resume as input
-            predict_jobs(filepath, job_corpus_path,
-                         result_path, client["users"])
+            predict(filepath, job_corpus_path,
+                    result_path, client["users"], "resumes")
         # except:
         #     return render_template("error.html", message="An error occured when processing the file. Please try later.")
 
         # saving results
         selected_resumes = sorted(os.listdir(result_path))
         user.update_one({"email": session["person"]["email"]}, {"$addToSet": {
-                        "filenames."+temp+".results": {"$each": selected_resumes}}})
+                        "filenames."+temp+".results": {"$each": [temp+i for i in selected_resumes]}}})
         for i in selected_resumes:
             copyfile(os.path.join(result_path, i),
                      os.path.join(session["folder_path"], temp+i))
@@ -232,7 +230,9 @@ def history():
 
 @ app.route("/download/<filename>")
 def download(filename):
-    return send_from_directory(os.path.join(app.config["UPLOAD_FOLDER"], session["person"]["email"]), filename)
+    print(os.path.join(app.config["UPLOAD_FOLDER"],
+                       session["person"]["email"]))
+    return send_from_directory(os.path.join(app.config["UPLOAD_FOLDER"], session["person"]["email"]), filename, as_attachment=True)
 
 
 def delete_files(selected_resumes, temp):

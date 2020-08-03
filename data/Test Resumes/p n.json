@@ -1,0 +1,129 @@
+{
+	"NAME": "p n",
+	"ABOUT": "Have valid work permit for Finland And Berlin\n\nFull stack Engineer with experience of 7+ years in Frontend +Backend+big data\n\nI am java certified professional  and I am having below mentioned  certificates \n\u2022\tJava Certified- Oracle certified java developer\n\u2022\tWeb component certified -Oracle Certified Web Component developer\n\nMy experience is vastly distributed across technologies, such as:\n\n\u2022 Backend Solutions\nJava (J2SE/J2EE, JEE), Hibernate,Spring Boot ,Spring Cloud,Spring Mvc,Spring IO Microservices ,Scalable systems,Eureka Netflix OSS ,AWS ,Kafka, Object Store(AWS OS), Amazon web services,EC2,ECS,Fargate ,S3, Cassandra, Maven,Jenkins,Elastic ,Azure cloud,Azure Blob,Search,CouchBase,Memcache,Hibernate,Rest,Soap,TDD,DynmoDb,SQS,\n,WSD,Git,Jenkins,MySql,docker,kubernetes ,Redis, Continous delivery, python,java concurrency, multithreading  \n\n\u2022  Front End Technologies\n    JavaScript, jQuery, Angular 2, Typescript,React ,Es6,npm,web pack, grunt\n\n\u2022 .  Hadoop Ecosystems\n      Spark, scala, hdfs ,Mapreduce,Hadoop,scoop,hive,",
+	"EDUCATION": [],
+	"SKILLS": [
+		"HTML5",
+		"Laravel",
+		"Representational State Transfer (REST)",
+		"scjwcd",
+		"PHP",
+		"Servlets",
+		"Spring Framework",
+		"jQuery UI",
+		"Data Structures",
+		"jQuery",
+		"JavaServer Pages (JSP)",
+		"PL/SQL",
+		"Scrum",
+		"Core Java",
+		"Agile Methodologies",
+		"SOAP",
+		"Hibernate",
+		"JavaScript",
+		"REST",
+		"EJB"
+	],
+	"EXPERIENCE": [
+		{
+			"Company Name": "Morgan Stanley",
+			"Designation": "Manager",
+			"Location": "Bengaluru Area, India",
+			"Start Date": "11/2016",
+			"End Date": "12/2017"
+		},
+		{
+			"Company Name": "Manhattan Associates",
+			"Designation": "R&D software engineer",
+			"Location": "Bengaluru Area, India",
+			"Start Date": "7/2015",
+			"End Date": "11/2016"
+		},
+		{
+			"Company Name": "Atlassian",
+			"Designation": "Staff Software Engineer",
+			"Location": "Bengaluru, Karnataka",
+			"Start Date": "6/2019",
+			"End Date": "1/2020"
+		},
+		{
+			"Company Name": "Microsoft",
+			"Designation": "SDE 2 Azure Compute",
+			"Location": "United States",
+			"Start Date": "1/2020",
+			"End Date": "Present"
+		},
+		{
+			"Company Name": "Tata Consultancy Services",
+			"Designation": "Software Engineer",
+			"Location": "Mumbai Area, India",
+			"Start Date": "10/2013",
+			"End Date": "10/2015"
+		},
+		{
+			"Company Name": "Walmart Labs India",
+			"Designation": "Software Engineer 3",
+			"Location": "Bangalore",
+			"Start Date": "12/2017",
+			"End Date": "9/2019"
+		}
+	],
+	"LICENSES & CERTIFICATION": [
+		{
+			"Authority": "Oracle",
+			"Name": "Oracle Certified Professional, Java SE 8 Programmer II( Sun certified Java Developer)",
+			"Issue Date": "9/2013"
+		},
+		{
+			"Authority": "Oracle",
+			"Name": "Oracle Certified Expert, Java Platform Enterprise Edition 6 Web Services Developer",
+			"Issue Date": "1/2015"
+		},
+		{
+			"Authority": "Oracle",
+			"Name": "Oracle certified web componenet developer",
+			"Issue Date": "12/2014"
+		},
+		{
+			"Authority": "Brainbench",
+			"Name": "Brainbench certified c++ developer",
+			"Issue Date": "8/2013"
+		}
+	],
+	"COURSES COMPLETED": [
+		{ "Name": "brain bench certfied c++ fundamentals", "Description": "NA" },
+		{ "Name": "Sun certified web componenet developer", "Description": "NA" },
+		{ "Name": "Sun certified java professional", "Description": "NA" },
+		{ "Name": "oracle certified web service developer", "Description": "NA" }
+	],
+	"PROJECTS TAKEN": [
+		{
+			"Title of Project": "ORDER MANAGEMENT",
+			"Description": "\nContribution: Micro services using Spring Boot.\nGradle as Building tool.\nNetflix's Eureka for registration and discovery micro services.\nRibbion for client side load balancing.\nZuul for server side load balancing and proxy server.\nSpring REST to comunicate one micro service to another.\nDB interaction using ORM tool \u2013 Spring data JPA andHibernate.\nMysql and h2 (in memory) databases for back end in de v environment.\n\n___ROLES & RESPONSIBILITIES_________\n\u2022\tDevelop Front End modules using angular js \n\u2022\tDevelop middle ware modules using Spring mvc/IO/DI \n\u2022\tSolve complex problems and applying various  algorithm and datastructure  in designing phase of middle ware modules\n\u2022\tDevelop complex multithreading application modules using java concurrency api and Threading\n\u2022\tUse Core java knowledge to develop java based design problems\n\u2022\tUse various design pattern to develop modules \n\u2022\tUsing jira agile methodology to pick up user stories and complete with defined time\n",
+			"Start Date": "6/2015",
+			"End Date": "Present"
+		},
+		{
+			"Title of Project": "PTS",
+			"Description": "Platform -Spring 3 mvc / ioc,Spring Security , Spring Web Flow,Hibernate 4.3,JSP, Servlet,\nClient\t- Tata Capital Financial services \nOther Technologies Used-ANGULAR JS,HTML5,CSS BOOTSTRAP,AJAX\nDatabase- Oracle 11g unix\nTools- Spring Tool Suite, Dream weaver,putty,\n\nProject Tracking system to keep track of records of all the undergoing and completed projects .The projects are verified by Tata Capital to provide loan services to its customers .Technology used under this project is springs mvc with hibernate 4.3 jpa .",
+			"Start Date": "9/2013",
+			"End Date": "9/2013"
+		}
+	],
+	"ORGANISATIONS": [
+		{
+			"Name of Organisation": "Manhattan associates",
+			"Position Held": "r&d software enginner",
+			"Start Date": "3/2014",
+			"End Date": "Present"
+		}
+	],
+	"HONOR & AWARD": [
+		{ "Title": "CODE CHEF LONG RUN", "Issue Date": "3/2016" },
+		{ "Title": "StackOverFlow", "Issue Date": "3/2014" }
+	],
+	"LANGUAGES KNOWN": [
+		{ "Language Name": "English", "Proficiency": "NA" },
+		{ "Language Name": "Hindi", "Proficiency": "NA" }
+	]
+}

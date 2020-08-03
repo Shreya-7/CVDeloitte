@@ -125,9 +125,11 @@ def resume_details_extraction(resume_text, job_path):
 
 
 def extract_job_keywords(input_path, job_corpus_path, html_path, output_path=None):
-    if input_path.split('.')[-1] != 'txt':
+    if input_path.split('.')[-1] in ['pdf', 'docx']:
         html_path = file2html(input_path, html_path)
         raw_job_data = html2text(html_path)
+    elif input_path.split('.')[-1] == 'json':
+        raw_job_data = str(json.load(open(input_path, 'r')))
     else:
         with open(input_path, 'r') as fp:
             raw_job_data = fp.read()

@@ -1,0 +1,83 @@
+{
+	"NAME": "Sanjay Sahu",
+	"ABOUT": "\u2022\tAn IT Professional with 13 years\u2019 experience as Full Stack Developer\n\u2022\tMicrosoft Certified Azure developer and DevOps Engineer\n\u2022\tSystem Design, High level design.\n\u2022\tProficient in C#, Angular, MVC, WCF, WebAPI, Sql Server, Azure, .Net Core, .Net framework, cosmos db\n\u2022\tWeb Technologies : ASP.Net (C#)2.0/3.5/4.0/Core, MVC 3.0/4.0/5.0, Web API, WCF, REST, JSON\n\u2022\tCloud Technologies: ADF, App Service, Service Bus, Cloud Service, CDN, Storage, Redis Cache\n\u2022\tWeb Designing : Bootstrap, HTML5, CSS3, LESS, HTML, DHTML, CSS2\n\u2022\tDBMS : SQL SERVER 2014/2012/2008/2005, NOSQL, MS-ACCESS and ORACLE 8.\n\u2022\tSource Control : VSTS, Team Foundation Server, Git, SVN, Visual Source safe\n\u2022\tTools : MS Visio, MS Project\n\u2022\tScripting Languages: JavaScript, PowerShell, R, VBScript, Python\n\u2022\tJS Library : JQuery, Angular, React, RxJs, Angular JS, NodeJs, Knockout JS, Require, Underscore, React Js\n\u2022\tJS Testing Framework : QUnit, Jasmine, Pavlov, Sinon.JS\n\u2022\tOther : Entity Framework, LINQ to SQL, MSTest, AJAX, Acceptance Test, BDD, CI/CD, Full Stack Developer\n",
+	"EDUCATION": [
+		{
+			"Institute Name": "Uttar Pradesh Technical University",
+			"Degree Name": "Bachelor's degree",
+			"Field of Study": "Computer Science"
+		}
+	],
+	"SKILLS": [
+		"Web Services",
+		"Web Application Development",
+		"Model-View-Controller (MVC)",
+		"ASP.NET",
+		"Azure",
+		"Machine Learning",
+		"SDLC",
+		"Service-Oriented Architecture (SOA)",
+		"ASP.NET MVC",
+		"Microsoft Azure",
+		"Windows Communication Foundation (WCF)",
+		"Requirements Analysis",
+		".NET Framework",
+		"C#",
+		"AngularJS",
+		"Software Project Management",
+		"Microsoft SQL Server",
+		"Agile Methodologies",
+		"SQL",
+		"Design Patterns"
+	],
+	"EXPERIENCE": [
+		{
+			"Company Name": "Microsoft",
+			"Designation": "SDE 2",
+			"Location": "Hyderabad Area, India",
+			"Start Date": "12/2015",
+			"End Date": "Present"
+		},
+		{
+			"Company Name": "HCL Technologies",
+			"Designation": "Project Lead",
+			"Location": "Noida",
+			"Start Date": "9/2011",
+			"End Date": "2/2015"
+		},
+		{
+			"Company Name": "UnitedHealth Group",
+			"Designation": "Project Lead",
+			"Location": "Noida Area, India",
+			"Start Date": "2/2015",
+			"End Date": "12/2015"
+		},
+		{
+			"Company Name": "Dell Perot Systems",
+			"Designation": "SR. Software Engineer",
+			"Location": "NA"
+		}
+	],
+	"LICENSES & CERTIFICATION": [
+		{
+			"Authority": "Microsoft",
+			"Name": "Microsoft Certified: Azure DevOps Engineer Expert",
+			"Issue Date": "5/2019"
+		},
+		{
+			"Authority": "Microsoft",
+			"Name": "Microsoft Certified: Azure Developer Associate",
+			"Issue Date": "5/2019"
+		},
+		{
+			"Authority": "Microsoft",
+			"Name": "Microsoft Certified: Azure Architecture Technologies",
+			"Issue Date": "12/2019"
+		}
+	],
+	"COURSES COMPLETED": [],
+	"PROJECTS TAKEN": [],
+	"ORGANISATIONS": [],
+	"HONOR & AWARD": [],
+	"LANGUAGES KNOWN": []
+}

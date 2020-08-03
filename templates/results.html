@@ -36,19 +36,15 @@
             {% endif %}
         </caption>
         <tbody>
-            {% for k,v in details.filenames.items() %}
-                    {% if(k==current) %}
-                        {% if (v.results is defined) and v.results %}
-                            {% for x in v.results %}
-                                <tr><td>
-                                    <a href="{{ url_for('download', filename=x) }}" target="blank" style="color: black">{{x}}</a>
-                                </td></tr>
-                            {% endfor %}
-                        {% else %}
-                                There have been no matches. 
-                        {% endif %}
-                    {% endif %}              
-            {% endfor %}
+            {% if results|length %}
+                {% for k,v in results.items() %}
+                        <tr><td>
+                            <a href="{{ url_for('download', filename=v) }}" target="blank" style="color: black">{{k}}</a>
+                        </td></tr>           
+                {% endfor %}
+            {% else %}
+                There have been no matches.
+            {% endif %}
         </tbody>
     </table>
 </div>

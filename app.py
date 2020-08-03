@@ -7,6 +7,7 @@ from bson import ObjectId
 from shutil import copyfile
 import os
 import json
+import csv
 from dotenv import load_dotenv
 from gevent.pywsgi import WSGIServer
 load_dotenv()
@@ -28,6 +29,7 @@ output_path = "./data/Output/"
 result_path = "./data/Output/Selected"
 resume_path_input = "./data/Input Resume/"
 test_jobs_path = "./data/Test Jobs/"
+download_path = "./data/Test Resumes/"
 
 # default signup page
 
@@ -209,7 +211,20 @@ def getresults(filename):
 
     details = user.find_one({"email": session["person"]["email"]})
 
-    return render_template("results.html", details=details, json=jsontext, current=temp)
+    result_files = {}
+    csv_path = os.path.join(session["folder_path"], temp+"selected_resumes.csv")
+    with open(csv_path) as csv_file:
+        reader = csv.reader(csv_file, delimiter=",")
+        count = 0
+        for row in reader:
+            path = row[1]
+            if(count==0):
+                count+=1
+                continue
+            file_name, ext = os.path.splitext(path.split("/")[-1])
+            result_files[file_name] = path.split("/")[-1]
+
+    return render_template("results.html", details=details, json=jsontext, current=temp, results = result_files)
 
 
 @ app.route("/logout")
@@ -235,7 +250,8 @@ def history():
 def download(filename):
     print(os.path.join(app.config["UPLOAD_FOLDER"],
                        session["person"]["email"]))
-    return send_from_directory(os.path.join(app.config["UPLOAD_FOLDER"], session["person"]["email"]), filename, as_attachment=True)
+    #return send_from_directory(os.path.join(app.config["UPLOAD_FOLDER"], session["person"]["email"]), filename, as_attachment=True)
+    return send_from_directory(download_path, filename, as_attachment=True)
 
 
 def delete_files(selected_resumes, temp):

@@ -2,3 +2,4 @@
 files/
 data/Input Resume/
 __pycache__/
+*.pyc

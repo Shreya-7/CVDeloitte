@@ -23,6 +23,7 @@ def predict(resume1, job_corpus_path, output_path, db, typ):
         for z in y:
             r[z.replace('.', '_')] = 1
     db[typ].insert_one(r)
+    r.pop('_id')
     jobs.append(r)
     train_data = pd.DataFrame(jobs).fillna(0)
     cluster = train_kmeans(train_data)

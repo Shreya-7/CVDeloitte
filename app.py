@@ -1,3 +1,6 @@
+from reverse import predict
+from main_prediction import predict_resumes, parse_resumes
+from util import extract_job_keywords
 from flask import Flask, render_template, request, session, redirect, url_for, flash, send_from_directory, jsonify
 from pymongo import MongoClient
 from bson import ObjectId
@@ -8,10 +11,6 @@ from dotenv import load_dotenv
 from gevent.pywsgi import WSGIServer
 load_dotenv()
 
-
-from util import extract_job_keywords
-from main_prediction import predict_resumes, parse_resumes
-from reverse import predict
 
 app = Flask(__name__, static_url_path='/static')
 app.secret_key = "lol"
@@ -258,6 +257,9 @@ def delete_files(selected_resumes, temp):
         os.remove("./data/Output/selected_jobs.csv")
     except:
         return render_template("error.html", message="An error occured when processing the file. Please try later.")
-if __name__=="__main__":
-	http_server = WSGIServer(('0.0.0.0',80),app)
-	http_server.serve_forever()
+
+
+if __name__ == "__main__":
+    http_server = WSGIServer(('0.0.0.0', 5000), app)
+    http_server.serve_forever()
+    # app.run("0.0.0.0", port=5000, debug=True)

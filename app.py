@@ -4,7 +4,10 @@ from bson import ObjectId
 from shutil import copyfile
 import os
 import json
+from dotenv import load_dotenv
 from gevent.pywsgi import WSGIServer
+load_dotenv()
+
 
 from util import extract_job_keywords
 from main_prediction import predict_resumes, parse_resumes

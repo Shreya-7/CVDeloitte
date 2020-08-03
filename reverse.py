@@ -15,6 +15,7 @@ def predict(resume1, job_corpus_path, output_path, db, typ):
     else:
         search_type = "resumes"
     jobs = list(db[search_type].find({}, {'_id': False}))
+    print(len(jobs))
     resume = json.load(open(resume1, 'r'))
     r = {}
     r['name'] = resume1.split('/')[-1]

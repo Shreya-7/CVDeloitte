@@ -15,3 +15,51 @@ Traceback (most recent call last):
     from pymongo import MongoClient
 ModuleNotFoundError: No module named 'pymongo'
 
+Traceback (most recent call last):
+  File "app.py", line 264, in <module>
+    http_server.serve_forever()
+  File "/usr/local/lib/python3.6/dist-packages/gevent/baseserver.py", line 398, in serve_forever
+    self.start()
+  File "/usr/local/lib/python3.6/dist-packages/gevent/baseserver.py", line 336, in start
+    self.init_socket()
+  File "/usr/local/lib/python3.6/dist-packages/gevent/pywsgi.py", line 1500, in init_socket
+    StreamServer.init_socket(self)
+  File "/usr/local/lib/python3.6/dist-packages/gevent/server.py", line 180, in init_socket
+    self.socket = self.get_listener(self.address, self.backlog, self.family)
+  File "/usr/local/lib/python3.6/dist-packages/gevent/server.py", line 192, in get_listener
+    return _tcp_listener(address, backlog=backlog, reuse_addr=cls.reuse_addr, family=family)
+  File "/usr/local/lib/python3.6/dist-packages/gevent/server.py", line 288, in _tcp_listener
+    sock.bind(address)
+PermissionError: [Errno 13] Permission denied: ('0.0.0.0', 80)
+Traceback (most recent call last):
+  File "app.py", line 264, in <module>
+    http_server.serve_forever()
+  File "/usr/local/lib/python3.6/dist-packages/gevent/baseserver.py", line 398, in serve_forever
+    self.start()
+  File "/usr/local/lib/python3.6/dist-packages/gevent/baseserver.py", line 336, in start
+    self.init_socket()
+  File "/usr/local/lib/python3.6/dist-packages/gevent/pywsgi.py", line 1500, in init_socket
+    StreamServer.init_socket(self)
+  File "/usr/local/lib/python3.6/dist-packages/gevent/server.py", line 180, in init_socket
+    self.socket = self.get_listener(self.address, self.backlog, self.family)
+  File "/usr/local/lib/python3.6/dist-packages/gevent/server.py", line 192, in get_listener
+    return _tcp_listener(address, backlog=backlog, reuse_addr=cls.reuse_addr, family=family)
+  File "/usr/local/lib/python3.6/dist-packages/gevent/server.py", line 288, in _tcp_listener
+    sock.bind(address)
+PermissionError: [Errno 13] Permission denied: ('0.0.0.0', 80)
+Traceback (most recent call last):
+  File "app.py", line 264, in <module>
+    http_server.serve_forever()
+  File "/usr/local/lib/python3.6/dist-packages/gevent/baseserver.py", line 398, in serve_forever
+    self.start()
+  File "/usr/local/lib/python3.6/dist-packages/gevent/baseserver.py", line 336, in start
+    self.init_socket()
+  File "/usr/local/lib/python3.6/dist-packages/gevent/pywsgi.py", line 1500, in init_socket
+    StreamServer.init_socket(self)
+  File "/usr/local/lib/python3.6/dist-packages/gevent/server.py", line 180, in init_socket
+    self.socket = self.get_listener(self.address, self.backlog, self.family)
+  File "/usr/local/lib/python3.6/dist-packages/gevent/server.py", line 192, in get_listener
+    return _tcp_listener(address, backlog=backlog, reuse_addr=cls.reuse_addr, family=family)
+  File "/usr/local/lib/python3.6/dist-packages/gevent/server.py", line 288, in _tcp_listener
+    sock.bind(address)
+PermissionError: [Errno 13] Permission denied: ('0.0.0.0', 80)

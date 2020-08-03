@@ -1,54 +1,48 @@
-{% extends "base_header.html" %}
-{% block body %}
+{% extends "base_header.html" %} {% block body %}
 
 <h4>Showing results for {{current}}</h4>
-<div class="table-responsive table-hover table-striped table-bordered" style="background-color: white">
-    <table class="table">
-        <tbody>
-            {% for k,v in json.items() %}
-            {% if (v is defined) and v %}
-                <tr>
-                    <td style="color: #44BCDD">
-                        <b>{{k|upper}}</b>
-                    </td>
-                    <td style="color: black">
-                        {% for i in v %}
-                            {{i|capitalize}}
-                            {% if not loop.last %}
-                                ,
-                            {% endif %}
-                        {% endfor %}
-                    </td>
-                </tr>  
-            {% endif %}             
-            {% endfor %}
-        </tbody>
-    </table>
+<div
+	class="table-responsive table-hover table-striped table-bordered"
+	style="background-color: white;"
+>
+	<table class="table">
+		<tbody>
+			{% for k,v in json.items() %} {% if (v is defined) and v %}
+			<tr>
+				<td style="color: #44bcdd;">
+					<b>{{k|upper}}</b>
+				</td>
+				<td style="color: black;">
+					{% for i in v %} {{i|capitalize}} {% if not loop.last %} , {% endif %} {% endfor %}
+				</td>
+			</tr>
+			{% endif %} {% endfor %}
+		</tbody>
+	</table>
 </div>
-<div class="table-responsive table-hover table-striped table-bordered" style="background-color: white">
-    <table class="table">
-        <caption style="color:#44BCDD">
-            List of 
-            {% if details.type=="Employer" %}
-                resumes
-            {% else %}
-                jobs
-            {% endif %}
-        </caption>
-        <tbody>
-            {% if results|length %}
-                {% for k,v in results.items() %}
-                        <tr><td>
-                            <a href="{{ url_for('download', filename=v) }}" target="blank" style="color: black">{{k}}</a>
-                        </td></tr>           
-                {% endfor %}
-            {% else %}
-                There have been no matches.
-            {% endif %}
-        </tbody>
-    </table>
+<div
+	class="table-responsive table-hover table-striped table-bordered"
+	style="background-color: white;"
+>
+	<table class="table">
+		<caption style="color: #44bcdd;">
+			List of {% if details.type=="Employer" %} resumes {% else %} jobs {% endif %}
+		</caption>
+		<tbody>
+			{% if results|length %} {% for k,v in results.items() %}
+			<tr>
+				<td>
+					<a
+						href="{{ url_for('download', filename=v['path']+'+'+v['filename']) }}"
+						target="blank"
+						style="color: black;"
+						>{{k}}</a
+					>
+				</td>
+			</tr>
+			{% endfor %} {% else %} There have been no matches. {% endif %}
+		</tbody>
+	</table>
 </div>
 
 {% endblock %}
-
-

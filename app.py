@@ -213,19 +213,23 @@ def getresults(filename):
     details = user.find_one({"email": session["person"]["email"]})
 
     result_files = {}
-    csv_path = os.path.join(session["folder_path"], temp+"selected_resumes.csv")
+    csv_path = os.path.join(
+        session["folder_path"], temp+"selected_resumes.csv")
     with open(csv_path) as csv_file:
         reader = csv.reader(csv_file, delimiter=",")
         count = 0
         for row in reader:
             path = row[1]
-            if(count==0):
-                count+=1
+            if(count == 0):
+                count += 1
                 continue
             file_name, ext = os.path.splitext(path.split("/")[-1])
-            result_files[file_name] = path.split("/")[-1]
+            result_files[file_name] = {}
+            result_files[file_name]['filename'] = path.split('/')[-1]
+            result_files[file_name]['path'] = path.replace(
+                result_files[file_name]['filename'], '').replace('/', '+')
 
-    return render_template("results.html", details=details, json=jsontext, current=temp, results = result_files)
+    return render_template("results.html", details=details, json=jsontext, current=temp, results=result_files)
 
 
 @ app.route("/logout")
@@ -249,10 +253,12 @@ def history():
 
 @ app.route("/download/<filename>")
 def download(filename):
-    print(os.path.join(app.config["UPLOAD_FOLDER"],
-                       session["person"]["email"]))
-    #return send_from_directory(os.path.join(app.config["UPLOAD_FOLDER"], session["person"]["email"]), filename, as_attachment=True)
-    return send_from_directory(download_path, filename, as_attachment=True)
+    # return send_from_directory(os.path.join(app.config["UPLOAD_FOLDER"], session["person"]["email"]), filename, as_attachment=True)
+    finalfile = filename.split('+')[-1]
+    path = filename.replace(finalfile, '').replace('+', '/')
+    print(path)
+    print(finalfile)
+    return send_from_directory(path, finalfile, as_attachment=True)
 
 
 def delete_files(selected_resumes, temp):
@@ -279,5 +285,4 @@ def delete_files(selected_resumes, temp):
 if __name__ == "__main__":
     # http_server = WSGIServer(('0.0.0.0', 80), app)
     # http_server.serve_forever()
-    app.run("0.0.0.0", port=80, debug=True)
-
+    app.run("0.0.0.0", port=5000, debug=True)

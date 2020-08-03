@@ -1,3 +1,4 @@
+
 from reverse import predict
 from main_prediction import predict_resumes, parse_resumes
 from util import extract_job_keywords
@@ -262,4 +263,5 @@ def delete_files(selected_resumes, temp):
 if __name__ == "__main__":
     # http_server = WSGIServer(('0.0.0.0', 80), app)
     # http_server.serve_forever()
-    app.run("0.0.0.0", port=5000, debug=True)
+    app.run("0.0.0.0", port=80, debug=True)
+

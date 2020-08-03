@@ -1,4 +1,4 @@
 .env
 files/
-data/Input Resume
-__pycache__
+data/Input Resume/
+__pycache__/

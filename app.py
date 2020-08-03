@@ -4,6 +4,7 @@ from bson import ObjectId
 from shutil import copyfile
 import os
 import json
+from gevent.pywsgi import WSGIServer
 
 from util import extract_job_keywords
 from main_prediction import predict_resumes, parse_resumes
@@ -255,4 +256,5 @@ def delete_files(selected_resumes, temp):
     except:
         return render_template("error.html", message="An error occured when processing the file. Please try later.")
 if __name__=="__main__":
-	app.run("0.0.0.0", port=80)
+	http_server = WSGIServer(('0.0.0.0',80),app)
+	http_server.serve_forever()
